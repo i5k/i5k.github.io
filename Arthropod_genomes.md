@@ -15,8 +15,8 @@ Last check June 15, 2016
 |6.| Heliconius pardalinus| Heliconius pardalinus sergestus overview| Kingdom: Eukaryota| Chromosomes: no data| Genome ID: 42296|
 |7.| Heliconius cydno| Heliconius cydno overview| Kingdom: Eukaryota| Chromosomes: no data| Genome ID: 10843|
 |8.| Heliconius ethilla| Heliconius ethilla aerotome overview| Kingdom: Eukaryota| Chromosomes: no data| Genome ID: 42293|
-|9.| unclassified Sarcophagidae| Sarcophagidae sp.| BV-2014 overview| Kingdom: Eukaryota| Chromosomes: no data| Genome ID: 40370|
-|10.| Unclassified Trichoceridae| Trichoceridae sp.| BV-2014 overview| Kingdom: Eukaryota| Chromosomes: no data| Genome ID: 38278|
+|9.| unclassified Sarcophagidae, Sarcophagidae sp.| BV-2014 overview| Kingdom: Eukaryota| Chromosomes: no data| Genome ID: 40370|
+|10.| Unclassified Trichoceridae, Trichoceridae sp.| BV-2014 overview| Kingdom: Eukaryota| Chromosomes: no data| Genome ID: 38278|
 |11.| Heliconius ismenius| Heliconius ismenius RefSeq Genome| Kingdom: Eukaryota| Chromosomes: no data| Genome ID: 36108|
 |12.| Heliconius hecale| Heliconius hecale RefSeq Genome| Kingdom: Eukaryota| Chromosomes: no data| Genome ID: 33769|
 |13.| Ceratosolen solmsi| Ceratosolen solmsi overview| Kingdom: Eukaryota| Chromosomes: no data| Genome ID: 23331|
@@ -104,7 +104,7 @@ Last check June 15, 2016
 |95.| Anopheles nili| Anopheles nili overview| Kingdom: Eukaryota| Chromosomes: no data| Genome ID: 17525|
 |96.| Bactrocera oleae| Bactrocera oleae overview| Kingdom: Eukaryota| Chromosomes: no data| Organelles: 1| Genome ID: 17298|
 |97.| Ladona fulva| Ladona fulva overview| Kingdom: Eukaryota| Chromosomes: no data| Genome ID: 17240|
-|98.| Anopheles farauti No.| 4| Anopheles farauti 4 overview| Kingdom: Eukaryota| Chromosomes: no data| Genome ID: 17208|
+|98.| Anopheles farauti No. 4| Anopheles farauti 4 overview| Kingdom: Eukaryota| Chromosomes: no data| Genome ID: 17208|
 |99.| Glossina austeni| Glossina austeni overview| Kingdom: Eukaryota| Chromosomes: no data| Genome ID: 16689|
 |100.| Hyalella azteca| Hyalella azteca overview| Kingdom: Eukaryota| Chromosomes: no data| Genome ID: 16496|
 |101.| Polistes canadensis| Polistes canadensis overview| Kingdom: Eukaryota| Chromosomes: no data| Genome ID: 16494|
@@ -216,18 +216,18 @@ Last check June 15, 2016
 |207.| Anopheles stephensi| Mosquito vector of human malaria in Asia and the Middle East| Kingdom: Eukaryota| Chromosomes: no data| Genome ID: 2653|
 |208.| Anopheles darlingi| Mosquito vector of malaria in Mexico and South America| Kingdom: Eukaryota| Chromosomes: no data| Genome ID: 2624|
 |209.| Mayetiola destructor| Mayetiola destructor (Hessian fly) overview| Kingdom: Eukaryota| Chromosomes: no data| Genome ID: 2619|
-|210.| Varroa destructor| Parasitic mite of domesticated honey bee| Apis mellifera| Kingdom: Eukaryota| Chromosomes: no data| Genome ID: 937|
+|210.| Varroa destructor| Parasitic mite of domesticated honey bee, Apis mellifera| Kingdom: Eukaryota| Chromosomes: no data| Genome ID: 937|
 |211.| Diaphorina citri| The Asian citrus psyllid is a widely distributed citrus pest in southern Asia and other regions| Kingdom: Eukaryota| Chromosomes: no data| Genome ID: 867|
 |212.| Melitaea cinxia| A medium sized orange, black and white "checkerspot" butterfly inhabiting open meadows| Kingdom: Eukaryota| Chromosomes: no data| Organelles: 1| Genome ID: 814|
-|213.| Strigamia maritima| Strigamia maritima is a centipede and a member of the Myriapoda| a large group that includes both centipedes and millipedes| Kingdom: Eukaryota| Chromosomes: no data| Genome ID: 790|
-|214.| Limulus polyphemus| An arthropod, commonly known as the horseshoe crab| lives on the shores of the Atlantic Coast| Kingdom: Eukaryota| Chromosomes: no data| Organelles: 1| Genome ID: 787|
-|215.| Nasonia longicornis| Parasitoid wasps are natural enemies of many arthropods| including houseflies| Kingdom: Eukaryota| Chromosomes: no data| Genome ID: 760|
-|216.| Nasonia giraulti| Parasitoid wasps are natural enemies of many arthropods| including houseflies| Kingdom: Eukaryota| Chromosomes: no data| Genome ID: 759|
+|213.| Strigamia maritima| Strigamia maritima is a centipede and a member of the Myriapoda, a large group that includes both centipedes and millipedes| Kingdom: Eukaryota| Chromosomes: no data| Genome ID: 790|
+|214.| Limulus polyphemus| An arthropod, commonly known as the horseshoe crab, lives on the shores of the Atlantic Coast| Kingdom: Eukaryota| Chromosomes: no data| Organelles: 1| Genome ID: 787|
+|215.| Nasonia longicornis| Parasitoid wasps are natural enemies of many arthropods, including houseflies| Kingdom: Eukaryota| Chromosomes: no data| Genome ID: 760|
+|216.| Nasonia giraulti| Parasitoid wasps are natural enemies of many arthropods, including houseflies| Kingdom: Eukaryota| Chromosomes: no data| Genome ID: 759|
 |217.| Lutzomyia longipalpis| The sand fly Lutzomyia longipalpis is a vector for human diseases| Kingdom: Eukaryota| Chromosomes: no data| Genome ID: 758|
 |218.| Ixodes scapularis| the black-legged tick Ixodes scapularis is the vector for the Lyme disease spirochete Borrelia burgdorferi| Kingdom: Eukaryota| Chromosomes: no data| Genome ID: 523|
-|219.| Nasonia vitripennis| Parasitoid wasps are natural enemies of many arthropods| including houseflies| Kingdom: Eukaryota| Chromosomes: 5| Genome ID: 449|
-|220.| Acyrthosiphon pisum| The pea aphid uses field peas| alfalfa and clover as its main hosts| Kingdom: Eukaryota| Chromosomes: no data| Organelles: 1| Genome ID: 448|
-|221.| Rhodnius prolixus| Insect vector for Trypanosoma cruzi| the causative agent of Chagas' disease| Kingdom: Eukaryota| Chromosomes: no data| Genome ID: 447|
+|219.| Nasonia vitripennis| Parasitoid wasps are natural enemies of many arthropods, including houseflies| Kingdom: Eukaryota| Chromosomes: 5| Genome ID: 449|
+|220.| Acyrthosiphon pisum| The pea aphid uses field peas, alfalfa and clover as its main hosts| Kingdom: Eukaryota| Chromosomes: no data| Organelles: 1| Genome ID: 448|
+|221.| Rhodnius prolixus| Insect vector for Trypanosoma cruzi, the causative agent of Chagas' disease| Kingdom: Eukaryota| Chromosomes: no data| Genome ID: 447|
 |222.| Culex quinquefasciatus| Mosquito that is a vector for Western Nile Virus| Kingdom: Eukaryota| Chromosomes: no data| Genome ID: 393|
 |223.| Daphnia pulex| The water flea is a small crustacean commonly found in shallow ponds| Kingdom: Eukaryota| Chromosomes: no data| Genome ID: 288|
 |224.| Drosophila sechellia| The fruit fly Drosophila sechellia is a member of the melanogaster group of the subgenus Sophophora| Kingdom: Eukaryota| Chromosomes: no data| Organelles: 1| Genome ID: 271|
@@ -241,7 +241,7 @@ Last check June 15, 2016
 |232.| Tribolium castaneum| The red flour beetle is a common insect that feeds on stored grains| Kingdom: Eukaryota| Chromosomes: 10| Organelles: 1| Genome ID: 216|
 |233.| Drosophila simulans| The fruit fly Drosophila simulans is a member of the melanogaster group of the subgenus Sophophora| Kingdom: Eukaryota| Chromosomes: 6| Organelles: 1| Genome ID: 200|
 |234.| Drosophila yakuba| The fruit fly Drosophila yakuba is a member of the melanogaster group of the subgenus Sophophora| Kingdom: Eukaryota| Chromosomes: 6| Organelles: 1| Genome ID: 148|
-|235.| Bombyx mori| Pheromones were initially identified in silkworms| which are now studied for silk quality improvement| Kingdom: Eukaryota| Chromosomes: no data| Organelles: 1| Genome ID: 76|
-|236.| Drosophila melanogaster| This fruit fly has lead the way as a model organism in the study of genetics| development and disease| Kingdom: Eukaryota| Chromosomes: 7| Organelles: 1| Genome ID: 47|
+|235.| Bombyx mori| Pheromones were initially identified in silkworms, which are now studied for silk quality improvement| Kingdom: Eukaryota| Chromosomes: no data| Organelles: 1| Genome ID: 76|
+|236.| Drosophila melanogaster| This fruit fly has lead the way as a model organism in the study of genetics, development and disease| Kingdom: Eukaryota| Chromosomes: 7| Organelles: 1| Genome ID: 47|
 |237.| Aedes albopictus| The container-inhabiting asian tiger mosquito is a vector for dengue viruses| Kingdom: Eukaryota| Chromosomes: no data| Genome ID: 45|
 |238.| Aedes aegypti| The mosquito vector for dengue and yellow fever| Kingdom: Eukaryota| Chromosomes: no data| Genome ID: 44|
