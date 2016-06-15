@@ -1,3 +1,10 @@
+---
+title: Arthropod genomes available at NCBI
+---
+
+Last check June 15, 2016
+=====
+
 |#|Genus species|Overview|Kingdom|Chromosome|GenomeID|
 |--|---------------------|------------------------------|-------------------|---------------------|-----------------|
 |1.| Heliconius melpomene| Heliconius melpomene overview| Kingdom: Eukaryota| Chromosomes: no data| Genome ID: 10844|
