@@ -6,7 +6,7 @@ Last check June 15, 2016
 =====
 
 |#|Genus species|Overview|Kingdom|Chromosome|GenomeID|
-|--|---------------------|------------------------------|-------------------|---------------------|-----------------|
+|---|---|---|---|---|---|
 |1.| Heliconius melpomene| Heliconius melpomene overview| Kingdom: Eukaryota| Chromosomes: no data| Genome ID: 10844|
 |2.| Heliconius timareta| Heliconius timareta overview| Kingdom: Eukaryota| Chromosomes: no data| Genome ID: 15536|
 |3.| Heliconius numata| Heliconius numata overview| Kingdom: Eukaryota| Chromosomes: no data| Genome ID: 12823|
