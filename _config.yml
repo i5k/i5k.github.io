@@ -8,14 +8,14 @@
 # Site Settings
 locale                   : "en-US"
 #title                    : "Genome Architect"
-title                    : "Apollo"
+title                    : "i5K"
 title_separator          : "-"
-name                     : "Genome Architect"
+name                     : "i5K"
 description              : "Documentation for the Apollo web-based manual biocuration tool."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-gh_repo                  : "https://github.com/genomearchitect/genomearchitect.github.io/"
-teaser                   : ApolloLogo.png # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+gh_repo                  : "https://github.com/i5k/i5k.github.io"
+teaser                   : #ApolloLogo.png # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -36,7 +36,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : "@apollo_bbop"
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -53,7 +53,7 @@ social:
 analytics:
   provider               : false # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : "UA-62921593-1"
+    tracking_id          : #
 
 # Google AdSense
 google_ad_client         :
@@ -65,16 +65,16 @@ author:
 #  name             : "Your Name"
 #  avatar           : "bio-photo.jpg"
 #  bio              : "I am an amazing person."
-  location         : "Berkely, CA"
-  email            : "apollo@lists.lbl.com"
-  uri              : "http://genomearchitect.org"
+  location         :
+  email            :
+  uri              : #"http://genomearchitect.org"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "gmod/apollo"
+  github           :
   google_plus      :
   keybase          :
   instagram        :
@@ -85,7 +85,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@apollo_bbop"
+  twitter          :
   vine             :
   weibo            :
   xing             :

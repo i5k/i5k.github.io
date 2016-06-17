@@ -1,9 +1,14 @@
 ---
 title: Arthropod genomes available at NCBI
+type: single
+permalink: /genomes
+#header:
+#   image: ApolloLogo.png
+#   width: 300
+#   height: 100
+# Last check June 15, 2016
 ---
 
-Last check June 15, 2016
-=====
 
 |#|Genus species|Overview|Chromosome|GenomeID|
 |---|---|---|---|---|---|
