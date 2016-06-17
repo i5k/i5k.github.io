@@ -1,32 +1,7 @@
-# Website for bbop
+### The i5k initiative is a transformative project that aims to sequence and analyze the genomes of 5,000 arthropod species. 
 
-This should be viewed on http://genomearchitect.github.io
+Species selection for i5k is driven by our common goal to better understand arthropod evolution and phylogeny through studies of species known to be important to worldwide agriculture, food safety, medicine, energy production, models in biology, those species most abundant in world ecosystems, and representatives in every branch of insect phylogeny. 
 
-This repo is only for maintainers
+Our initiative is broad and inclusive. We intend to involve scientists from around the world to strengthen our combined research and form partnerships to seek funding from academia, governments, industry, and private sources.
 
-## How-To (for Apollo / BBOP members)
-
-<!--Edit the menu: see _data/sidebar_doc.yml-->
-
-Each page has a permalink at the top under ```_pages``` with a specified layout under ```_layouts``` (default in ```_config.yml```).   
-
-Navigation order and visibility is under ```_data/navigation.yml```
-
-
-Test locally before you push to master:
-
-```
-jekyll serve
-```
-
-You may first need to:
-
-```
-gem install jekyll
-```
-
-#Theme
-
-It is based on [the minimal mistakes theme](https://mmistakes.github.io/minimal-mistakes/)
-
-Additional options are [documented here](https://mmistakes.github.io/minimal-mistakes/docs/utility-classes/).
+# Join us!
