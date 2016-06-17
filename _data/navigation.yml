@@ -1,0 +1,23 @@
+# main links links
+main:
+#  - title: "Main"
+#    url: /main/
+
+  - title: "Demo"
+    url: /demo/
+
+  - title: "Documentation"
+    url: /documentation/
+
+  - title: "Guide"
+    url: /users-guide/
+#    url: /apollo-users-guide/
+
+  - title: "About Us"
+    url: /about/
+
+  - title: "Community"
+    url: /communityservers/
+
+  - title: "Archive"
+    url: /older-apollo/

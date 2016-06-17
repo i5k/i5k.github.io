@@ -1,0 +1,1092 @@
+---
+title: Apollo User's Guide
+type: archive
+permalink: /users-guide/
+logo: 300px-ApolloLogo.png
+---
+<!DOCTYPE html>
+<html lang="en" dir="ltr"
+      xmlns:content="http://purl.org/rss/1.0/modules/content/"
+      xmlns:dc="http://purl.org/dc/terms/"
+      xmlns:sioc="http://rdfs.org/sioc/ns#"
+      xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<!--<head profile="http://www.w3.org/1999/xhtml/vocab">-->
+    <!--<meta charset="utf-8">-->
+    <!--<meta name="viewport" content="width=device-width, initial-scale=1.0">-->
+    <!--<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>-->
+    <!--<meta about="/web_apollo_user_guide" property="sioc:num_replies" content="0" datatype="xsd:integer"/>-->
+    <!--<link rel="shortcut icon" href="sites/genomearchitect.org/files/ApolloLogo-letter-2-small.png" type="image/png"/>-->
+    <!--<meta content="Apollo User Guide" about="/web_apollo_user_guide" property="dc:title"/>-->
+    <!--&lt;!&ndash;<link rel="shortlink" href="node/16" />&ndash;&gt;-->
+    <!--&lt;!&ndash;<meta name="Generator" content="Drupal 7 (http://drupal.org)" />&ndash;&gt;-->
+    <!--<link rel="canonical" href="web_apollo_user_guide"/>-->
+    <!--<title>Apollo User Guide | Web Apollo</title>-->
+    <!--&lt;!&ndash;<style>@import url("http://genomearchitect.org/modules/system/system.base.css?ngaell");</style>&ndash;&gt;-->
+    <!--&lt;!&ndash;<style>@import url("http://genomearchitect.org/modules/field/theme/field.css?ngaell");</style>&ndash;&gt;-->
+    <!--&lt;!&ndash;<style>@import url("sites/all/modules/ctools/css/ctools.css?ngaell");</style>&ndash;&gt;-->
+    <!--<link type="text/css" rel="stylesheet"-->
+          <!--href="http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.min.css" media="all"/>-->
+    <!--&lt;!&ndash;<style>@import url("sites/all/themes/bootstrap/css/overrides.css?ngaell");</style>&ndash;&gt;-->
+    <!--&lt;!&ndash; HTML5 element support for IE6-8 &ndash;&gt;-->
+    <!--&lt;!&ndash;[if lt IE 9]>-->
+    <!--<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>-->
+    <!--<![endif]&ndash;&gt;-->
+    <!--&lt;!&ndash;<script src="sites/all/modules/jquery_update/replace/jquery/1.8/jquery.min.js?v=1.8.2"></script>&ndash;&gt;-->
+    <!--&lt;!&ndash;<script src="http://genomearchitect.org/misc/jquery.once.js?v=1.2"></script>&ndash;&gt;-->
+    <!--&lt;!&ndash;<script src="http://genomearchitect.org/misc/drupal.js?ngaell"></script>&ndash;&gt;-->
+    <!--<script src="http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/js/bootstrap.min.js?ngaell"></script>-->
+    <!--&lt;!&ndash;<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"bootstrap","theme_token":"wU0YZH3E_ZxPc9Ik9e46eutsItfQPTZGvp2gZYexLb0","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.8\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/netdna.bootstrapcdn.com\/twitter-bootstrap\/2.3.2\/js\/bootstrap.min.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"\/\/netdna.bootstrapcdn.com\/twitter-bootstrap\/2.3.2\/css\/bootstrap-combined.min.css":1,"sites\/all\/themes\/bootstrap\/css\/overrides.css":1}}});</script>&ndash;&gt;-->
+<!--</head>-->
+<!--<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-16 node-type-page">-->
+<body></body>
+<!--<div id="skip-link">-->
+<!--<a href="web_apollo_user_guide#main-content" class="element-invisible element-focusable">Skip to main content</a>-->
+<!--</div>-->
+<!--<header id="navbar" role="banner" class="navbar navbar-fixed-top">-->
+<!--<div class="navbar-inner">-->
+<!--<div class="container">-->
+<!--&lt;!&ndash; .btn-navbar is used as the toggle for collapsed navbar content &ndash;&gt;-->
+<!--<a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">-->
+<!--<span class="icon-bar"></span>-->
+<!--<span class="icon-bar"></span>-->
+<!--<span class="icon-bar"></span>-->
+<!--</a>-->
+
+<!--<a class="logo pull-left" href="index.html" title="Home">-->
+<!--<img src="sites/genomearchitect.org/files/ApolloLogo-letter-2-small_0.png" alt="Home" />-->
+<!--</a>-->
+<!---->
+<!---->
+<!--<div class="nav-collapse collapse">-->
+<!--<nav role="navigation">-->
+<!--<ul class="menu nav"><li class="first leaf"><a href="index.html">Home</a></li>-->
+<!--<li class="leaf"><a href="downloads" title="Download Web Apollo">Downloads</a></li>-->
+<!--<li class="leaf"><a href="documentation">Documentation</a></li>-->
+<!--<li class="last leaf"><a href="about-us" title="Development">About Us</a></li>-->
+<!--</ul>                                              </nav>-->
+<!--</div>-->
+<!--</div>-->
+<!--</div>-->
+<!--</header>-->
+
+<!--<div class="main-container container">-->
+
+<!--&lt;!&ndash;<header role="banner" id="page-header">&ndash;&gt;-->
+<!--&lt;!&ndash;&ndash;&gt;-->
+<!--&lt;!&ndash;</header> &lt;!&ndash; /#header &ndash;&gt;&ndash;&gt;-->
+
+<!--<div class="row-fluid">-->
+
+<!---->
+
+<!--<section class="span12">  -->
+<!--<ul class="breadcrumb"><li><a href="index.html">Home</a></li></ul>      <a id="main-content"></a>-->
+<!--<h1 class="page-header">Apollo User Guide</h1>-->
+<!---->
+<!--<article id="node-16" class="node node-page clearfix" about="/web_apollo_user_guide" typeof="foaf:Document">-->
+
+
+<!--<header>-->
+<!---->
+<!--</header>-->
+
+<div class="field field-name-body field-type-text-with-summary field-label-hidden">
+    <div class="field-items">
+        <div class="field-item even" property="content:encoded"><h4> This guide allows users to:</h4>
+            <ul>
+                <li>Become familiar with the environment of the Web Apollo
+                    annotation tool
+                </li>
+                <li>Understand Web Apollo’s functionality for the process of manual
+                    annotation.
+                </li>
+                <li>Learn to corroborate and modify computationally predicted gene
+                    models using all available gene predictions and biological evidence
+                    using Web Apollo.
+                </li>
+            </ul>
+
+            </br>
+
+            <h4>Table of Contents</h4>
+            <div id="navPage">
+                <ul>
+                    <li><a href="#general">1. General Process of Manual Annotation</a></li>
+                    <li><a href="#evdemo">2. Evidence Provided in the Public Demo</a></li>
+                    <li><a href="#recon">3. Initial Reconnaissance and Adjustments</a></li>
+                    <li><a href="#annotate">4. Annotating a Gene</a></li>
+                    <li><a href="#ncregions">5. Annotating Repeat Regions, Transposable Elements,
+                        and Non-coding (nc) RNAs.</a></li>
+                    <li><a href="#infoeditor">6. The Information Editor</a></li>
+                    <li><a href="#saving">7. (No need for) Saving your Annotations</a></li>
+                    <li><a href="#export">8. Exporting Data</a></li>
+                    <li><a href="#moreinfo">9. Additional Information About Web Apollo</a></li>
+                </ul>
+            </div>
+            </br>
+
+            <div class="block">
+                <h3>I. GENERAL INFORMATION</h3>
+
+                <h4 id="general">1. General Process of Manual Annotation</h4>
+
+                <p>The major steps of manual annotation using Web Apollo can be
+                    sumarized as follows:</p>
+                <ol>
+                    <li>locate a chromosomal region of interest</li>
+                    <li>determine whether a feature in an existing evidence track provides a reasonable gene model to
+                        start annotating
+                    </li>
+                    <li>drag the selected feature to the ‘User Annotation’area, creating an initial gene model</li>
+                    <li>use editing functions to edit the gene model if necessary</li>
+                    <li>check your edited gene model for consistency with existing
+                        homologs by exporting the fasta formatted sequence and searching a
+                        protein sequence database, such as UniProt or the NCBI Non Redundant (NR) database, and
+                    </li>
+                    <li>conducting preliminary functional assignments using the Gene Ontology (GO) database.</li>
+                </ol>
+
+                <p>When annotating gene models using Web Apollo, remember that you
+                    are looking at a ‘frozen’ version of the genome assembly, and this
+                    means you will not be able to modify the assembled genome sequence itself.</p>
+
+                </br>
+
+                <h4 id="evdemo">2. Evidence Provided in the Public Demo</h4>
+
+                <p>The <a href="WebApolloDemo.1" target="blank">Web Apollo Demo</a> was built with the genome of the
+                    honey bee (<em>Apis mellifera</em>).
+
+                <h5>2.1 Evidence in support of protein coding gene models</h5>
+                <p><strong>2.1.1 Consensus Gene Sets:</strong></p>
+                <ul>
+                    <li>Official Gene Set v3.2</li>
+                    <li>Official Gene Set v1.0</li>
+                </ul>
+
+                <p><strong>2.1.2 Consensus Gene Sets comparison:</strong></p>
+                <ul>
+                    <li>OGSv3.2 genes that merge OGSv1.0 genes</li>
+                    <li>OGSv3.2 genes that merge RefSeq genes</li>
+                    <li>OGSv3.2 genes that split OGSv1.0 genes</li>
+                    <li>OGSv3.2 genes that split RefSeq genes</li>
+                </ul>
+
+                <p><strong>2.1.3 Protein Coding Gene Predictions Supported by Biological Evidence:</strong></p>
+
+                <ul>
+                    <li>NCBI Gnomon</li>
+                    <li>Fgenesh++ with RNASeq training data</li>
+                    <li>Fgenesh++ without RNASeq training data</li>
+                    <li>NCBI RefSeq Protein Coding Genes</li>
+                    <li>NCBI RefSeq Low Quality Protein Coding Genes</li>
+                </ul>
+
+                <p><strong>2.1.4 Ab initio protein coding gene predictions:</strong></p>
+                <ul>
+                    <li>Augustus Set 12</li>
+                    <li>Augustus Set 9</li>
+                    <li>Fgenesh</li>
+                    <li>GeneID</li>
+                    <li>N-SCAN</li>
+                    <li>SGP2</li>
+                </ul>
+
+                <p><strong>2.1.5 Transcript Sequence Alignment:</strong></p>
+                <ul>
+                    <li>NCBI ESTs</li>
+                    <li>Apis cerana reads (RNA-Seq)</li>
+                    <li>Forager Bee Brain Illumina Contigs</li>
+                    <li>Nurse Bee Brain Illumina Contigs</li>
+                    <li>Forager RNA-Seq reads</li>
+                    <li>Nurse RNA-Seq reads</li>
+                    <li>Abdomen 454 Contigs</li>
+                    <li>Brain and Ovary 454 Contigs</li>
+                    <li>Embryo 454 Contigs</li>
+                    <li>Larvae 454 Contigs</li>
+                    <li>Mixed Antennae 454 Contigs</li>
+                    <li>Ovary 454 Contigs</li>
+                    <li>Testes 454 Contigs</li>
+                    <li>Forager RNA-Seq HeatMap</li>
+                    <li>Forager RNA-Seq XY Plot</li>
+                    <li>Nurse RNA-Seq HeatMap</li>
+                    <li>Nurse RNA-Seq XY Plot</li>
+                </ul>
+
+                <p><strong>2.1.6 Protein homolog alignment:</strong></p>
+                <ul>
+                    <li>Acep_OGSv1.2</li>
+                    <li>Aech_OGSv3.8</li>
+                    <li>Cflo_OGSv3.3</li>
+                    <li>Dmel_r5.42</li>
+                    <li>Hsal_OGSv3.3</li>
+                    <li>Lhum_OGSv1.2</li>
+                    <li>Nvit_OGSv1.2</li>
+                    <li>Nvit_OGSv2.0</li>
+                    <li>Pbar_OGSv1.2</li>
+                    <li>Sinv_OGSv2.2.3</li>
+                    <li>Znev_OGSv2.1</li>
+                    <li>Metazoa_Swissprot</li>
+                </ul>
+
+                </br>
+
+                <h5>2.2 Evidence in support of non protein coding gene models</h5>
+
+                <p><strong>2.2.1 Non-protein coding gene predictions:</strong></p>
+                <ul>
+                    <li>NCBI RefSeq Noncoding RNA</li>
+                    <li>NCBI RefSeq miRNA</li>
+                </ul>
+
+                <p><strong>2.2.2 Pseudogene predictions:</strong></p>
+                <ul>
+                    <li>NCBI RefSeq Pseudogene</li>
+                </ul>
+
+                </br>
+
+                <h3>II. NAVIGATION</h3>
+
+                <h4 id="recon">3. Initial reconnaissance and adjustments.</h4>
+
+                <h5>3.1 Log in</h5>
+
+                <p>To begin annotating a gene, login to the <a
+                        href="http://genomearchitect.github.io/demo/1">Web Apollo Demo</a></p>
+
+                <p>You may choose to go to the ‘Reference Sequence selection’ screen,
+                    the main entry point for Web Apollo. This page allows users to view
+                    the available reference sequences and perform bulk operations on those
+                    sequences (e.g. exporting data). Alternatively you may jump directly
+                    into edit mode.</p>
+
+                <p>If prompted, use the following credentials:</p>
+                <p>Username | Password: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; demo | demo</p>
+
+                </br>
+
+                <p><strong>3.1.1 Select the Scaffold, Chromosome or Group to Begin your Work</strong></p>
+
+                <p>If you know the identifier of the scaffold (or chromosome, or
+                    group; henceforth referred to as ‘scaffolds’) you wish to work on,
+                    find it under the ‘Name’ list. Scaffolds will be listed in groups of
+                    10, 25, 50 or 100 entries. You may scroll through the options on the
+                    upper left drop-down menu to select your preference and facilitate
+                    your search. The ‘Filter’ box on the upper right allows users to find
+                    their scaffold of interest by entering letters and or numbers from its
+                    identifier. The filter search is not case-sensitive. Once you find the
+                    desired scaffold, click on its highlighted name and the Web Apollo
+                    Main Window will open in a new browser tab.</p>
+
+                </br>
+
+                <p><strong>3.1.2 Search for a specific sequence</strong></p>
+
+                <p> If you do not know the scaffold ID and have the sequence of a
+                    transcript or protein homolog related to your gene of interest, you
+                    might use the ‘Search Sequence’ feature to run a BLAT (BLAST-Like
+                    Alignment Tool) search. Querying the assembled genome using BLAT will
+                    determine the existence of a gene model prediction that is putatively
+                    homologous to your gene of interest. Click the ‘Tools’ item on the Web
+                    Apollo menu bar, and select ‘Sequence Search’ from the dropdown
+                    choices. Choose to run a Protein or Nucleotide BLAT search from the
+                    drop down menu as appropriate, and paste the string of residues to be
+                    used as query. Check the box labeled ‘Search all genomic sequences’ to
+                    search the entire genome.</p>
+
+                <p>The existence of paralogs may cause your query to match more than
+                    one scaffold or genomic range. Select the desired genomic range to be
+                    displayed in the Web Apollo Main Window. The result of your query will
+                    be displayed in the browser window behind the search box, highlighted
+                    in yellow. Close the window when you are satisfied with your
+                    results. You may read more about ‘Highlights’ in section 3.2.</p>
+
+                <p><strong>A word on Blat:</strong></p> Blat of DNA is designed to
+                quickly find sequences of 95% and greater similarity of length 40
+                bases or more, and it may miss more divergent or shorter sequence
+                alignments. On protein, BLAT finds sequences of 80% and greater
+                similarity to the query of length 20+ amino acids. Higher speed at the
+                price of lesser homology depth make Blat a commonly used tool to look
+                up the location of a sequence in the genome or determine the exon
+                structure of an mRNA. <a href="http://genome.cshlp.org/content/12/4/656.abstract. ">Learn more about
+                Blat here</a>.</p>
+
+                </br>
+
+                <h5>3.2 The Web Apollo Main Window</h5>
+
+                <p><strong>Figure 1</strong> shows the Web Apollo annotation
+                    window. The blue bar at the top includes the following functions:</p>
+
+                <ul>
+                    <li>The <em>‘File’</em> tab allows users to add any combination of
+                        data files (e.g. GFF3, BAM, BigWig) and URLs. Web Apollo
+                        automatically suggests tracks to display their contents. It is also
+                        possible to combine the information from quantitative tracks into a
+                        <em>'Combination Track'</em>. Data from tracks containing graphs may be
+                        compared and combined in an additive, subtractive, or divisive
+                        arithmetic operation. The resulting track highlights the differences
+                        between the data. The third option allows users to <em>‘Add sequence
+                            search track’</em>. This tool creates tracks showing regions of the
+                        reference sequence (or its translations) that match a given string
+                        of nucleotides or amino acids residues.
+                    </li>
+                    <li><em>‘View’</em> allows users to color all exons in display
+                        according to CDS frame, and to toggle the view of the plus and minus
+                        strands. It is also possible to <em>'Set highlight'</em> over a region by
+                        selecting this option and marking the region. The highlight option
+                        will automatically be turned <em>'On'</em> when inspecting the
+                        results from a BLAT search. Annotators will also use this menu when
+                        resizing the scale of quantitative tracks.
+                    </li>
+                    <li><em>‘Tools’</em> leads users to perform BLAT searches (see
+                        section 3.1.2).
+                    </li>
+                    <li>The <em>‘Help’</em> tab includes links to a list of helpful
+                        commands for Web Apollo, and details about JBrowse.
+                    </li>
+                    <li>The <em>‘Login’</em> option allows users to enter and exit the
+                        Web Apollo editing tool instance. When logged in, the user name will
+                        be displayed instead of the word <em>‘Login </em>’.
+                    </li>
+                    <li>The URL from the browser window can be shared with collaborators
+                        as a permanent link. Web Apollo will display the visible region,
+                        tracks and highlights that were displayed at the time the URL link
+                        was captured.
+                    </li>
+                </ul>
+
+                <figure align="middle">
+                    <img src="/images/Web_Apollo_User_Guide_Fig1_B.png" width="700" height="430"
+                         alt="Figure 1. The Web Apollo Window" title="The Web Apollo Window"/>
+                    <figcaption align="left"><strong>Figure 1. Web Apollo Annotation
+                        Editor Overview.</strong> This view shows an annotation in
+                        progress. The main interface is similar to JBrowse, with available
+                        tracks displayed as a set of tiles along the left side of the main
+                        panel. To turn a track on or off, click the box in front of the track
+                        title from the column on the left. <strong>A.</strong> The
+                        <em>‘Navigation Panel’</em> runs along the top of the main panel; it
+                        includes arrows to move left and right, and two levels of zooming. The
+                        drop-down box is used to select the group (scaffold or chromosome) for
+                        annotation, and the text-box is used to manually enter its
+                        coordinates. <strong>B.</strong> The <em>‘User-created
+                            Annotations’</em> panel contains the manual
+                        annotations. <strong>C.</strong> The <em>‘Evidence’</em> panel
+                        contains the evidence tracks. Annotators create annotations by first
+                        selecting and dragging a model from the <em>‘Evidence’</em> panel to
+                        the <em>‘User-created Annotations’</em> panel. See more in section
+                        3.2.
+                    </figcaption>
+                </figure>
+
+                </br>
+
+                <p>The <em>‘Navigation Panel’</em> at the top of the window (Fig 1. A)
+                    houses controls for localization within a chromosome or scaffold,
+                    controls to move to a different scaffold, and a button to select and
+                    <em>‘Highlight a region’</em>.</p>
+
+                <p>The light yellow track at the top of the working area is the
+                    <em>‘User-created Annotations’</em> area (Fig 1. B), where users will
+                    drag complete gene models, individual exons, as well as any
+                    non-translated elements to be modified. All transactions performed on
+                    the <em>‘User-created Annotations’</em> area can be reversed with the
+                    <em>‘Undo’</em> and <em>‘Redo’</em> options. The <em>'History'</em> of
+                    all operations performed on each annotation is also available. To display the menu of
+                    options select the annotation in progress and right-click over it.</p>
+
+                <p>A list of <em>‘Available Tracks’</em> is available on the left, and
+                    it is possible to filter the tracks displayed in this list by typing
+                    on the <em>‘filter by text’</em> white box above the track
+                    list. Clicking the box in front of each item in the list of available
+                    tracks will display the track in the <em>‘Evidence’</em> panel (Fig
+                    1. C), allowing visualization data from gene predictions, evidence
+                    sets, and regulatory elements. The track’s label includes a drop-down
+                    menu with options to 1) retrieve information <em>‘About this
+                        track’</em>; 2) an option to <em>‘Pin to top’</em> that leaves the
+                    track displayed at the top of the screen and below the
+                    <em>‘User-created Annotations’</em> track as users scroll down to
+                    inspect other data; 3) the <em>‘Edit config’</em> option to bring up
+                    an editing window and modify the JSON file to configure the track’s
+                    display; and options to 4) <em>‘Delete’</em> the track or 5) <em>‘Save
+                        track data’</em> into GFF3 format. More information about the
+                    available tracks and how the data are processed for display can be
+                    found in the JBrowse Configuration Guide at
+                    http://www.gmod.org/wiki/JBrowse_Configuration_Guide.</p>
+
+                </br>
+
+                <h3>III. ANNOTATION</h3>
+
+                <p>Web Apollo allows annotators to modify and refine the precise
+                    location and structure of the genome elements that predictive
+                    algorithms cannot yet resolve automatically. Using Web Apollo
+                    annotators may corroborate or modify the structures of coding genes,
+                    pseudogenes, repeat regions, transposable elements, and non-coding
+                    RNAs (i.e: snRNA, snoRNA, rRNA, tRNA, and miRNA).</p>
+
+                </br>
+
+                <h4 id="annotate">4. Annotating a gene</h4>
+
+                <h5>4.1 Initiating an annotation</h5>
+
+                <p>If you have not already performed a Blat search to identify your
+                    gene of interest (see section 3.1.2), you may do so at this point
+                    using the <em>‘Sequence search’</em> feature from the <em>‘Tools’</em>
+                    tab on the menu bar. You may also navigate along the scaffold using
+                    the navigation arrows. Your gene of interest may appear on the forward
+                    (sense) or reverse (anti-sense) strand. Gene predictions are labeled
+                    with identifiers, and users may retrieve additional information by
+                    selecting the entire model and using the right-click menu to select
+                    the <em>‘View details’</em> item.</p>
+
+                <p>After locating your gene of interest, add as many gene prediction
+                    and evidence tracks as you consider necessary to inform your
+                    annotation by dragging and dropping them from the list of
+                    <em>‘Available Tracks’</em> on the left. Scroll through the different
+                    tracks of gene predictions and choose one that you consider most
+                    closely reflects the actual structure of the gene. It is also possible
+                    to filter the tracks displayed in this list by typing on the
+                    <em>‘filter by text’</em> box. You may base your decision on prior
+                    knowledge of the reliability of each gene prediction track (e.g.,
+                    select an evidence-based gene model instead of an ab initio gene
+                    prediction). Alternatively, you may compare the gene prediction tracks
+                    to a BLAST alignment or other aligned data (e.g.: alignments of
+                    protein homologs, cDNAs and, RNAseq reads). To highlight your
+                    preferred gene model, double click on any exon or click on one of the
+                    introns to select the entire gene model. You may also choose exons
+                    from two or more separate tracks of evidence. Drag the highlighted
+                    model or all pieces of evidence into the <em>‘User-created Annotations’</em> area.</p>
+
+                <p>At this point you may download the protein sequence (see section
+                    4.3.1) to query a protein database and help you determine if the
+                    selected gene model is, biologically speaking, an accurate
+                    approximation to the gene. For example, you may perform a protein
+                    sequence search of UniProt or NCBI’s non-redundant peptide database,
+                    NR. If you have knowledge of protein domains in your gene of interest,
+                    you may perform a protein domain search of the InterPro databases to
+                    verify that your selected gene model contains the expected domains. If
+                    further investigation suggests that you have not selected the best
+                    gene model to start annotating, delete it by highlighting it (as
+                    above) and using the <em>‘Delete’</em> function from the right-click
+                    menu.</p>
+
+                <p>Once a gene model is selected as the best starting point for
+                    annotation, the annotator must decide whether it needs further
+                    modification. Protein or domain database searches may have already
+                    informed this decision. Scroll down the evidence tracks to see if
+                    splice sites in transcript alignments agree with the selected gene
+                    model, or if evidence suggests addition or modification of an exon is
+                    necessary. Transcript alignments (e.g. cDNA/EST/RNASeq tracks) that
+                    are significantly longer than the gene model may indicate the presence
+                    of additional coding sequence or untranslated regions (UTRs). Keep in
+                    mind that transcript alignments may be shorter than the gene model due
+                    to the fragmented nature of current transcript sequencing
+                    technologies. Similarly, protein alignments may not reflect the entire
+                    length of the coding region because divergent regions may not align
+                    well, resulting in a short protein alignment or one with gaps. Protein
+                    and transcript alignments in regions with tandem, closely related
+                    genes might also be problematic, with partial alignments to one gene,
+                    then skipping over to align the rest to a second gene.</p>
+
+                </br>
+
+                <h5>4.2 Simple Cases</h5>
+
+                <p>In this guide, a <em>‘simple case’</em> occurs when the predicted
+                    gene model is correct or nearly correct, and this model is supported
+                    by evidence that mostly or completely agrees with the
+                    prediction. Evidence that extends beyond the predicted model is
+                    assumed to be non-coding sequence. The following sections describe
+                    simple modifications.</p>
+
+                </br>
+
+                <p><strong>4.2.1 Add UTRs</strong></p>
+
+                <p>Gene predictions may or may not include UTRs. If transcript
+                    alignment data are available and extend beyond your original
+                    annotation, you may add or extend UTRs. To do this, users may
+                    implement edge-matching options to <em>‘Set as 5’ end’</em>, <em>‘Set
+                        as 3’ end’</em>, or <em>‘Set as both ends’</em> from the right-click
+                    menu. To use these options, select the exon that needs to be extended,
+                    then keep the ‘Shift’ key down as you select the exon from the track
+                    of evidence displaying the expected UTR (given the evidence), then use
+                    the right click menu to choose the appropriate option to extend to the
+                    desired UTR. Alternatively this operation can be performed manually by
+                    positioning the cursor at the edge of the exon that needs to be
+                    extended, then using the right-click to display the menu and choosing
+                    the <em>‘Zoom to base level’</em> option. Place the cursor over the
+                    edge of the exon (5’ or 3’ end exon as needed) until it becomes a
+                    black arrow (Fig. 2), then click and drag the edge of the exon to the
+                    new coordinate position that includes the UTR. To add a new, spliced
+                    UTR to an existing annotation follow the procedure for adding an exon,
+                    as detailed in section 4.3.3.</p>
+
+                </br>
+
+                <p><strong>4.2.2 Exon Structure Integrity</strong></p>
+
+                <p>Zoom in sufficiently to clearly resolve each exon as a distinct
+                    rectangle. When two exons from different tracks share the same start
+                    and/or end coordinates, a red bar appears at the edge of the
+                    exon. Visualize this edge-matching function by either selecting the
+                    whole annotation or one exon at a time. Scrolling along the length of
+                    the annotation exon boundaries may be verified against available EST
+                    data. Use the square bracket keys <strong>[</strong> and
+                    <strong>]</strong> to jump to the next exon splice junction or coding
+                    sequence (CDS). The curly bracket keys <strong>{</strong> and
+                    <strong>}</strong> allow users to jump to the next transcript. Check
+                    whether there are any ESTs or transcript data contigs, or any RNASeq
+                    reads showing evidence that one or more of the annotated exons are
+                    missing, or include additional exons.</p>
+
+                <p>To correct an exon boundary to match data in the evidence tracks
+                    use the edge-matching options from the right-click menu as described
+                    in 4.2.1. Alternatively you may <em>‘Zoom to base level'</em>, click
+                    on the exon to select it and place the cursor over the edge of the
+                    exon; when the cursor changes to an arrow, drag the edge of the exon
+                    to the desired new coordinates.</p>
+
+                <p>In some cases all the data may disagree with the annotation, in
+                    other cases some data support the annotation and some of the data
+                    support one or more alternative transcripts. Try to annotate as many
+                    alternatives transcripts as the evidence data support.</p>
+
+                </br>
+
+                <!--<figure align="middle">-->
+                <center>
+                    <img src="/images/Web_Apollo-User_Guide_Fig2.jpg" width="300" height="210"
+                         alt="Zoomed to base level"/>
+                    <br>
+                    <br>
+                    <!--<figcaption align="left">-->
+                    <strong>Figure 2. Apollo View zoomed to base
+                        level.</strong> The DNA track and annotation track are visible. The
+                    DNA track includes the sense strand (top) and anti-sense strand
+                    (bottom). The six reading frames flank the DNA track, with the three
+                    forward frames above and the three reverse frames below. The
+                    ‘User-created Annotation’ track shows the terminal end of an
+                    annotation. The green rectangle highlights the location of the
+                    nucleotide residues in the ‘Stop’ signal.
+                    <!--</figcaption>-->
+                    <!--</figure>-->
+                </center>
+
+                </br>
+
+                <p><strong>4.2.3 Splice Sites</strong></p>
+
+                <p>In most Eukaryotes the majority of splice sites at the exon/intron
+                    boundaries appear as <strong>5’-…exon]GT/AG[exon…-3’</strong>. All
+                    other splice sites are here called <em>‘non-canonical’</em> and are
+                    indicated in Web Apollo with an orange circle with a white exclamation
+                    point inside, placed over the edge of the offending exon. When
+                    alternative transcripts are added, be sure to inspect each splice
+                    transcript to check for any changes that the changes.</p>
+
+                <p>If a non-canonical splice site is present, zoom to base level to
+                    review it. Not all non-canonical splice sites must be corrected, and
+                    in such cases they should be flagged with the appropriate
+                    comment. (Adding a <em>‘Comment’</em> is addressed in Section
+                    5). Prior knowledge about the organism of interest may help the user
+                    decide whether a predicted non-canonical splice site is likely to be
+                    real. For instance, GC splice donors have been observed in many
+                    organisms, but less frequently than the GT splice donors described
+                    above. As mentioned above Web Apollo flags GC splice donors as
+                    non-canonical. To further complicate the problem, splice sites that
+                    are non-canonical, but found in nature, such as GC donors, may not be
+                    recognized by some gene prediction algorithms. In such cases a gene
+                    prediction algorithm that does not recognize GC splice donors may have
+                    ignored a true GC donor and selected another non-canonical splice site
+                    that is less frequently observed in nature. Therefore, if a
+                    non-canonical splice site that is rarely observed in nature is
+                    present, you may wish to search the region for a more frequent
+                    in-frame non-canonical splice site, such as a GC donor. If there is a
+                    close in-frame site that is more likely to be the correct splice
+                    donor, make this adjustment while zoomed at base level. To assist in
+                    the decision to modify a splice site, download the translated
+                    sequences and use them to search well-curated protein databases, such
+                    as UniProt, to see if you can resolve the question using protein
+                    alignments. Incorrect splice sites would likely cause gaps in the
+                    alignments. If there does not appear to be any way to resolve the
+                    non-canonical splice, leave it and add a comment.</p>
+
+                </br>
+
+                <p><strong>4.2.4 <em>'Start'</em> and <em>'Stop'</em> Sites.</strong>
+
+                <p>By default, Web Apollo will calculate the longest possible open
+                    reading frame (ORF) that includes canonical <em>'Start'</em> and
+                    <em>'Stop'</em> signals within the predicted exons. To check for
+                    accuracy of <em>'Start'</em> and <em>'Stop'</em> signals, you may
+                    align the translated sequence to a known protein database, such as
+                    UniProt, to determine whether the ends of the protein sequence
+                    corresponds with those of known proteins.</p>
+
+                <p>If it appears that Web Apollo did not calculate the correct
+                    <em>'Start'</em> signal, the user can modify it. To set the
+                    <em>'Start'</em> codon manually, position the cursor over the first
+                    nucleotide of the candidate <em>'Start'</em> codon and select the
+                    <em>‘Set translation start’</em> option from the right-click
+                    menu. Depending on evidence from a protein database search or
+                    additional evidence tracks, you may wish to select an in-frame Start
+                    codon further up or downstream. An upstream <em>'Start'</em> codon may
+                    be present outside the predicted gene model, within a region supported
+                    by another evidence track. See section 4.3.3 on how to <em>‘Add an
+                        exon’</em>. When necessary, it is also possible to <em>'Set translation
+                        end'</em> from the right-click menu.</p>
+
+                <p>Note that the <em>'Start'</em> codon may also be located in a
+                    non-predicted exon further upstream. If you cannot identify that exon,
+                    add the appropriate comment (using the transcript comment section in
+                    the <em>‘Comments’</em> table of the <em>‘Information Editor’</em> as
+                    described in section 6).</p>
+
+                <p>In rare cases, the actual <em>'Start'</em> codon may be
+                    non-canonical (non-ATG). Check whether a non-canonical
+                    <em>'Start'</em> codon is usually present in homologs of this gene,
+                    and/or check whether this is a likely occurrence in this organism. If
+                    appropriate, you may override the predicted <em>'Start'</em> by
+                    manually setting it to a non-canonical <em>'Start'</em> codon,
+                    choosing the one that most closely reflects what you know about the
+                    protein, and has the best support from the biological evidence
+                    tracks. Add the appropriate comment (using the transcript comment
+                    section in the <em>‘Comments’</em> table of the <em>‘Information
+                        Editor’</em> as described in section 6).</p>
+
+                <p>In some cases, a <em>'Stop'</em> codon may not be automatically
+                    identified. Check to see if there are data supporting a 3’ extension
+                    of the terminal exon or additional 3’ exons with valid splice
+                    sites. See section 4.3.3 on how to <em>‘Add an exon’</em>. Each time
+                    you add an exon region, whether by extending an existent exon or
+                    adding a new one, Web Apollo recalculates the longest ORF to identity
+                    <em>'Start'</em> and <em>'Stop'</em> signals, allowing you to
+                    determine whether a Stop codon has been incorporated after each
+                    editing step.</p>
+
+                </br>
+
+                <p><strong>4.2.5 Predicted Protein Products.</strong>
+
+                <p>If any of your manipulations have thrown an exon out of frame, or
+                    caused other drastic changes to the translated sequence, Web Apollo
+                    will warn you by changing the display of from a light-blue
+                    protein-coding stretch to a truncated model shown as a darker blue,
+                    narrower rectangle.</p>
+
+                <p>If the annotation looks good, obtain the protein sequence (see
+                    section 4.3.1) and use it to search a protein database, such as
+                    UniProt or NCBI NR. Keep in mind that the best Blast hit may be the
+                    exact prediction from which you initiated your annotation; you should
+                    not consider the identical protein from your organism as external
+                    evidence supporting the annotation. Instead, look at alignments to
+                    proteins from other organisms.</p>
+
+                <br>
+
+                <h5>4.3 Additional Functionality</h5>
+
+                <br>
+
+                <center>
+                <!--<figure align="middle">-->
+                    <img src="/images/Web_Apollo_User_Guide_Fig3.png" width="150" height="335" alt="Additional Functionality"/>
+                    <!--<figcaption align="middle">-->
+                    <br>
+                    <br>
+                        <strong>Figure 3. Additional
+                        functionality.</strong>This is the right-click menu.
+                    <!--</figcaption>-->
+                <!--</figure>-->
+                    </center>
+
+                <br>
+                <p><strong>4.3.1 Get Sequences</strong></p>
+
+                <p>Select one or more exons, or an entire gene model of interest, and
+                    retrieve the right-click menu to select the <em>‘Get sequence’</em>
+                    feature. Chose from the options to obtain protein, cDNA, CDS or
+                    genomic sequences.</p>
+
+                </br>
+
+                <p><strong>4.3.2 Merge Exons, Merge Transcripts</strong></p>
+
+                <p>Select each of the joining exons while holding down the
+                    <em>Shift</em> key, open the right-click menu and select the
+                    <em>‘Merge’</em> option.</p>
+
+                </br>
+
+                <p><strong>4.3.3 Add an Exon</strong></p>
+
+                <p>You may select and drag the putative new exon from a track in the
+                    <em>‘Evidence’</em> panel and add it directly to an annotated
+                    transcript in the <em>‘User-created Annotations’</em> area. Click the
+                    exon and, holding your finger on the mouse button, drag the cursor
+                    until it touches the receiving transcript. The receiving transcript
+                    will be highlighted in dark green when it is okay to release the mouse
+                    button. When the mouse button is released the additional exon becomes
+                    attached to the receiving transcript. If the receiving transcript is
+                    on the opposite strand from the one where you selected the new exon, a
+                    warning dialog box will ask you to confirm the change.</p>
+
+                <p>As described before, Web Apollo dynamically recalculates the
+                    longest ORF for each model, so you must check whether adding one or
+                    more exons disrupts the reading frame, inserts premature
+                    <em>'Stop'</em> signals, etc.</p>
+
+                </br>
+
+                <p><strong>4.3.4 Make an Intron, Split an Exon</strong></p>
+
+                <p>Select the <em>‘Make intron’</em> option from the right-click menu over an
+                    exon will identify the nearest canonical splice sites
+                    <strong>(5’-…exon]GT/AG[exon…-3’)</strong> to modify the model, and Web Apollo will
+                    also recalculate the longest ORF. If Web Apollo cannot find a set of
+                    canonical splice sites within the selected exon, a dialog box will
+                    appear with a warning.</p>
+
+
+                <p>If everything you know about the model indicates that an exon
+                    should not be preserved in its current form, you may manually disrupt
+                    the exon using the <em>‘Split’</em> option from the right-click menu,
+                    which creates a 1-nucleotide intron without taking into account
+                    whether or not the surrounding splice sites are canonical.</p>
+
+                </br>
+
+                <p><strong>4.3.5 Delete an Exon</strong></p>
+
+                <p>Select the exon using a single click (double click selects the
+                    entire model), and select the ‘Delete’ option from the right-click
+                    menu. Check whether deleting one or more exons disrupts the reading
+                    frame, inserts premature Stop signals, etc.</p>
+
+                </br>
+
+                <p><strong>4.3.6 Flip the Strand of Annotation</strong></p>
+
+                <p>At times transcript alignments may appear on the strand opposite to
+                    the model’s coding strand, particularly when the transcript alignment
+                    does not include a splice junction, which makes it difficult to
+                    determine the coding direction. If aligned evidence is used to
+                    initiate an annotation, and it is later determined that the annotation
+                    is on the incorrect strand, the user may choose the <em>‘Flip
+                        strand’</em> option from the right-click menu to reverse the
+                    orientation of the annotation. As mentioned before, annotators should
+                    always reassess the integrity of the translation after modifying an
+                    annotation.</p>
+
+                </br>
+
+                <h5>4.4 Complex Cases</h5>
+
+                <p><strong>4.4.1 Merge Two Gene Predictions on the Same Scaffold</strong></p>
+
+                <p>Evidence may support the merge of two (or more) different gene
+                    models. To begin the annotation select all the gene models that you
+                    would like to merge, then drag them from the <em>‘Evidence’</em> panel
+                    onto the <em>‘User-created Annotations’</em> area. Be aware that
+                    protein alignments may not be a useful starting point because these
+                    may have incorrect splice sites and may lack non-conserved
+                    regions.</p>
+
+                <p>You may select the supporting evidence tracks and drag their
+                    <em>‘ghost’</em> over the candidate models (without releasing them) to
+                    corroborate the overlap. Additionally, zoom in and carefully review
+                    edge-matching (Figure 4) and coverage across models. </p>
+
+                <p>Alternatively, you may select and drag each proposed gene model
+                    separately onto the <em>‘User-created Annotations’</em> area. Once you
+                    are certain that two models should be merged, after checking
+                    boundaries and all supporting evidence, bring them together by holding
+                    the <em>‘Shift’</em> key and clicking on an intron from each of the
+                    merging gene models; in this way you will select both models
+                    completely. Then select the <em>‘Merge’</em> option from the
+                    right-click menu. Get the resulting translation sequence and inspect
+                    it by querying a protein database, such as UniProt. Be sure to record
+                    the IDs of all starting gene models in the <em>‘Comments’</em> table,
+                    and use the appropriate canned comment to indicate that this
+                    annotation is the result of a merge.</p>
+
+                </br>
+
+                <figure align="middle">
+                    <img
+                            src="/images/Web_Apollo_User_Guide_edge-matching.png"
+                            width="700" height="407" alt="Figure 4. Edge Marching"/>
+                    <figcaption align="left"><strong>Figure 4. Edge-matching in Web
+                        Apollo.</strong> When a feature is selected, the exon edges are marked
+                        with a red box. All other features that share the same exon boundaries
+                        are marked with a red line on the matching edge. This feature allows
+                        annotators to confirm that evidence is in agreement without examining
+                        each exon at the base level.
+                    </figcaption>
+                </figure>
+
+                </br>
+
+                <p><strong>4.4.2 Merge Two Gene Predictions from Different Scaffolds</strong></p>
+
+                <p>It is not possible to merge two annotations across scaffolds, however annotators should document the
+                    fact that the data support a merge in the <em>‘Comments’</em> table for both components. For
+                    standardization purposes, please use the following two prepared (canned) comments, adding the name
+                    of both models in every case:</p>
+                <ul>
+                    <li><em>"RESULT OF: merging two or more gene models across
+                        scaffolds"</em></li>
+                    <li><em>"RESULT OF: merging two or more gene models. Gene models
+                        involved in merge:"</em></li>
+                </ul>
+
+                </br>
+
+                <p><strong>4.4.3 Split a Gene Prediction</strong></p>
+
+                <p>When different segments of a predicted protein align to two or more
+                    different families of protein homologs, and when the predicted protein
+                    does not align to any known protein over its entire length, one or
+                    more splits may be recommended. Transcript data may show evidence in
+                    support of a split; be sure to verify that it is not a case of
+                    alternative transcripts! A split can be created in one of two ways: 1)
+                    select the flanking exons using the right-click menu option
+                    <em>‘Split’</em>, or 2) annotate each resulting fragment
+                    independently. You should obtain the resulting translation, and check
+                    it by searching a protein database, such as UniProt. Be sure to record
+                    the original ID for both annotations in the <em>‘Comments’</em>
+                    section.</p>
+
+                </br>
+
+                <p><strong>4.4.4 Frameshifts, Single base Errors, and Selenocysteine-containing Products</strong></p>
+
+                <p>Web Apollo allows annotators to make single base modifications or
+                    frameshifts that are reflected in the sequence and structure of any
+                    transcripts overlapping the modification. Note that these
+                    manipulations do NOT change the underlying genomic sequence. Changes
+                    are made on the DNA track with the right-click menu.</p>
+
+                <p>If you determine that you need to make one of these changes, zoom
+                    in to the nucleotide level, and right-click over the genomic sequence
+                    to access the menu with options for introducing sequence changes such
+                    as insertions, deletions or substitutions. The selected nucleotide
+                    must be the starting point for each modification.</p>
+
+                <p>The <em>‘Create Genomic Insertion’</em> option requires a string of
+                    nucleotide residues that will be inserted to the right of the cursor’s
+                    current coordinate. The <em>‘Create Genomic Deletion’</em> option
+                    requires the length of the deletion, starting with the nucleotide
+                    where the cursor is positioned. When using the <em>‘Create Genomic
+                        Substitution’</em> option, enter the string of nucleotide residues
+                    that will replace the ones on the DNA track.</p>
+
+                <p>Once you have entered the modifications, Web Apollo will
+                    recalculate the corrected transcript and protein sequences, which can
+                    be obtained selecting the ‘Get Sequence’ option from the right-click
+                    menu. Since the underlying genomic sequence is reflected in all
+                    annotations that include the modified region you should alert the
+                    curators of your organism’s database using the <em>‘Comments’</em>
+                    section to report these CDS edits.</p>
+
+                <p>It is also possible to annotate special cases such as
+                    selenocysteine-containing proteins, or read-through <em>‘Stop’</em>
+                    signals using the right-click menu and selecting the <em>‘Set
+                        readthrough stop codon’</em> option. The current TGA <em>‘Stop’</em>
+                    exon will be highlighted in purple, and the next <em>‘Stop’</em>
+                    signal in frame will be used as the end of translation. Note that Web
+                    Apollo will automatically add the remaining amino acids to the
+                    resulting sequence. Add a comment to the <em>‘Comments’</em> section
+                    for this transcript to include this modification.</p>
+
+                </br>
+
+                <h4 id="ncregions">5. Annotating Repeat Regions, Transposable Elements, and Non-coding (nc) RNAs</h4>
+
+                <p>Web Apollo allows users to annotate a variety of ncRNAs and other
+                    regulatory elements.</p>
+
+                <p>If you don’t know the location of the feature you wish to annotate,
+                    perform a Blat search to identify the sequence of interest using the
+                    <em>‘Sequence search’</em> feature from the <em>‘Tools’</em> tab on
+                    the menu bar (see also section 3.1.2). You may also navigate along the
+                    scaffold using the navigation arrows. All non-coding elements are
+                    labeled with identifiers, and users may retrieve additional
+                    information by selecting the feature and using the right menu to
+                    select the <em>‘View details’</em> item.</p>
+
+                <p>Once the feature and track of interest are located in the
+                    <em>‘Evidence’</em> panel, select it and use right click over the
+                    desired feature, and choose the <em>‘Create New Annotation’</em>
+                    option to start an annotation. After the user chooses an element from
+                    the menu, the new annotation appears in the <em>‘User-created
+                        Annotations’</em> track. The type of annotation for any annotations
+                    already present in the <em>‘User-created Annotations’</em> cannot be
+                    changed.</p>
+
+                <p>Modifications such as editing boundaries, duplicating, and deleting
+                    the annotation, as well as the <em>‘History’</em>, <em>‘Redo’</em> and
+                    <em>‘Undo’</em> functions, are possible for all non-coding
+                    features. Additional modifications such as <em>‘Split’</em> and
+                    <em>‘Make intron’</em> are also possible for ncRNAs.</p>
+
+                <p>All metadata about the annotation should be added using the
+                    <em>‘Information Editor’</em>, as described in section 6.</p>
+
+                </br>
+
+                <h4 id="infoeditor">6. The Information Editor</h4>
+
+                <p>Information about the <em>‘Name’</em>, <em>‘Symbol’</em>, and <em>‘Description’</em> for a
+                    Gene, Transcript, repeat region, transposable element, or non-coding
+                    RNAs can be modified in the <em>‘Information Editor’</em>. There is also an
+                    option to report to the lead curators, informing them whether a manual
+                    annotation needs to be reviewed (<em>‘Needs review’</em>), or has already been
+                    <em>‘Approved’</em> using the <em>‘Status’</em> buttons. Users will also be able to
+                    input information about their annotations in fields that capture 1)
+                    <em>‘Comments’</em> on the process of annotation, 2) crossed references to
+                    other databases in <em>‘DBXRefs’</em>, 3) additional <em>‘Attributes’</em> in a
+                    <em>‘tag/value’</em> format that pertain to the annotation, 4) references to
+                    any published data in the PubMed database using <em>‘Pubmed IDs’</em>, and 5)
+                    Gene Ontology (GO) annotations, which can be added typing text or GO
+                    identifiers. The auto-complete function will retrieve the desired
+                    information. A drop-down menu at the top of the <em>‘Information Editor’</em>
+                    allows users to switch between isoforms while editing these
+                    metadata.</p>
+
+                <p>All the information captured in these tables will be incorporated
+                    into the exported files of the <em>‘User-created Annotations’</em>, and will
+                    appear in Column 9 of the GFF3 that is generated.</p>
+
+                </br>
+
+                <h5>6.1 Add Comments</h5>
+
+                <p>When you are satisfied with your annotation, you may provide
+                    additional information in the form of <em>‘Comments’</em>. For example, the ID
+                    of the gene prediction that you used to initiate the annotation
+                    presents useful information for your database curators. Functional
+                    information obtained from homologs may also be useful, e.g. homolog
+                    ID, description, gene name, gene symbol. You should also indicate the
+                    type of changes made to the annotation, and whether a gene is split
+                    across scaffolds, as described in previous sections.</p>
+
+                <p>For each annotated element first click to select it, then use the
+                    right-click option to select <em>‘Information Editor’</em> from the menu. In
+                    the case of coding genes, pseudogenes, and ncRNAs the <em>‘Information
+                        Editor’</em> window displays information for both the gene and the
+                    transcript; users should determine whether the comment is more
+                    appropriate for the gene (e.g. a change in the gene symbol) or an
+                    individual transcript (e.g. type of alterations made). In the case of
+                    repetitive elements and transposable elements, the <em>‘Information
+                        Editor’</em> window has only one column.</p>
+
+                <p>In the <em>‘Information Editor’</em> window click on the respective <em>‘Add’</em>
+                    button to start a new comment; a new row, labeled as ‘Enter new
+                    comment’, will appear. One click on this row reveals a drop-down menu
+                    option on the right, which displays canned comments to choose if they
+                    are available for your organism of interest. Alternatively, it is also
+                    possible to type custom comments. To edit an existing comment, click
+                    over the comment and begin typing, or replace it with a different
+                    canned comment. Comments that are no longer relevant or useful may be
+                    removed using the <em>‘Delete’</em> button at the bottom of the box.</p>
+
+                </br>
+
+                <h5>6.2 Add Database Crossed-references, PubMed IDs, and GO IDs</h5>
+
+                <p>When available, users should also include information to
+                    cross-referenced databases by adding the name of the database and the
+                    corresponding accession number for each gene or transcript to the
+                    <em>‘DBXRefs’</em> tables, respectively. Any additional information regarding
+                    published information in support of this annotation (e.g. whether the
+                    gene has already been part of a publication) should be included by
+                    adding a <em>'PubMed ID'</em> using the provided field, and available functional
+                    information should be added using GO IDs as appropriate. The process to add
+                    information to these tables is the same as described for the
+                    <em>‘Comments’</em> tables.</p>
+
+                </br>
+
+                <h5>6.3 Add Attributes</h5>
+
+                <p>Any additional information about the gene model or transcript that
+                    can be included in the form of a <em>‘tag/value’</em> entry, and provides
+                    further evidence in support of the manual annotation can be captured
+                    on the <em>‘Attributes’</em> table. The process to add information to these
+                    tables is the same as described for the <em>‘Comments’</em>
+                    tables.</p>
+
+                </br>
+
+                <h4 id="saving">7. (No need for) Saving your Annotations</h4>
+
+                <p>Web Apollo immediately saves your work, automatically recording it
+                    on the database. Because of this, your work will not be lost in the
+                    event of network disruptions, and no further actions are required in
+                    order to save your work.</p>
+
+                </br>
+
+                <h4 id="export">8. Exporting Data</h4>
+
+                <p>The user-created annotations may be exported as GFF3 or FASTA
+                    formatted files. These operations may be done for either a single
+                    scaffold, or to include user-created annotations from the entire
+                    assembled genome. To export the user-created annotations from a single
+                    scaffold, click on the track labeled <em>‘User-created Annotations </em>’, then
+                    click on the <em>‘Save track data’</em> option, and choose either the <em>‘GFF3’</em> or
+                    <em>‘FASTA’</em> options. To export GFF3, FASTA, or Chado formatted files from
+                    one or more scaffolds, or from the entire assembly, you may also go to
+                    the scaffold selection page and select all scaffolds of
+                    interest. Click on the <em>‘File’</em> menu at the top, and hover the mouse
+                    over the word <em>‘Export’</em> to choose one of the options available. Menu
+                    items for <em>‘GFF3’</em>, <em>‘FASTA’</em>, and <em>‘Chado’</em> will appear in your screen.</p>
+
+                <p>Data from each of the evidence and prediction tracks can also be
+                    exported. GFF3 formatted files of the visible region on the Web Apollo
+                    screen, as well as files containing data from the entire
+                    scaffold/chromosome can be exported. The data will be formatted
+                    according to the original data used to display each track. For
+                    instance, RNA-Seq reads could be exported either as GFF3 or BED file
+                    formats.</p>
+
+                </br>
+
+                <h4 id="moreinfo">9. Additional Information About Web Apollo</h4>
+
+                <p>Web Apollo is an open-source project and is under active
+                    development. If you have any questions, you may contact the Web Apollo
+                    development team at <strong>apollo-dev [at] lists [dot] lbl [dot] gov</strong>, or join the
+                    conversation on the Apollo mailing list <a
+                            href="https://docs.google.com/forms/d/1PkOm2SKiaAiAhCaMHEc0YFwFZ9nrZaZkbt29R8PW-W8/viewform?usp=send_form">by
+                        filling out this form</a>. More details about Web Apollo installation, requirements, and
+                    configuration can be found <a href="http://genomearchitect.readthedocs.org/en/latest/">http://genomearchitect.readthedocs.org/en/latest/</a>.
+                    The Web Apollo demo is located at <a
+                            href="http://genomearchitect.github.io/demo/">http://genomearchitect.github.io/demo/</a>. Web Apollo is a member
+                    of the <a href="http://gmod.org/">GMOD project</a>.</p>
+
+                </br>
+
+
+            </div>
+        </div>
+    </div>
+    <footer>
+    </footer>
+
+
+    </article> <!-- /.node -->
+    </section>
+
+
+</div>
+</div>
+<footer class="footer container">
+</footer>
+</body>
+</html>
