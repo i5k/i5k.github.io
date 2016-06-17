@@ -1,5 +1,5 @@
 ---
-title: Arthropod genomes available at NCBI
+title: "i5k:  Sequencing Five Thousand Arthropod Genomes"
 type: single
 permalink: /
 #header:
@@ -9,7 +9,6 @@ permalink: /
 # Last check June 15, 2016
 ---
 
-## i5k:  Sequencing Five Thousand Arthropod Genomes
 
 The i5k initiative is a transformative project that aims to sequence and
 analyze the genomes of 5,000 arthropod species. Species selection is 
