@@ -2,11 +2,6 @@
 title: "i5k:  Sequencing Five Thousand Arthropod Genomes"
 type: single
 permalink: /
-#header:
-#   image: ApolloLogo.png
-#   width: 300
-#   height: 100
-# Last check June 15, 2016
 ---
 
 
