@@ -7,15 +7,14 @@
 
 # Site Settings
 locale                   : "en-US"
-#title                    : "Genome Architect"
 title                    : "i5K"
 title_separator          : "-"
 name                     : "i5K"
-description              : "Documentation for the Apollo web-based manual biocuration tool."
+description              : "Web front end for the i5k 5,000 insect genome initiative."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  : "https://github.com/i5k/i5k.github.io"
-teaser                   : #ApolloLogo.png # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -67,7 +66,7 @@ author:
 #  bio              : "I am an amazing person."
   location         :
   email            :
-  uri              : #"http://genomearchitect.org"
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
@@ -82,7 +81,7 @@ author:
   linkedin         :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          :

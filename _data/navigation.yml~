@@ -15,9 +15,6 @@ main:
   - title: "Archive"
     url: /archive
 
-  - title: "About"
-    url: /about
-
 #  - title: "Demo"
 #    url: /demo/
 #
