@@ -14,6 +14,6 @@ Our goals are to:
 
 We provide guidelines for genome projects, hold webinars, and keep an up-to-date list of sequenced arthropod genomes. Sign up for our low-volume mailing list for our latest information.
 
-For more information, you can read the [paper on the i5k initiative](http://jhered.oxfordjournals.org/content/104/5/595.short), or [get in touch](/contact).
+For more information, you can read the [paper on the i5k initiative](http://jhered.oxfordjournals.org/content/104/5/595.short), or [get in touch](_pages/contact).
 
 You can also view [publications resulting from the i5k initiative](/publications).
