@@ -16,4 +16,4 @@ We provide guidelines for genome projects, hold webinars, and keep an up-to-date
 
 For more information, you can read the [paper on the i5k initiative](http://jhered.oxfordjournals.org/content/104/5/595.short), or [get in touch](_pages/contact).
 
-You can also view [publications resulting from the i5k initiative](_pages/publications).
+You can also view [publications resulting from the i5k initiative](http://i5k.github.io/_pages/publications/).
