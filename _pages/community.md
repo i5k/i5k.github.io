@@ -6,7 +6,7 @@ permalink: /community
 
 [Contact the i5k initiative.](_pages/contact)
 
-Join the i5k comunity! We are recruiting new members to steer and build the vision of the i5k initiative. [Contact us](_pages/contact) if you are interested.
+Join the i5k community! We are recruiting new members to steer and build the vision of the i5k initiative. [Contact us](_pages/contact) if you are interested.
 
 Sign up for our [mailing list](https://listserv.ksu.edu/?SUBED1=ARTHROPODNEWS&A=1) to receive updates about i5k initiative activities. 
 
