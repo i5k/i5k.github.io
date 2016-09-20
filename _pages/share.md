@@ -16,7 +16,7 @@ Of course, please submit all of your primary data and genome assemblies to the a
 
 Stay tuned for a more comprehensive guide on genome data management. 
 
-Have a genome database for arthropods that's accepting new genomes and that you'd like to see listed here? [Contact us](_pages/contact), and we'll add it!
+Have a genome database for arthropods that's accepting new genomes and that you'd like to see listed here? [Contact us](/_pages/contact), and we'll add it!
 
 <!---
 Future update: Add previous DBs (includes those that are specific to only one species) to new page here and link to it (http://arthropodgenomes.org/wiki/Resources)
