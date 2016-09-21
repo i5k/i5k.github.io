@@ -1,0 +1,15 @@
+---
+layout: single
+---
+<div class="container">
+	<div class="row">
+		<div class="col-md-8 col-md-offset-2">
+			<section id="blog">
+			<h2>{% capture date %}{{ page.date | date: '%B %d, %Y' }}{% endcapture %} {{date}}</h2>
+			  <div id="generic-box">
+			    {{ content }}
+			  </div>
+			</section>
+		</div>
+	</div>
+</div>

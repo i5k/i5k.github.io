@@ -2,10 +2,10 @@
 title: Arthropod genomes available at NCBI
 type: single
 
-#header:
+header:
 #   image: ApolloLogo.png
-#   width: 300
-#   height: 100
+   width: 300
+   height: 150
 # Last check June 15, 2016
 ---
 
