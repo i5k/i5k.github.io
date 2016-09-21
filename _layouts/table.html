@@ -1,0 +1,51 @@
+---
+layout: compress
+---
+
+{% include base_path %}
+
+<!doctype html>
+<html lang="{{ site.locale | slice: 0,2 }}">
+  <head>
+  {% include head.html %}
+  {% include head/custom.html %}
+  {% include scripts.html %}
+    <script src="/javascripts/jquery-1.12.1.min.js" type="text/javascript"></script>
+    <script type="text/javascript">
+		var jQuery_1_12_1 = $.noConflict(true);
+	</script>
+    	<script src="/javascripts/jquery.tablesorter.min.js" type="text/javascript"></script>
+    	<script src="/javascripts/jquery.tablesorter.widgets.min.js"></script>
+    	<script src="/javascripts/table.js"></script>
+    	<link rel="stylesheet" href="/stylesheets/css/theme.jui.css" type="text/css" media="print, projection, screen"></link>
+    	<link rel="stylesheet" href="/stylesheets/css/theme.default.css" type="text/css" media="print, projection, screen" ></link>
+    	<link rel="stylesheet" href="/stylesheets/css/jquery-ui.min.css" type="text/css" media="print, projection, screen"></link>
+	</head>
+  <body>
+  {% include browser-upgrade.html %}
+  	{% include masthead.html %}
+  	<h1>Arthropod genomes available at NCBI </h1>
+<table id="table1" class="tablesorter" role="grid">
+  <thead>
+    <tr>
+    <!-- #|Genus species|Overview|Chromosome|GenomeID-->
+      <th>Index</th>
+      <th>Genus species</th>
+      <th>Overview</th>
+      <th>Chromosome</th>
+      <th>GenomeID</th>
+    </tr>
+  </thead>
+  <tbody>
+  </tbody>
+</table>
+<script>
+	jQuery_1_12_1(document).ready(function() {
+  		$('table').trigger('update');
+  		$('table').trigger("appendCache");
+	});
+	jQuery_1_12_1('table').trigger('update');
+	jQuery_1_12_1('table').trigger("appendCache");
+</script>
+
+</body>
