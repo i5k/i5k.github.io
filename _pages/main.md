@@ -24,6 +24,6 @@ Find out:
 
 - [How to join the i5k community](http://i5k.github.io/community)
 
-What happened to the old i5k site? You can still find it [here](http://www.arthropodgenomes.org/wiki/i5K).
+- [What happened to the old i5k site?](archive).
 
 
