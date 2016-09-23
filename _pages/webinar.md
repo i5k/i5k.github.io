@@ -14,12 +14,12 @@ __What:__  Presentations by representatives from genomic technology companies, d
 
 __When:__  First Wednesday of each month at 11am EDT
 
-__Why:__  Some of the impacts made by i5k are through training and education that foster open and active participation in the establishment and adoption of best practices for methodologies, informatics and standards.  Our goal for the webinar series is to provide outreach and education by introducing researchers to a variety of techniques, technologies and best practices to help move their research forward.
+__Why:__  Some of the impacts made by i5k are through training and education to promote the adoption of best practices for methodologies, informatics and standards.  Our goal for the webinar series is to provide outreach and education by introducing researchers to a variety of techniques, technologies and best practices to help move their research forward.
 
 ### To get news about the webinar series and other i5k activities, please subscribe to the Arthropod News [mailing list](https://listserv.ksu.edu/?SUBED1=ARTHROPODNEWS&A=1)
 
 
-## More information to come, here is a peak at the schedule:
+## More information to come, here is a peek at the schedule:
 
 ### October 5th
 __Speaker:__ Jonas Korlach, Chief Scientific Officer, and Sarah Kingan, Senior Scientist Bioinformatics, Pacific Biosciences<br>
