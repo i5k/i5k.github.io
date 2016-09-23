@@ -16,7 +16,7 @@ __When:__  First Wednesday of each month at 11am EDT
 
 __Why:__  Some of the impacts made by i5k are through training and education that foster open and active participation in the establishment and adoption of best practices for methodologies, informatics and standards.  Our goal for the webinar series is to provide outreach and education by introducing researchers to a variety of techniques, technologies and best practices to help move their research forward.
 
-#### To get news about the webinar series and other i5k activities, please subscribe to the Arthropod News [mailing list](https://listserv.ksu.edu/?SUBED1=ARTHROPODNEWS&A=1)
+### To get news about the webinar series and other i5k activities, please subscribe to the Arthropod News [mailing list](https://listserv.ksu.edu/?SUBED1=ARTHROPODNEWS&A=1)
 
 
 Be an active attendee!  Worried about error rates, validation issues, sample sizes or other details?  Bring your questions and help us have a lively discussion with our speakers.
