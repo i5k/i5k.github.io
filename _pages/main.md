@@ -5,7 +5,7 @@ type: single
 permalink: /
 ---
 
-The i5k initiative is a transformative project that aims to organize the sequencing and analysis of the genomes of 5,000 arthropod species. Our initiative is broad and inclusive.
+The 5,000 arthropod genomes initiative (i5k) is a transformative project that aims to organize the sequencing and analysis of 5,000 arthropod species. Our initiative is broad and inclusive.
 
 <!---
 Read our latest [news and updates](news/_posts).
@@ -13,6 +13,8 @@ Read our latest [news and updates](news/_posts).
 Find out:
 
 - [What the i5k initiative is about](about)
+
+- [Join the discussion about techniques, technologies and best practices during our monthly webinar series](webinar)
 
 - [What arthropod genomes have been sequenced](arthropod_genomes_v2)
 
