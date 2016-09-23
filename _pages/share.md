@@ -1,6 +1,7 @@
 ---
 title: "Sharing data from your genome project"
 type: single
+permalink: /share
 ---
 
 Have data to share from your genome project, or need to find a database home for it? We recommend the following options:
