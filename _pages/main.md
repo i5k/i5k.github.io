@@ -14,7 +14,7 @@ Find out:
 
 - [What the i5k initiative is about](about)
 
-- [What arthropod genomes have been sequenced](Arthropod_genomes)
+- [What arthropod genomes have been sequenced](arthropod_genomes_v2)
 
 - [How to embark on a genome sequencing project yourself](learn)
 
