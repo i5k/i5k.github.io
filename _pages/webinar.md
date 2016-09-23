@@ -39,10 +39,10 @@ __Speaker:__ Dr. Ivan Liachko, CEO/CSO, Phase Genomics Inc., Seattle, WA; Dept. 
 __Title:__ A rapid method for end-to-end genome assembly, pathogen discovery, and metagenomic deconvolution<br>
 __Summary:__ I will describe the Hi-C method and its adaptation toward scaffolding of genomes and metagenomic deconvolution. I will give examples of our work scaffolding large genomes (plant/animal/fungal) as well as assembling prokaryotic and eukaryotic genomes from mixed microbial communities.
 
-###January 4th
+### January 4th
 __Speaker:__ Dr. Scott Emrich, UND Director of Bioinformatics; Depts. of Computer Science and Engineering and Biological Sciences (concurrent), University of Notre Dame; contact PI, NIH/NIAID VectorBase, a Bioinformatics Resource Center (BRC)
 
-###February 1st
+### February 1st
 __Speaker:__ Prof. Evgeny M. Zdobnov and Dr Robert M. Waterhouse, University of Geneva Medical School & Swiss Institute of Bioinformatics, Geneva, Switzerland<br>
 __Title:__ OrthoDB: an evolutionary perspective to interpreting genomics data<br>
 __Summary:__ Orthology is a cornerstone of comparative genomics, and such approaches are well-established as immensely valuable for gene discovery and characterization, offering evolutionarily-qualified hypotheses on gene function by identifying “equivalent” genes in different species.<br>
