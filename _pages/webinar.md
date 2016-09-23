@@ -19,9 +19,6 @@ __Why:__  Some of the impacts made by i5k are through training and education tha
 ### To get news about the webinar series and other i5k activities, please subscribe to the Arthropod News [mailing list](https://listserv.ksu.edu/?SUBED1=ARTHROPODNEWS&A=1)
 
 
-Be an active attendee!  Worried about error rates, validation issues, sample sizes or other details?  Bring your questions and help us have a lively discussion with our speakers.
-
-
 ## More information to come, here is a peak at the schedule:
 
 ### October 5th
