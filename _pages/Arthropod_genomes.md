@@ -1,6 +1,7 @@
 ---
 title: Arthropod genomes available at NCBI
 type: single
+permalink: /Arthropod_genomes
 
 header:
 #   image: ApolloLogo.png
