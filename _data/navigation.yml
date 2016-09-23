@@ -6,11 +6,14 @@ main:
   - title: "News"
     url: /news
 
-  - title: "Genomes"
-    url: /genomes
-
   - title: "Community"
     url: /community
+
+  - title: "Webinar"
+    url: /webinar
+
+  - title: "Genomes"
+    url: /genomes
 
   - title: "Archive"
     url: /archive
