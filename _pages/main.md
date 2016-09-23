@@ -14,7 +14,7 @@ Find out:
 
 - [What the i5k initiative is about](about)
 
-- [Join the discussion about techniques, technologies and best practices during our monthly webinar series](webinar)
+- [Join our monthly webinar series about techniques, technologies and best practices](webinar)
 
 - [What arthropod genomes have been sequenced](arthropod_genomes_v2)
 
