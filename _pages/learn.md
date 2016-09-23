@@ -1,6 +1,7 @@
 ---
 title: "Learn how to set up a genome project"
 type: single
+permalink: /learn
 ---
 
 Under construction.
