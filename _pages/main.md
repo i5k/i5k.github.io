@@ -24,6 +24,6 @@ Find out:
 
 - [How to join the i5k community](http://i5k.github.io/community)
 
-- [What happened to the old i5k site?](archive).
+- [What happened to the old i5k site?](archive)
 
 
