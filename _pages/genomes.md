@@ -10,7 +10,7 @@ The i5k initiative strives to improve communication on arthropod genome sequenci
 
 [Learn about setting up an arthropod genome project](_pages/learn)
 
-[Share your genome project](share)
+[Share your genome project](http://i5k.github.io/share)
 
 <!---
 Future goal - have someone who knows css do better styling
