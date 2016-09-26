@@ -12,18 +12,18 @@ Read our latest [news and updates](news/_posts).
 --->
 Find out:
 
-- [What the i5k initiative is about](about)
+- [About the i5k initiative](about)
 
-- [What arthropod genomes have been sequenced](arthropod_genomes_v2)
+- [Arthropod genomes sequenced so far](arthropod_genomes_v2)
 
-- [How to embark on a genome sequencing project yourself](learn)
+- [Join the i5k community](http://i5k.github.io/community)
 
-- [Where you can share and deposit your data](share)
+- [Embarking on a genome sequencing project (coming soon!)](learn)
+
+- [Sharing and depositing your data](share)
 
 - [Join our monthly webinar series about techniques, technologies and best practices](webinar)
 
-- [How to join the i5k community](http://i5k.github.io/community)
-
-- [What happened to the old i5k site?](archive)
+- [Old i5k site](archive)
 
 
