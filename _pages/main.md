@@ -14,13 +14,13 @@ Find out:
 
 - [What the i5k initiative is about](about)
 
-- [Join our monthly webinar series about techniques, technologies and best practices](webinar)
-
 - [What arthropod genomes have been sequenced](arthropod_genomes_v2)
 
 - [How to embark on a genome sequencing project yourself](learn)
 
 - [Where you can share and deposit your data](share)
+
+- [Join our monthly webinar series about techniques, technologies and best practices](webinar)
 
 - [How to join the i5k community](http://i5k.github.io/community)
 
