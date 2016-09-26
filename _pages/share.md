@@ -10,7 +10,7 @@ Arhtropod research communities interested in finding a public home repository fo
 - Hymenoptera - ant specific: [Fourmidable](http://www.antgenomes.org/)
 - Insect vectors of diesease: [VectorBase](https://www.vectorbase.org/)
 - Aphids: [AphidBase](http://www.aphidbase.com/)
-- Lepidoptera: [LepBase] (http://lepbase.org/)
+- Lepidoptera: [LepBase](http://lepbase.org/)
 - For all other organisms, please consider the [i5k Workspace@NAL](https://i5k.nal.usda.gov/)
 - Alternatively, you may contacy [Ensembl Genomes](http://metazoa.ensembl.org/index.html) with your hosting requests.
 
