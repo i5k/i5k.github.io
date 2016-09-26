@@ -4,7 +4,7 @@ type: single
 permalink: /share
 ---
 
-Arhtropod research communities interested in finding a public home repository for their data from genome projects, may try the following resources:
+Arthropod research communities interested in finding a public home repository for their data from genome projects, may try the following resources:
 
 - Hymenoptera: [Hymenoptera Genome Database](http://hymenopteragenome.org/)
 - Hymenoptera - ant specific: [Fourmidable](http://www.antgenomes.org/)
