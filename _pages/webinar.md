@@ -4,6 +4,9 @@ type: single
 permalink: /webinar
 ---
 
+
+### To get news about the webinar series and other i5k activities, please subscribe to the Arthropod News [mailing list](https://listserv.ksu.edu/?SUBED1=ARTHROPODNEWS&A=1)
+
 ## Monthly webinars start October 5th at 11am EDT
 
 Worried about error rates, validation issues, sample sizes or other details of genomic sequencing, assembly and analysis?  Bring your questions and help us have a lively discussion with our speakers.
@@ -16,7 +19,29 @@ __When:__  First Wednesday of each month at 11am EDT
 
 __Why:__  Some of the impacts made by i5k are through training and education to promote the adoption of best practices for methodologies, informatics and standards.  Our goal for the webinar series is to provide outreach and education by introducing researchers to a variety of techniques, technologies and best practices to help move their research forward.
 
-### To get news about the webinar series and other i5k activities, please subscribe to the Arthropod News [mailing list](https://listserv.ksu.edu/?SUBED1=ARTHROPODNEWS&A=1)
+__How:__  The webinars will use AT&T Connect
+
+(A) WEB CONFERENCE CONNECTION
+
+This connection will allow you to view the video and provide you the option to connect audio through your computer.  If your computer does not support an audio connection, you may connect the audio portion of the webinar via a telephone (see B for instructions).
+
+1. To connect to the Web Conference using the AT&T Connect application:
+https://connect16.uc.att.com/usda/meet/?ExEventID=86042415
+Link will provide a prompt to download the application and will launch the application once installed.
+ 
+2. To connect through your WEB BROWSER without downloading the AT&T Connect application - Any Computer Type [Limited Capabilities]:  https://www.connectmeeting.att.com
+Meeting Number:  8888449904              Meeting Code: 5909637
+
+(B) AUDIO Connection via Telephone
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+1. USA Access:  USA Toll-Free: 888-844-9904, then enter Code: 5909637# or USA Caller Paid: 816-423-4261, then enter Code: 5909637#
+2. International Access:  A number in your country or in a country close to you (may be toll free):
+https://www.teleconference.att.com/servlet/glbAccess?process=1&accessNumber=8888449904&accessCode=5909637
+3. When prompted, enter the Meeting Access Code: 5909637#
+ 
+Link The Computer Session with the Telephone Session:  After you have both the computer and telephone sessions established, click on the top menu tab "Audio/Video."  Select the second option "Telephone Connection Instructions."  Look for the section "Already Connected by Phone."  Locate the "Link" number and type the link number directly into the keypad of the telephone as #-sign, the six digit number, and follow with the #-sign.  Close the dialog box.
+ 
+**Note:** Please mute your headset/microphone/telephone when not speaking.
 
 
 ## More information to come, here is a peek at the schedule:
