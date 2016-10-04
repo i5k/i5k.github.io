@@ -21,6 +21,8 @@ __Why:__  Some of the impacts made by i5k are through training and education to 
 
 __How:__  The webinars will use AT&T Connect
 
+*We will have 250 connection lines available so please consider gathering in groups where possible to access the webinar.*
+
 (A) WEB CONFERENCE CONNECTION
 
 This connection will allow you to view the video and provide you the option to connect audio through your computer.  If your computer does not support an audio connection, you may connect the audio portion of the webinar via a telephone (see B for instructions).
