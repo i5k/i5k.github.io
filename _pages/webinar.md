@@ -33,7 +33,7 @@ Link will provide a prompt to download the application and will launch the appli
 Meeting Number:  8888449904              Meeting Code: 5909637
 
 (B) AUDIO Connection via Telephone
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
 1. USA Access:  USA Toll-Free: 888-844-9904, then enter Code: 5909637# or USA Caller Paid: 816-423-4261, then enter Code: 5909637#
 2. International Access:  A number in your country or in a country close to you (may be toll free):
 https://www.teleconference.att.com/servlet/glbAccess?process=1&accessNumber=8888449904&accessCode=5909637
