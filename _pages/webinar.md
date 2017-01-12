@@ -42,7 +42,9 @@ __How:__  The webinars will use the AT&T Connect software
 |[March&nbsp;1st](https://www.timeanddate.com/worldclock/fixedtime.html?msg=i5k+webinar&iso=20170301T11&p1=263&ah=1)|<br>__Speaker:__ BioNano<br><br>Will slides be released:   Yes<br>Will the presentation be recorded:  Yes<br><br>|
 |[April&nbsp;5th](https://www.timeanddate.com/worldclock/fixedtime.html?msg=i5k+webinar&iso=20170405T11&p1=263&ah=1)|<br>__Speaker:__ Dr. Keith Hopper, Research Entomologist, Beneficial Insect Introductions Research Unit, USDA-ARS, Newark, DE<br><br>Will slides be released:   Yes<br>Will the presentation be recorded:  Yes<br><br>|
 |[May&nbsp;3rd](https://www.timeanddate.com/worldclock/fixedtime.html?msg=i5k+webinar&iso=20170503T11&p1=263&ah=1)|<br>__Speaker:__ Dr. Terence Murphy, Staff Scientist, Gene Project Lead, NCBI/NLM/NIH<br><br>__Title:__ The in’s and out’s of genome assembly submission and annotation at NCBI<br><br>Will slides be released:   ?<br>Will the presentation be recorded:  ?<br><br>|
-|[June&nbsp;7th](https://www.timeanddate.com/worldclock/fixedtime.html?msg=i5k+webinar&iso=20170607T11&p1=263&ah=1)|<br>__Speaker:__ <br><br>Will slides be released:   ? <br>Will the presentation be recorded:  ?<br><br>|
+|June&nbsp;7th|<br>We hope to see you at the [10th Annual Arthropod Genomics Symposium and VectorBase Workshop](http://globalhealth.nd.edu/10th-annual-arthropod-genomics-symposium/) being held from June 7 - June 10, 2017 at the University of Notre Dame.<br><br>|
+|[July&nbsp;5th](https://www.timeanddate.com/worldclock/fixedtime.html?msg=i5k+webinar&iso=20170705T11&p1=263&ah=1)|<br>__Speaker:__ James Brayer, Associate Director of Market Development, Oxford Nanopore Technologies <br><br>Will slides be released:   ? <br>Will the presentation be recorded:  ?<br><br>|
+|[August&nbsp;2nd](https://www.timeanddate.com/worldclock/fixedtime.html?msg=i5k+webinar&iso=20170802T11&p1=263&ah=1)|<br>__Speaker:__ <br><br>Will slides be released:   ? <br>Will the presentation be recorded:  ?<br><br>|
 
 
 <a name="previous"></a>
