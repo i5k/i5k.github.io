@@ -1,7 +1,7 @@
 //acquired from http://www.jqueryscript.net/table/jQuery-Plugin-To-Generate-A-Table-From-A-CSV-File-CSV-Parser.html
 //read data from csv file
 //use ';' instead of ',' in csv file if needed in one field
-	jQuery_1_12_1.get('/_data/seq_genomes_table/arthropoda_genome_table_2017-04-24.csv', function(data) {
+	jQuery_1_12_1.get('/_data/seq_genomes_table/arthropoda_genome_table_sorted_2017-04-24.csv', function(data) {
 
 		// start the table
 		var html = '';
