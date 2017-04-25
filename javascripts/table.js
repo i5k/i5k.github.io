@@ -1,39 +1,8 @@
 //acquired from http://www.jqueryscript.net/table/jQuery-Plugin-To-Generate-A-Table-From-A-CSV-File-CSV-Parser.html
 //read data from csv file
 //use ';' instead of ',' in csv file if needed in one field
-	jQuery_1_12_1.get('/assets/arthropoda_genome_table_sorted_2017-04-24.csv', function(data) {
-
-		// start the table
-		var html = '';
-		var num_of_columns = 7;
-
-		// split into lines
-		var rows = data.split("\n"); //##Add column number here
-
-		// parse lines
-		rows.forEach( function getvalues(ourrow) {
-
-			// start a table row
-			html += "<tr>";
-
-			// split line into columns 
-			var columns = ourrow.split(",");
-			for (i = 0; i < num_of_columns; i++) {
-    			html += "<td>" + columns[i].replace(";",","); + "</td>";
-			}
-
-			// close row
-			html += "</tr>";
-		})
-		// close table
-		//html += "</table>";
-
-		// insert into div
-		jQuery_1_12_1('#table1').append(html);
-
-		}); 
-	//set tablesorter settings and themes
-	jQuery_1_12_1(function() {
+//set tablesorter settings and themes
+jQuery_1_12_1(function() {
 
   // Extend the themes to change any of the default class names
   $.extend($.tablesorter.themes.jui, {
