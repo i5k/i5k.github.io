@@ -1,0 +1,63 @@
+{% include base_path %}
+
+
+<!doctype html>
+<html lang="{{ site.locale | slice: 0,2 }}">
+  <head>
+  {% include head.html %}
+  {% include head/custom.html %}
+  {% include scripts.html %}
+    <script src="/javascripts/jquery-1.12.1.min.js" type="text/javascript"></script>
+    <script type="text/javascript">
+		var jQuery_1_12_1 = $.noConflict(true);
+	</script>
+    <script src="/assets/js/sortable.min.js"></script>
+    <link rel="stylesheet" href="/assets/css/sortable/sortable-theme-bootstrap.css" />
+    <script src="/javascripts/jquery.tablesorter.js" type="text/javascript"></script>
+    <script src="/javascripts/jquery.tablesorter.widgets.min.js"></script>
+    <script src="/javascripts/legacy_nominations_table.js"></script>
+    <link rel="stylesheet" href="/stylesheets/css/modified_table_theme.jui.css" type="text/css" media="print, projection, screen"></link>
+    <link rel="stylesheet" href="/stylesheets/css/theme.default.css" type="text/css" media="print, projection, screen" ></link>
+    <link rel="stylesheet" href="/stylesheets/css/jquery-ui.min.css" type="text/css" media="print, projection, screen"></link>
+  </head>
+  <body>
+  {% include browser-upgrade.html %}
+  	{% include masthead.html %}
+  <div style="padding-left: 50px;padding-right:50px;padding-top:10px;">
+    <h1>Legacy i5k species nominations </h1>
+	<p>When the i5k initiative was founded, a call was put out to collect information on priority species for sequencing.  This table includes the species and justifications provided in those submissions.  This data is provided as-is from the original nomination;  no effort has been made to update or validate the current status of these genome projects.
+	  <br>
+	  <h3>Nominator abbreviations:</h3>
+	  Anopheles Genome Cluster Consortium (AGCC)<br>
+	  International Aphid Genome Consortium (IAGC)<br>
+	  International Social Insect Genomics Consortium (ISIGC)<br>
+	  International Centre of Insect Physiology and Ecology (ICIPE)
+	<p> 
+<p>Total nominations: 786</p>
+  </div>
+
+<table id="table_legacy" class="tablesorter" role="grid">
+  <thead>
+    <tr>
+    <th>Species</th>
+    <th>Nominator</th>
+    <th>Nomination Status</th>
+    <th>Genome Size</th>
+    <th>Importance Group</th>
+    <th>Justification</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% include /data/legacy_nomination_data.html %}
+  </tbody>  
+</table>
+<script>
+        jQuery_1_12_1(document).ready(function() {
+                $('table').trigger('update');
+                $('table').trigger("appendCache");
+        });
+        jQuery_1_12_1('table').trigger('update');
+        jQuery_1_12_1('table').trigger("appendCache");
+</script>
+
+</body>
