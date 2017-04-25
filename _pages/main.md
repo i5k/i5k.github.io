@@ -14,9 +14,9 @@ Find out:
 
 - [About the i5k initiative](about)
 
-- [Arthropod genomes sequenced so far](arthropod_genomes_v2)
+- [Arthropod genomes sequenced so far](arthropod_genomes_at_ncbi)
 
-- [Join the i5k community](http://i5k.github.io/community)
+- [Join the i5k community](community)
 
 - [Embarking on a genome sequencing project (coming soon!)](learn)
 
