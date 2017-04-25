@@ -25,6 +25,12 @@ layout: compress
   {% include browser-upgrade.html %}
   	{% include masthead.html %}
   	<h1>Arthropod genomes available at NCBI </h1>
+
+<!-- Text before table goes here  -->
+<p>
+
+</p>
+
 <table id="table1" class="tablesorter" role="grid">
   <thead>
     <tr>
@@ -39,6 +45,7 @@ layout: compress
     </tr>
   </thead>
   <tbody>
+    {% include data/arthropoda_genome_table_2017-04-25.html%}
   </tbody>
 </table>
 <script>
@@ -49,5 +56,11 @@ layout: compress
 	jQuery_1_12_1('table').trigger('update');
 	jQuery_1_12_1('table').trigger("appendCache");
 </script>
+
+<!-- Text after table goes here  -->
+<p>
+
+</p>
+
 
 </body>
