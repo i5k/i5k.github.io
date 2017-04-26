@@ -24,12 +24,19 @@ layout: compress
   <body>
   {% include browser-upgrade.html %}
   	{% include masthead.html %}
-  	<h1>Arthropod genomes available at NCBI </h1>
-
-<!-- Text before table goes here  -->
-<p>
-
-</p>
+  <div style="padding-left: 50px;padding-right:50px;padding-top:10px;">
+    <h1>Sequenced Arthropod Genomes</h1>
+    
+    <!-- Text before table goes here  -->
+    <p>
+      Ever wondered how many arthropod species have genome sequence available? <br><br>
+      
+      This table summarizes all of the arthropod genome projects archived in an INSDC database regardless of assembly completeness or contiguity.  While some species do have sequencing for multiple strains or subspecies, the information here is provided at the species level.  Links to NCBI through the Genome ID provide additional information about all assemblies and their associated metrics. <br><br>
+      See the <a href="#FAQ">FAQ</a> below the table for more information about how it was compiled. <br><br>      
+      Total species: 268<br>
+      Last updated: 2017-04-26
+    </p>
+  </div>
 
 <table id="table1" class="tablesorter" role="grid">
   <thead>
@@ -45,7 +52,7 @@ layout: compress
     </tr>
   </thead>
   <tbody>
-    {% include data/arthropoda_genome_table_2017-04-25.html%}
+    {% include data/arthropoda_genome_table_2017-04-26.html%}
   </tbody>
 </table>
 <script>
@@ -58,8 +65,19 @@ layout: compress
 </script>
 
 <!-- Text after table goes here  -->
+<div style="padding-left: 50px;padding-right:50px;">
+<a name="FAQ"></a>
+<h2>Frequently Asked Questions</h2> 
 <p>
+<ol type="1">
+  <h3><li>Missing a genome?</li></h3>
+  Genome assemblies for all Arthropoda species submitted to <a href="http://www.insdc.org" target="_blank">INSDC Databases</a> are included in this table once a <a href="https://www.ncbi.nlm.nih.gov/genome/" target="_blank">Genome Database</a> record has been created at NCBI.  If data for your species of interest has not yet been archived with an INSDC Database then we hope you will consider submission in order to make your data accessible to all.  Once new data has been submitted, it may take some time for NCBI to generate a Genome Database record.  This table will be updated regularly and the date of the last release is posted above the table.
+  <h3><li>Incorrect common name or taxonomy?</li></h3>
+  Common name and taxonomy information is pulled from the <a href="https://www.ncbi.nlm.nih.gov/taxonomy" target="_blank">NCBI Taxonomy Database</a>.  Please <a href="https://www.ncbi.nlm.nih.gov/home/about/contact.shtml" target="_blank">contact NCBI</a> to make changes.  Once corrections are reflected in the Taxonomy Database, we will include them with our next table release.
+  <h3><li>Missing or incorrect community genome database?</li></h3>
+  We have attempted to include links to all live community genome databases for the species they represent.  With the frequent addition of new species and databases, as well as the consolidation of some databases, this list is difficult to maintain.  Please help us by submitting any additions or corrections to the list using our <a href="https://goo.gl/forms/lnrGHDYRD76T7ZiM2" target="_blank">feedback form</a>.
 
+</ol>
 </p>
 
 
