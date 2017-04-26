@@ -1,9 +1,9 @@
 ---
-title: "i5K legacy website"
+title: "i5k Legacy Website"
 type: single
 permalink: /archive
 ---
 
-The i5k website and its functions have changed dramatically with our move to a new URL. The old website is no longer actively maintained, however we anticipate that some may still be interested in that content. We intend to migrate some content, but in the meantime you can still visit the [former i5k website](http://arthropodgenomes.org/wiki/i5k). 
+The i5k website and its functions have changed dramatically with our move to a new URL. The old website is no longer actively maintained, however we anticipate that some may still be interested in that content. We have migrated some content and hope to migrate more, but you can still visit the [former i5k website](http://arthropodgenomes.org/wiki/i5k) if you are looking for something specific. 
 
-
+- [Legacy i5k Sequencing Project Nominations](/legacy_i5k_nominations)

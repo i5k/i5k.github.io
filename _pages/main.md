@@ -16,10 +16,11 @@ Find out:
 
 - [Arthropod genomes sequenced so far](arthropod_genomes_at_ncbi)
 
+<!--
 - [Join the i5k community](community)
 
 - [Embarking on a genome sequencing project (coming soon!)](learn)
-
+-->
 - [Sharing and depositing your data](share)
 
 - [Join our monthly webinar series about techniques, technologies and best practices](webinar)

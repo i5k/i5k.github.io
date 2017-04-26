@@ -6,8 +6,11 @@ main:
   - title: "News"
     url: /news
 
-  - title: "Community"
-    url: /community
+  - title: "About"
+    url: /about
+
+#  - title: "Community"
+#    url: /community
 
   - title: "Webinar"
     url: /webinar
@@ -18,8 +21,8 @@ main:
   - title: "Archive"
     url: /archive
 
-  - title: "About"
-    url: /about
+  - title: "Contact Us"
+    url: /contact
 
 #  - title: "Demo"
 #    url: /demo/
