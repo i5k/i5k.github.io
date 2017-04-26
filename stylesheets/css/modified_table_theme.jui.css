@@ -3,11 +3,13 @@
  *************/
  /* overall */
 .tablesorter-jui {
-	width: 100%;
+	width: 96%; /* adjusted down from 100 */
 	border-collapse: separate;
 	border-spacing: 2px; /* adjust spacing between table cells */
 	margin: 10px 0 15px;
-	padding: 5px;
+	padding: 2px; /* adjusted down from 5 */
+	margin-right: 25px; /* added */
+	margin-left: 25px; /* added */
 	font-size: 0.8em;
 }
 
