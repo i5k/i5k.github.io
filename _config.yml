@@ -35,11 +35,11 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "@Arthropod_i5k"
 facebook:
-  username               :
-  app_id                 :
-  publisher              :
+  username               : "Arthropod-Genomics-Consortium-282075262630"
+  app_id                 : 
+  publisher              : 
 og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
@@ -71,9 +71,9 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
-  foursquare       :
-  github           :
+  facebook         : "Arthropod-Genomics-Consortium-282075262630"
+  foursquare       : 
+  github           : "i5k"
   google_plus      :
   keybase          :
   instagram        :
@@ -84,11 +84,11 @@ author:
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "@Arthropod_i5k"
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "channel/UCUdQAuND3gdN3Tdc-fNW4Nw"
 
 
 # Reading Files
