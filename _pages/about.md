@@ -12,7 +12,7 @@ Our goals are to:
 * help exisiting and new arthropod genome projects find the most appropriate repository for their needs;
 * grow a community around arthropod genomes that works towards improved sequencing, assembly, annotation, and data management standards
 
-For more information, you can read the [paper on the i5k initiative](http://jhered.oxfordjournals.org/content/104/5/595.short), view [publications resulting from the i5k initiative](/publications/), or [get in touch](/contact/).
+For more information, you can read the [paper on the i5k initiative](http://jhered.oxfordjournals.org/content/104/5/595.short), view [publications resulting from the i5k initiative](/publications), or [get in touch](/contact).
 
 These are big goals and we won't be able to do it without you!  Please engage with the community by signing up for our low-volume [Arthropod News mailing list](https://listserv.ksu.edu/?SUBED1=ARTHROPODNEWS&A=1) and attending the annual Arthropod Genomics Symposium held in June ([previous symposia](http://globalhealth.nd.edu/10th-annual-arthropod-genomics-symposium/previous-symposia/)).
 
