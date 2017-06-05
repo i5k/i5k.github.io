@@ -9,7 +9,8 @@ Publications about the i5k initiative:
 - [Levine R. "i5k: the 5,000 insect genome project." American Entomologist 57.2 (2011): 110-113.](https://academic.oup.com/ae/article/57/2/110/6552/i5k-The-5-000-Insect-Genome-Project)
 - [i5K Consortium. "The i5K Initiative: Advancing Arthropod Genomics for Knowledge, Human Health, Agriculture, and the Environment." Journal of Heredity (2013) 104 (5): 595-600.](https://academic.oup.com/jhered/article/104/5/595/906277/The-i5K-Initiative-Advancing-Arthropod-Genomics)
 
-These publications are a direct outcome of the i5k initiative: 
+
+Publications directly resulting from the i5k initiative: 
 
 Database
 - [Poelchau M, et al. "The i5k Workspace@ NAL—enabling genomic data access, visualization and curation of arthropod genomes." Nucleic acids research. (2015) Jan 28;43(D1):D714-9.](https://academic.oup.com/nar/article/43/D1/D714/2439695/The-i5k-Workspace-NAL-enabling-genomic-data-access)
