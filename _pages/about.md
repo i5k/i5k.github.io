@@ -16,4 +16,4 @@ For more information, you can read [papers on the i5k initiative](/publications)
 
 These are big goals and we won't be able to do it without you!  Please engage with the community by signing up for our low Email volume [Arthropod News mailing list](https://listserv.ksu.edu/?SUBED1=ARTHROPODNEWS&A=1) and by attending the annual Arthropod Genomics Symposium held in June ([previous symposia](http://globalhealth.nd.edu/10th-annual-arthropod-genomics-symposium/previous-symposia/)).
 
-<span style="color:blue">**So who is this i5k community?  If you work with arthropods and use genomics then you are a member! **</span>
+**<span style="color:blue">So who is this i5k community?  If you work with arthropods and use genomics then you are a member!</span>**
