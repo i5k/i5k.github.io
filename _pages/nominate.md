@@ -1,4 +1,8 @@
-# Nominate a Species for Sequencing
+---
+title: "Nominate a Species for Sequencing"
+type: single
+permalink: /nominate
+---
 
 After the announcement of the i5k initiative, a call was put out nominate species for sequencing, resulting in a total of 787 nominations between 2011 and 2012.  Anticipating the need for MANY MORE nominations as opportunities arise for sequencing and analysis on a large scale, i5k encourages everyone to continue to participate in this process by nominating arthropod species of interest. i5k is especially interested in having nominations of groups of species potentially useful for addressing fundamental evolutionary questions, or solving critical problems in agriculture and animal health.
 
