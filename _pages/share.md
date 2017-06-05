@@ -14,7 +14,7 @@ Arthropod research communities interested in finding a home for their genome pro
 - Any arthropod: [i5k Workspace@NAL](https://i5k.nal.usda.gov/)
 - Alternatively, you may contact [Ensembl Genomes](http://metazoa.ensembl.org/index.html) with your hosting requests.
 
-All primary data and genome assemblies should be deposited in publicly available [INSDC](http://www.insdc.org/) resources (e.g. [SRA](http://www.ncbi.nlm.nih.gov/sra/) for raw reads, [GenBank](http://www.ncbi.nlm.nih.gov/genbank/) for genome assemblies).
+All primary data and genome assemblies should be deposited in publicly available [International Nucleotide Sequence Database Collaboration (INSDC)](http://www.insdc.org/) resources (e.g. [SRA](http://www.ncbi.nlm.nih.gov/sra/) for raw reads, [GenBank](http://www.ncbi.nlm.nih.gov/genbank/) for genome assemblies).
 
 If you would like to add your database to this list, please [contact us](/_pages/contact).
 
