@@ -4,7 +4,7 @@ type: single
 permalink: /nominate
 ---
 
-After the announcement of the i5k initiative, a call was put out nominate species for sequencing, resulting in a total of 787 nominations between 2011 and 2012.  Anticipating the need for MANY MORE nominations as opportunities arise for sequencing and analysis on a large scale, i5k encourages everyone to continue to participate in this process by nominating arthropod species of interest. i5k is especially interested in having nominations of groups of species potentially useful for addressing fundamental evolutionary questions, or solving critical problems in agriculture and animal health.
+After the announcement of the i5k initiative, a call was put out to nominate species for sequencing, resulting in a total of 787 nominations between 2011 and 2012.  Of these, 28 species were selected for the [i5k Pilot Project](https://www.hgsc.bcm.edu/arthropods/i5k).  Anticipating the need for MANY MORE nominations as opportunities arise for sequencing and analysis on a large scale, i5k encourages everyone to continue to participate in this process by nominating arthropod species of interest. i5k is especially interested in having nominations of groups of species potentially useful for addressing fundamental evolutionary questions, or solving critical problems in agriculture and animal health.
 
 **To nominate a species, please fill out our nomination form [here](https://goo.gl/forms/BoROaCUl6WB4Yl3t1).**
 
@@ -18,3 +18,4 @@ Species prioritization criteria are under consideration, but will be based on:
 - Feasibility for accomplishing a project with current technology considering such factors as availability of inbred strains and associated genetic and genomic resources
 - Strong project leadership and broad community support
  
+We highly encourage those with access to specimens to deposit material into a [Global Genome Biodiversity Network (GGBN)](http://wiki.ggbn.org/ggbn/About_GGBN) Biodiversity [Repository](http://data.ggbn.org/ggbn_portal/members).
