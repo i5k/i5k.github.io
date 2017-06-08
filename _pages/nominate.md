@@ -12,10 +12,12 @@ Nominations may include new species, updates to the [original nominations](legac
 
 For reference we have compiled a table of all [sequenced and publicly archived arthropod genomes](arthropod_genomes_at_ncbi) as well as the [original community nominations](legacy_i5k_nominations).
 
+<br>
 Species prioritization criteria are under consideration, but will be based on:
 - Relevance and impact including the number and significance of basic and applied areas of investigation that can be addressed with knowledge of a species’ genome
 - Scientific and societal impact in areas such as agriculture, human health, ecosystems, and conservation
 - Feasibility for accomplishing a project with current technology considering such factors as availability of inbred strains and associated genetic and genomic resources
 - Strong project leadership and broad community support
  
-We highly encourage those with access to specimens to deposit material into a [Global Genome Biodiversity Network (GGBN)](http://wiki.ggbn.org/ggbn/About_GGBN) Biodiversity [Repository](http://data.ggbn.org/ggbn_portal/members).
+<br>
+If you have access to specimens, we highly encourage you to deposit material into a [Global Genome Biodiversity Network (GGBN)](http://wiki.ggbn.org/ggbn/About_GGBN) Biodiversity [Repository](http://data.ggbn.org/ggbn_portal/members) for genome-quality sample preservation.  
