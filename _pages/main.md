@@ -5,7 +5,7 @@ type: single
 permalink: /
 ---
 
-<img src="/images/i5k-Figure-details2.png" width="800" height="450">
+<img src="/images/i5k-Figure-details3.png" width="800" height="450">
 
 ## Learn more about i5k: 
 
