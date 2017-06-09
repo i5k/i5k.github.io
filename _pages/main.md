@@ -9,7 +9,7 @@ permalink: /
 
 ## Learn more about i5k: 
 
-* See our Letter to [_Science_](http://science.sciencemag.org/content/331/6023/1386).
+* See our Letter to [_Science_](http://science.sciencemag.org/content/331/6023/1386)
 
 <!---
 Read our latest [news and updates](news/_posts).
@@ -17,17 +17,18 @@ Read our latest [news and updates](news/_posts).
 
 * [About the i5k initiative](about)
 
-* [Arthropod genomes available to date](arthropod_genomes_at_ncbi)
+* [Sequenced Arthropod genomes](arthropod_genomes_at_ncbi)
+
+* [Nominate a species for sequencing](nominate)
 
 <!--
 - [Join the i5k community](community)
 
 - [Embarking on a genome sequencing project (coming soon!)](learn)
 -->
+* [Join the monthly i5k webinar series on techniques, technologies, and best practices](webinar)
 
 * [Deposit and share your data](share)
-
-* [Join the monthly i5k webinar series on techniques, technologies, and best practices](webinar)
 
 <!--
 - [Archived i5k site](archive)
