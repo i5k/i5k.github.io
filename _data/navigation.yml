@@ -3,9 +3,12 @@ main:
 #
 #  - title: "i5K"
 #    url: /
-  - title: "News"
-    url: /news
+#  - title: "News"
+#    url: /news
 
+  - title: "Nominate"
+    url: /nominate
+    
   - title: "About"
     url: /about
 
