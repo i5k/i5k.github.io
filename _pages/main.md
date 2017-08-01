@@ -30,7 +30,7 @@ Read our latest [news and updates](news/_posts).
 
 * [Deposit and share your data](share)
 
-* [View past i5k coordinating committee meeting notes](meeting-notes)
+* [View past i5k coordinating committee meeting notes](/meeting-notes)
 
 <!--
 - [Archived i5k site](archive)
