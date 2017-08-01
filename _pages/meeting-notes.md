@@ -1,7 +1,7 @@
 ---
 title: "i5k coordinating committee meeting notes"
 type: single
-permalink: /meeting_notes
+permalink: /meeting-notes
 ---
 
 ## View notes of past i5k coordinating committee meetings.
