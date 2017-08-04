@@ -38,7 +38,7 @@ __How:__  The webinars will use the AT&T Connect software
 
 | __Date__ | __Talk Information__|
 | ---- | ---- |
-|[September&nbsp;6th](https://www.timeanddate.com/worldclock/fixedtime.html?msg=i5k+webinar&iso=20170906T11&p1=263&ah=1)|<br>TBD|
+|[September&nbsp;6th](https://www.timeanddate.com/worldclock/fixedtime.html?msg=i5k+webinar&iso=20170906T11&p1=263&ah=1)|<br>__Speaker:__ Illumina’s Applied Genomics group<br><br>Details coming soon!|
 
 
 <a name="previous"></a>
