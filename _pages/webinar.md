@@ -38,8 +38,8 @@ __How:__  The webinars will use the AT&T Connect software
 
 | __Date__ | __Talk Information__|
 | ---- | ---- |
-|[September&nbsp;6th](https://www.timeanddate.com/worldclock/fixedtime.html?msg=i5k+webinar&iso=20170906T11&p1=263&ah=1)|<br>__Speaker:__ Illumina’s Applied Genomics group<br><br>Details coming soon!|
-
+|[September&nbsp;6th](https://www.timeanddate.com/worldclock/fixedtime.html?msg=i5k+webinar&iso=20170906T11&p1=263&ah=1)|<br>__CANCELED__ <br>__Speaker:__ Illumina’s Applied Genomics group<br><br>|
+|[October&nbsp;4th](https://www.timeanddate.com/worldclock/fixedtime.html?msg=i5k+webinar&iso=20171004T11&p1=263&ah=1)|<br>_Details coming soon_ <br><br>|
 
 <a name="previous"></a>
 
