@@ -28,7 +28,7 @@ Genomes from the Pilot Project
 - [Papanicolaou A, et al. "The whole genome sequence of the Mediterranean fruit fly, Ceratitis capitata (Wiedemann), reveals insights into the biology and adaptive evolution of a highly invasive pest species." Genome Biology 17.1 (2016): 192.](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-1049-2)
 - [Kolokotronis SO, et al. "The mitogenome of the bed bug Cimex lectularius (Hemiptera: Cimicidae)." Mitochondrial DNA Part B 1.1 (2016): 425-427.](http://www.tandfonline.com/doi/abs/10.1080/23802359.2016.1180268)
 - [Anstead CA, et al. "A blow to the fly—Lucilia cuprina draft genome and transcriptome to support advances in biology and biotechnology." Biotechnology advances 34.5 (2016): 605-620.](http://www.sciencedirect.com/science/article/pii/S0734975016300167)
-- [Schwager EE, et al. "The house spider genome reveals an ancient whole-genome duplication during arachnid evolution." bioRxiv (2017): 106385.](http://biorxiv.org/content/early/2017/02/20/106385)
+- [Schwager EE, et al. "The house spider genome reveals an ancient whole-genome duplication during arachnid evolution." BMC Biology (2017): 15:62.](https://doi.org/10.1186/s12915-017-0399-x)
 - [Gendreau KL, et al. "House spider genome uncovers evolutionary shifts in the diversity and expression of black widow venom proteins associated with extreme toxicity." BMC genomics 18.1 (2017): 178.](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-017-3551-7)
 
 <!---
