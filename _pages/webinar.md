@@ -38,7 +38,7 @@ __How:__  The webinars will use the AT&T Connect software
 
 | __Date__ | __Talk Information__|
 | ---- | ---- |
-|[November&nbsp;1st](https://www.timeanddate.com/worldclock/fixedtime.html?msg=i5k+webinar&iso=20171101T11&p1=263&ah=1)|<br>__Speaker:__ Jonathan Coddington, Director, Global Genome Initiative and Senior Scientist, National Museum of Natural History, Smithsonian Institution__Title:__ Not Too Much Life: the Global Genome Initiative and the Global Genome Biodiversity Network__Summary:__ How much life is there and how is it structured? What strategy will best "illuminate" the dark spaces of genomic knowledge across the tree of life? What progress have we made? What resources are rate-limiting? In  particular, how can collections-based institutions help i5k? Bioinformatics contributions...<br><br>Will slides be released: Yes<br>Will the presentation be recorded: Yes<br><br>|
+|[November&nbsp;1st](https://www.timeanddate.com/worldclock/fixedtime.html?msg=i5k+webinar&iso=20171101T11&p1=263&ah=1)|<br>__Speaker:__ Jonathan Coddington, Director, Global Genome Initiative and Senior Scientist, National Museum of Natural History, Smithsonian Institution<br><br>__Title:__ Not Too Much Life: the Global Genome Initiative and the Global Genome Biodiversity Network<br><br>__Summary:__ How much life is there and how is it structured? What strategy will best "illuminate" the dark spaces of genomic knowledge across the tree of life? What progress have we made? What resources are rate-limiting? In  particular, how can collections-based institutions help i5k? Bioinformatics contributions...<br><br>Will slides be released: Yes<br>Will the presentation be recorded: Yes<br><br>|
 
 <a name="previous"></a>
 
