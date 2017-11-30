@@ -40,7 +40,7 @@ __How:__  The webinars will use the AT&T Connect software
 | ---- | ---- |
 |December&nbsp;5th| *On hiatus* - There will be no December webinar|
 |January&nbsp;3rd| *On hiatus* - There will be no January webinar|
-|[February&nbsp;7th](https://www.timeanddate.com/worldclock/fixedtime.html?msg=i5k+webinar&iso=20180207T11&p1=263&ah=1)|<br>__Speaker:__ TBD <br><br>__Title:__ TBD <br><br>__Summary:__ TBD <br><br>Will slides be released: TBD<br>Will the presentation be recorded: TBD<br><br>|
+|[February&nbsp;7th](https://www.timeanddate.com/worldclock/fixedtime.html?msg=i5k+webinar&iso=20180207T11&p1=263&ah=1)|<br>__Speaker:__ Adam M. Phillippy, Investigator, National Human Genome Research Institute <br><br>__Title:__ TBD <br><br>__Summary:__ TBD <br><br>Will slides be released: TBD<br>Will the presentation be recorded: TBD<br><br>|
 
 
 <a name="previous"></a>
