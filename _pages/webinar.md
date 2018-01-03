@@ -22,7 +22,7 @@ __When:__  First Wednesday of each month from 11am to 12 noon EDT<br>*Event time
 
 __Why:__  Some of the impacts made by i5k are through training and education to promote the adoption of best practices for methodologies, informatics and standards.  Our goal for the webinar series is to provide outreach and education by introducing researchers to a variety of techniques, technologies and best practices to help move their research forward.
 
-__How:__  The webinars will use the AT&T Connect software
+__How:__  The webinars will use the WebEx teleconferencing software
 <br>*We will have 250 connection lines available so please consider gathering in groups where possible to access the webinar.*
 
 | __Connection Type__ | __Details__ |
