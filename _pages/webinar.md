@@ -38,8 +38,6 @@ __How:__  The webinars will use the WebEx teleconferencing software
 
 | __Date__ | __Talk Information__|
 | ---- | ---- |
-|December&nbsp;5th| *On hiatus* - There will be no December webinar|
-|January&nbsp;3rd| *On hiatus* - There will be no January webinar|
 |[February&nbsp;7th](https://www.timeanddate.com/worldclock/fixedtime.html?msg=i5k+webinar&iso=20180207T11&p1=263&ah=1)|<br>__Speaker:__ Adam M. Phillippy, Investigator, National Human Genome Research Institute <br><br>__Title:__ TBD <br><br>__Summary:__ TBD <br><br>Will slides be released: TBD<br>Will the presentation be recorded: TBD<br><br>|
 
 
@@ -64,3 +62,5 @@ __How:__  The webinars will use the WebEx teleconferencing software
 |September&nbsp;6th&nbsp;2017|<br>__CANCELED__ <br>__Speaker:__ Illumina’s Applied Genomics group<br><br>|
 |October&nbsp;4th&nbsp;2017|<br>__Speaker:__ Monica Poelchau and Christopher Childers, USDA-ARS-NAL<br><br>__Title:__ The i5k Workspace@NAL: a pan-Arthropoda genome database<br><br>__Summary:__ The i5k Workspace@NAL mission is to support any arthropod genome project by supplying tools and resources to help further applied genomics research.  Each genome project has search, gene annotation and visualization tools.  We will give an introduction to the workspace, highlighting our resources and services with an emphasis on some of our newer features, such as the new system for starting a project and uploading data and the post annotation QC and Official Gene Set creation pipeline.<br><br>__[Slides](webinar_slides/i5k_webinar-i5k_workspace_Oct04-2017.pdf)__<br>__[Video Recording](https://youtu.be/HYo2RQa4BUI)__<br><br>|
 |November&nbsp;1st|<br>__Speaker:__ Jonathan Coddington, Director, Global Genome Initiative and Senior Scientist, National Museum of Natural History, Smithsonian Institution<br><br>__Title:__ Not Too Much Life: the Global Genome Initiative and the Global Genome Biodiversity Network<br><br>__Summary:__ How much life is there and how is it structured? What strategy will best "illuminate" the dark spaces of genomic knowledge across the tree of life? What progress have we made? What resources are rate-limiting? In  particular, how can collections-based institutions help i5k? Bioinformatics contributions...<br><br>__[Slides](webinar_slides/i5k_webinar_GGI-11-01-2017.pdf)__<br>__[Video Recording](https://youtu.be/hogGBrR4OUI)__<br><br>|
+|December&nbsp;5th| *On hiatus* - There was no December 2017 webinar|
+|January&nbsp;3rd| *On hiatus* - There was no January 2018 webinar|
