@@ -38,7 +38,7 @@ __How:__  The webinars will use the WebEx teleconferencing software
 
 | __Date__ | __Talk Information__|
 | ---- | ---- |
-|[February&nbsp;7th](https://www.timeanddate.com/worldclock/fixedtime.html?msg=i5k+webinar&iso=20180207T11&p1=263&ah=1)|<br>__Speaker:__ Adam M. Phillippy, Investigator, National Human Genome Research Institute <br><br>__Title:__ TBD <br><br>__Summary:__ TBD <br><br>Will slides be released: TBD<br>Will the presentation be recorded: TBD<br><br>|
+|[February&nbsp;7th](https://www.timeanddate.com/worldclock/fixedtime.html?msg=i5k+webinar&iso=20180207T11&p1=263&ah=1)|<br>__Speaker:__ Adam M. Phillippy, Investigator, National Human Genome Research Institute <br><br>__Title:__ The pleasures and perils of assembling insect genomes <br><br>__Summary:__ Many insect species present a formidable genome assembly challenge due to their small body size and highly diverse and repetitive genomes. Emerging technologies such as long-read sequencing, linked read clouds, Hi-C mapping, and optical mapping are helping to address these challenges, but present some new challenges of their own. I will present the common pitfalls of insect genome assembly, and review my recent experience assembling various Aedes and Anopheles mosquito genomes using these technologies. <br><br>Will slides be released: Yes<br>Will the presentation be recorded: Yes<br><br>|
 
 
 <a name="previous"></a>
