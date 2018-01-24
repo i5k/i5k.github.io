@@ -12,23 +12,20 @@ __[Previous Presentations](#previous)__<br>
 ### To get news about the webinar series and other i5k activities, please subscribe to the low E-mail volume Arthropod News [mailing list](https://listserv.ksu.edu/?SUBED1=ARTHROPODNEWS&A=1)<br><br>
 
 <a name="details"></a> 
-Worried about error rates, validation issues, sample sizes or other details of genomic sequencing, assembly and analysis?  Bring your questions and help us have a lively discussion with our speakers.
+Training and education are central to the i5k mission, promoting the adoption of best practices for methodologies, informatics and standards.  Our goal for the webinar series is to provide outreach and education by introducing researchers to a variety of techniques, technologies and best practices to help move their research forward.  Bring your questions and help us have a lively discussion with our speakers.
 
-__Who:__  Webinars are open to all researchers interested in arthropod genomics.
+__When:__  First Wednesday of each month from 11am to 12 noon EDT<br>*Event times vary relative to your timezone. Please click the date in the schedule below to confirm the time in your location.*<br>Webinars will be 1 hour long, but presentations will be kept short enough to allow plenty of time for participants to ask questions.
 
-__What:__  Presentations by representatives from genomic technology companies, databases and research groups.  Webinars will be 1 hour long, but presentations will be kept short enough to allow plenty of time for participants to ask questions.
-
-__When:__  First Wednesday of each month from 11am to 12 noon EDT<br>*Event times vary relative to your timezone. Please click the date in the schedule below to confirm the time in your location.*
-
-__Why:__  Some of the impacts made by i5k are through training and education to promote the adoption of best practices for methodologies, informatics and standards.  Our goal for the webinar series is to provide outreach and education by introducing researchers to a variety of techniques, technologies and best practices to help move their research forward.
-
-__How:__  The webinars will use the WebEx teleconferencing software
+To connect, please refer to these instructions for the WebEx teleconference software:
 
 | __Connection Type__ | __Details__ |
 | ---- | ---- |
-|Web Conference Connection|[This connection will allow you to view the video.](https://ars-usda.webex.com/join/glenn.hanes)<br>  You may join your audio through your computer or, if your computer does not support an audio connection, you may connect the audio portion of the webinar via a telephone (see Audio Connection option for details).<br><br>1. Connect to the Web Conference using the WebEx application<br> Using the link above, enter your name and email then select "Join Meeting" to download the application, which will launch once installed.<br><br>2. Connect through your WEB BROWSER without downloading the WebEx application<br> Using the link above, enter your name and email then select "Join by browser". <br><br>The options described can only be selected after entering a name and valid email.  If you have problems connecting, please refer to this [WebEx help page](https://help.webex.com/docs/DOC-5412)|
-|Audio Connection via Telephone|1. USA Access<br> USA Toll-Free: 888-844-9904, then enter Code: 5909637#<br> USA Caller Paid: 816-423-4261, then enter Code: 5909637# <br><br>2. [International Access Numbers](https://www.teleconference.att.com/servlet/glbAccess?process=1&accessNumber=888-8449904&accessCode=5909637&accessNumber2=816-4234261)<br> A number in your country or in a country close to you (may not be toll free).<br><br>3. When prompted, enter the Meeting Access Code: 5909637# <br><br> If you have problems connecting, please refer to this [WebEx help page](https://help.webex.com/docs/DOC-5412)|
+|Web Conference Connection|[This connection will allow you to view the video.](https://ars-usda.webex.com/join/glenn.hanes)<br>  You may join your audio through your computer or, if your computer does not support an audio connection, you may connect the audio portion of the webinar via a telephone (see Audio Connection option for details).<br><br>1. Connect to the Web Conference using the WebEx application<br> Using the link above, enter your name and email then select "Join Meeting" to download the application, which will launch once installed.<br><br>2. Connect through your WEB BROWSER without downloading the WebEx application<br> Using the link above, enter your name and email then select "Join by browser". <br><br>The options described can only be selected after entering a name and valid email.|
+|Audio Connection via Telephone|1. USA Access<br> USA Toll-Free: 888-844-9904, then enter Code: 5909637#<br> USA Caller Paid: 816-423-4261, then enter Code: 5909637# <br><br>2. [International Access Numbers](https://www.teleconference.att.com/servlet/glbAccess?process=1&accessNumber=888-8449904&accessCode=5909637&accessNumber2=816-4234261)<br> A number in your country or in a country close to you (may not be toll free).<br><br>3. When prompted, enter the Meeting Access Code: 5909637# |
 
+Note: All parties are muted on entry and expected to remain muted throughout the meeting. If you wish to speak, temporarily un-mute on your computer or use "*6" on your telephone keypad, if not linked to your computer.
+If you have problems connecting, please refer to this [WebEx help page](https://help.webex.com/docs/DOC-5412).
+<br><br>
  
 
 <a name="current"></a>
@@ -38,6 +35,7 @@ __How:__  The webinars will use the WebEx teleconferencing software
 | __Date__ | __Talk Information__|
 | ---- | ---- |
 |[February&nbsp;7th](https://www.timeanddate.com/worldclock/fixedtime.html?msg=i5k+webinar&iso=20180207T11&p1=263&ah=1)|<br>__Speaker:__ Adam M. Phillippy, Investigator, National Human Genome Research Institute <br><br>__Title:__ The pleasures and perils of assembling insect genomes <br><br>__Summary:__ Many insect species present a formidable genome assembly challenge due to their small body size and highly diverse and repetitive genomes. Emerging technologies such as long-read sequencing, linked read clouds, Hi-C mapping, and optical mapping are helping to address these challenges, but present some new challenges of their own. I will present the common pitfalls of insect genome assembly, and review my recent experience assembling various Aedes and Anopheles mosquito genomes using these technologies. <br><br>Will slides be released: Yes<br>Will the presentation be recorded: Yes<br><br>|
+|[March&nbsp;7th](https://www.timeanddate.com/worldclock/fixedtime.html?msg=i5k+webinar&iso=20180307T11&p1=263&ah=1)|<br>__Speaker:__ Ning Jiang, Professor, Dept. of Horticulture, Michigan State University <br><br>__Title:__ Construction of custom repeat libraries for genome annotation <br><br>__Summary:__ Introduction of background, rationale, and methods for building transposon library prior to gene annotation. <br><br>Will slides be released: Yes<br>Will the presentation be recorded: Yes<br><br>|
 
 
 <a name="previous"></a>
