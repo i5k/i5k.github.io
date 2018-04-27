@@ -1,3 +1,11 @@
 source 'https://rubygems.org'
 gem 'github-pages', '>=175', group: :jekyll_plugins
 gem 'jquery-tablesorter'
+gem 'rinku'
+gem 'email_reply_parser'
+gem 'gemoji'
+gem 'commonmarker'
+gem 'escape_utils'
+gem 'sanitize'
+gem 'rouge'
+gem 'RedCloth'
