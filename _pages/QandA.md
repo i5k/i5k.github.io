@@ -10,7 +10,7 @@ Do you have questions? Submit them for review "here".<br><br>
 
 # How do I get started learning computational biology?
 
-These are many free resources available that cover a variety of topics from learning command line to best practices.  Some resources cited below may have a fee associated with some proportion of their offerings or required in order to gain official certification.
+Here is a sampling of the many free resources available that cover a variety of topics from learning command line operations to best practices for both coding and data analysis.  Some resources cited below may have a fee associated with some proportion of their offerings or require a fee in order to gain official certification.
 
 [Intro to Unix Command Line](http://www.hpc.iastate.edu/guides/unix-introduction)
 <br>This website has a short Unix introduction and eight tutorials (see the left side bar) that walk through numerous useful command line methods. 
