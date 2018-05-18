@@ -10,7 +10,7 @@ Do you have questions? Submit them for review "here".<br><br>
 
 # How do I get started learning computational biology?
 
-These are some of the many free resources available that cover a variety of topics from learning command line to best practices:
+These are many free resources available that cover a variety of topics from learning command line to best practices.  Some resources cited below may have a fee associated with some proportion of their offerings or required in order to gain official certification.
 
 [Intro to Unix Command Line](http://www.hpc.iastate.edu/guides/unix-introduction)
 <br>This website has a short Unix introduction and eight tutorials (see the left side bar) that walk through numerous useful command line methods. 
@@ -25,7 +25,10 @@ These are some of the many free resources available that cover a variety of topi
 <br>Interactive lessons in Python programming and other topics.
 
 [Coursera](https://www.coursera.org/)
-<br>The breadth of courses here is very large, often with many options for any given topic and not limited to computational skills.
+<br>An online course provider with a large breadth of courses, often with many options for any given topic and not limited to computational skills.  Courses of interest under the [Bioinformatics](https://www.coursera.org/browse/life-sciences/bioinformatics) umbrella might be [Bioinformatics Methods I](https://www.coursera.org/learn/bioinformatics-methods-1) and [Genomic Data Science with Galaxy](https://www.coursera.org/learn/galaxy-project).
+
+[edX](https://www.edx.org/)
+<br>Another online course provider with some bioinformatics focused courses like [Analyze your Genome!](https://www.edx.org/course/analyze-genome-uc-san-diegox-binf180-1), [DNA Sequences: Alignments and Analysis](https://www.edx.org/course/dna-sequences-alignments-analysis-usmx-umuc-bif001x-1) and [Statistical Analysis in Bioinformatics](https://www.edx.org/course/statistical-analysis-bioinformatics-usmx-umuc-bif003x-0).
 
 [Rosalind](http://rosalind.info/about/)
 <br>Learn bioinformatics through problem solving.  Problems are based on molecular biology issues and vary in complexity and difficulty.
