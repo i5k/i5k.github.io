@@ -34,9 +34,9 @@ If you have problems connecting, please refer to this [WebEx help page](https://
 
 | __Date__ | __Talk Information__|
 | ---- | ---- |
-|August&nbsp;1st|<br> __CANCELLED__<br><br>|
+|August&nbsp;1st|<br> __CANCELED__<br><br>|
 |[September&nbsp;5th](https://www.timeanddate.com/worldclock/fixedtime.html?msg=i5k+webinar&iso=20180905T11&p1=263&ah=1)|<br>__Speaker:__ Gregg Thomas, Department of Biology and Department of Computer Science, Indiana University <br><br>__Title:__ Large-scale gene family analysis across Arthropods  <br><br>__Summary:__ Gene duplications and losses can have a great impact on the evolution of species by leading to functional innovation. As part of the i5K pilot project, we have completed a phylogenomic analysis of gene families across 76 Arthropod species. During this presentation, I will summarize the methods used to perform this analysis, including phylogeny reconstruction and estimation of ancestral gene content. I will also demonstrate use of the [i5K gene family website](https://cgi.soic.indiana.edu/~grthomas/i5k-web/main.html), which is a resource for the community to analyze the gene family data for their species of interest. <br><br>__Will slides be made available:__ Yes<br>__Will the presentation be recorded:__ Yes<br><br>|
-
+|[October&nbsp;3rd](https://www.timeanddate.com/worldclock/fixedtime.html?msg=i5k+webinar&iso=20181003T11&p1=263&ah=1)|<br>__Speaker:__ Rosa Fernández, Bioinformatics & Genomics Unit, Center for Genomic Regulation, Barcelona (Spain)<br><br>__Title:__ The 'other' arthropods: a phylotranscriptomics approach to species tree reconstruction. <br><br>__Summary:__ In this seminar, I will discuss the latest efforts to shed light on some recalcitrant systematic conundrums in non-insect arthropods (namely arachnids and myriapods), as well as provide an overall view of methodologies and sensitivity analyses commonly used to test hypothesis robustness in species tree reconstruction.<br><br>__Will slides be made available:__ Yes<br>__Will the presentation be recorded:__ No<br><br>|
 
 <a name="previous"></a>
 
