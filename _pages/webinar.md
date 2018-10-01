@@ -35,6 +35,9 @@ If you have problems connecting, please refer to this [WebEx help page](https://
 | __Date__ | __Talk Information__|
 | ---- | ---- |
 |[October&nbsp;3rd](https://www.timeanddate.com/worldclock/fixedtime.html?msg=i5k+webinar&iso=20181003T11&p1=263&ah=1)|<br>__Speaker:__ Rosa Fernández, Bioinformatics & Genomics Unit, Center for Genomic Regulation, Barcelona (Spain)<br><br>__Title:__ The 'other' arthropods: a phylotranscriptomics approach to species tree reconstruction. <br><br>__Summary:__ In this seminar, I will discuss the latest efforts to shed light on some recalcitrant systematic conundrums in non-insect arthropods (namely arachnids and myriapods), as well as provide an overall view of methodologies and sensitivity analyses commonly used to test hypothesis robustness in species tree reconstruction.<br><br>__Will slides be made available:__ Yes<br>__Will the presentation be recorded:__ No<br><br>|
+|[November&nbsp;7th](https://www.timeanddate.com/worldclock/fixedtime.html?msg=i5k+webinar&iso=20181107T11&p1=263&ah=1)|<br>__Speaker:__ Fiona McCarthy, University of Arizona<br><br>__Title:__ Strategies for predicting genome-wide function. <br><br>__Summary:__ The speaker has has 15 years experience in developing resources to support functional genomics in non-model organisms. This presentation will provide background on associating function with genes and discuss way to assign functions to genes in newly sequenced genomes. The focus will be on rapid, genome-wide functional prediction to support functional and comparative genomic studies.<br><br>__Will slides be made available:__ Yes<br>__Will the presentation be recorded:__ Yes<br><br>|
+|December&nbsp;5th|<br>*On hiatus* - There will be no December 2018 webinar<br><br>|
+|January&nbsp;2nd|<br>*On hiatus* - There will be no January 2019 webinar<br><br>|
 
 <a name="previous"></a>
 
