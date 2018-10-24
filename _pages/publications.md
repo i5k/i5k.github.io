@@ -23,9 +23,12 @@ Review papers
 - [Current Opinion in Insect Science issue on Insect genomics * Development and regulation. Volume 7, Pages 1-104 (February 2015)](https://www.sciencedirect.com/journal/current-opinion-in-insect-science/vol/7)
 - Coates BS, et al. "Arthropod genomics research in the United States Department of Agriculture-Agricultural Research Service: Current impacts and future prospects". Trends in Entomology 11 (2015): 1-27.
 - [Current Opinion in Insect Science issue on Insect genomics * Development and regulation. Edited by Christopher Childers, Anna Childers, Stephen Richards, David Angelini, Yuichiro Suzuki. Volume 25, Pages 1-124 (February 2018)](https://www.sciencedirect.com/journal/current-opinion-in-insect-science/vol/25/)
-- Gundersen-Rindal, et al. "Arthropod genomics research in the United States Department of Agriculture-Agricultural Research Service: Applications of RNA interference and gene editing in pest control". Trends in Entomology 13 (2017): 109-137.(http://www.researchtrends.net/tia/article_pdf.asp?in=0&vn=13&tid=20&aid=6045)
+- [Gundersen-Rindal, et al. "Arthropod genomics research in the United States Department of Agriculture-Agricultural Research Service: Applications of RNA interference and gene editing in pest control". Trends in Entomology 13 (2017): 109-137](http://www.researchtrends.net/tia/article_pdf.asp?in=0&vn=13&tid=20&aid=6045)
 
-Genomes from the Pilot Project
+Summary analysis of i5k pilot genomes
+- [Gregg WC, et al. "The Genomic Basis of Arthropod Diversity." bioRxiv 382945; doi: 10.1101/382945](https://www.biorxiv.org/content/early/2018/08/04/382945)
+
+Individual genomes papers from the i5k Pilot Project
 - [Anstead CA, et al. "Lucilia cuprina genome unlocks parasitic fly biology to underpin future interventions." Nature communications 6 (2015).](https://www.nature.com/articles/ncomms8344)
 - [Benoit JB, et al. "Unique features of a global human ectoparasite identified through sequencing of the bed bug genome." Nature communications. (2016) Feb 2;7.](https://www.nature.com/articles/ncomms10165)
 - [McKenna D, et al. "Genome of the Asian longhorned beetle (Anoplophora glabripennis), a globally significant invasive species, reveals key functional and evolutionary innovations at the beetle–plant interface." Genome Biology 17.1 (2016): 227.](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-1088-8?linkId=31075042)
@@ -37,7 +40,6 @@ Genomes from the Pilot Project
 - [Schoville SD, et al. "A model species for agricultural pest genomics: the genome of the Colorado potato beetle, *Leptinotarsa decemlineata* (Coleoptera: Chrysomelidae)" Scientific Reports 8 (2018). doi: 10.1038/s41598-018-20154-1](https://www.nature.com/articles/s41598-018-20154-1)
 - [Poynton HC, et al. "The Toxicogenome of *Hyalella azteca* : A Model for Sediment Ecotoxicology and Evolutionary Toxicology" Environmental Science & Technology 52:10 (2018): 6009-6022. doi: 10.1021/acs.est.8b00837](https://pubs.acs.org/doi/abs/10.1021/acs.est.8b00837)
 - [Armisen D, et al. "The genome of the water strider *Gerris buenoi* reveals expansions of gene repertoires associated with adaptations to life on the water." bioRxiv 242230; doi: 10.1101/242230](https://www.biorxiv.org/content/early/2018/01/03/242230)
-- [Gregg WC, et al. "The Genomic Basis of Arthropod Diversity." bioRxiv 382945; doi: 10.1101/382945](https://www.biorxiv.org/content/early/2018/08/04/382945)
 
 <!---
 unsure this citation fits the criteria for inclusion since they used data, but do not speciically release a genome (many other papers like this one)
