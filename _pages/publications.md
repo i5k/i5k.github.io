@@ -18,8 +18,12 @@ Database
 Best Practices
 - [Richards S and Murali SC. "Best practices in insect genome sequencing: what works and what doesn’t." Current Opinion in Insect Science 7 (2015): 1-7.](http://www.sciencedirect.com/science/article/pii/S2214574515000310)
 
-Applications
+Review papers
 - [Poelchau MF, et al. "Agricultural applications of insect ecological genomics." Current Opinion in Insect Science 13 (2016): 61-69.](http://www.sciencedirect.com/science/article/pii/S2214574515001911)
+- [Current Opinion in Insect Science issue on Insect genomics * Development and regulation. Volume 7, Pages 1-104 (February 2015)](https://www.sciencedirect.com/journal/current-opinion-in-insect-science/vol/7)
+- Coates BS, et al. "Arthropod genomics research in the United States Department of Agriculture-Agricultural Research Service: Current impacts and future prospects". Trends in Entomology 11 (2015): 1-27.
+- [Current Opinion in Insect Science issue on Insect genomics * Development and regulation. Edited by Christopher Childers, Anna Childers, Stephen Richards, David Angelini, Yuichiro Suzuki. Volume 25, Pages 1-124 (February 2018)](https://www.sciencedirect.com/journal/current-opinion-in-insect-science/vol/25/)
+- Gundersen-Rindal, et al. "Arthropod genomics research in the United States Department of Agriculture-Agricultural Research Service: Applications of RNA interference and gene editing in pest control". Trends in Entomology 13 (2017): 109-137.(http://www.researchtrends.net/tia/article_pdf.asp?in=0&vn=13&tid=20&aid=6045)
 
 Genomes from the Pilot Project
 - [Anstead CA, et al. "Lucilia cuprina genome unlocks parasitic fly biology to underpin future interventions." Nature communications 6 (2015).](https://www.nature.com/articles/ncomms8344)
