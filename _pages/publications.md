@@ -30,6 +30,10 @@ Genomes from the Pilot Project
 - [Anstead CA, et al. "A blow to the fly—Lucilia cuprina draft genome and transcriptome to support advances in biology and biotechnology." Biotechnology advances 34.5 (2016): 605-620.](http://www.sciencedirect.com/science/article/pii/S0734975016300167)
 - [Schwager EE, et al. "The house spider genome reveals an ancient whole-genome duplication during arachnid evolution." BMC Biology (2017): 15:62.](https://doi.org/10.1186/s12915-017-0399-x)
 - [Gendreau KL, et al. "House spider genome uncovers evolutionary shifts in the diversity and expression of black widow venom proteins associated with extreme toxicity." BMC genomics 18.1 (2017): 178.](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-017-3551-7)
+- [Schoville SD, et al. "A model species for agricultural pest genomics: the genome of the Colorado potato beetle, *Leptinotarsa decemlineata* (Coleoptera: Chrysomelidae)" Scientific Reports 8 (2018). doi: 10.1038/s41598-018-20154-1](https://www.nature.com/articles/s41598-018-20154-1)
+- [Poynton HC, et al. "The Toxicogenome of *Hyalella azteca* : A Model for Sediment Ecotoxicology and Evolutionary Toxicology" Environmental Science & Technology 52:10 (2018): 6009-6022. doi: 10.1021/acs.est.8b00837](https://pubs.acs.org/doi/abs/10.1021/acs.est.8b00837)
+- [Armisen D, et al. "The genome of the water strider *Gerris buenoi* reveals expansions of gene repertoires associated with adaptations to life on the water." bioRxiv 242230; doi: 10.1101/242230](https://www.biorxiv.org/content/early/2018/01/03/242230)
+- [Gregg WC, et al. "The Genomic Basis of Arthropod Diversity." bioRxiv 382945; doi: 10.1101/382945](https://www.biorxiv.org/content/early/2018/08/04/382945)
 
 <!---
 unsure this citation fits the criteria for inclusion since they used data, but do not speciically release a genome (many other papers like this one)
