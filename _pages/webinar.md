@@ -36,7 +36,7 @@ If you have problems connecting, please refer to this [WebEx help page](https://
 | ---- | ---- |
 |December&nbsp;5th|<br>*On hiatus* - There will be no December 2018 webinar<br><br>|
 |January&nbsp;2nd|<br>*On hiatus* - There will be no January 2019 webinar<br><br>|
-|February&nbsp;6th|<br>TBD <br><br>|
+|February&nbsp;6th|<br>*On hiatus* - There will be no February 2019 webinar<br><br>|
 |[March&nbsp;6th](https://www.timeanddate.com/worldclock/fixedtime.html?msg=i5k+webinar&iso=20190306T11&p1=263&ah=1)|<br>__Speakers:__ Mara Lawniczak, Group Leader, Wellcome Sanger Institute<br>Sarah Kingan, Staff Scientist, Pacific Biosciences<br><br>__Title:__ TBD <br><br>__Summary:__ TBD<br><br>__Will slides be made available:__ Yes<br>__Will the presentation be recorded:__ Yes<br><br>|
 |[April&nbsp;3rd](https://www.timeanddate.com/worldclock/fixedtime.html?msg=i5k+webinar&iso=20190403T11&p1=263&ah=1)|<br>__Speakers:__ Kevin Hackett, Senior National Program Leader, USDA-ARS<br>Gene Robinson, Director of the Carl R. Woese Institute for Genomic Biology, Swanlund Chair, Center for Advanced Study Professor in Entomology and Neuroscience, University of Illinois at Urbana-Champaign<br><br>__Title:__ The Earth BioGenome Project and Ag100Pest Initiative <br><br>__Summary:__ This will be an update of the [EBP](https://www.earthbiogenome.org/) and Ag100Pests efforts, including a report out from the EBP launch in London, October 30, 2018.<br><br>__Will slides be made available:__ Yes<br>__Will the presentation be recorded:__ Yes<br><br>|
 |May&nbsp;1st|<br>TBD <br><br>|
