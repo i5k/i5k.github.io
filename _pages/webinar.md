@@ -34,8 +34,9 @@ If you have problems connecting, please refer to this [WebEx help page](https://
 
 | __Date__ | __Talk Information__|
 | ---- | ---- |
-|[May&nbsp;1st](https://www.timeanddate.com/worldclock/fixedtime.html?msg=i5k+webinar&iso=20190501T11&p1=263&ah=1)|<br>__Speaker:__ Surya Saha, Senior Bioinformatics Analyst, Boyce Thompson Institute, Ithaca, NY<br><br>__Title:__ Lessons from student-driven community annotation of the Asian citrus psyllid genome<br><br>__Summary:__ <br><br>__Will slides be made available:__ Yes<br>__Will the presentation be recorded:__ Yes<br><br>|
+|May&nbsp;1st|<br>__CANCELED__<br><br>|
 |June&nbsp;5th|<br>No webinar in June to accomodate those attending the [12th Annual Arthropod Genomics Symposium at Kansas State University](https://www.k-state.edu/agc/ags/index.html).<br><br>|
+|July&nbsp;3rd|<br>__Speaker:__ TBD<br><br>__Title:__ <br><br>__Summary:__ <br><br>__Will slides be made available:__ ?<br>__Will the presentation be recorded:__ ?<br><br>|
 
 <a name="previous"></a>
 
