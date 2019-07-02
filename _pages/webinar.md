@@ -34,8 +34,7 @@ If you have problems connecting, please refer to this [WebEx help page](https://
 
 | __Date__ | __Talk Information__|
 | ---- | ---- |
-|June&nbsp;5th|<br>No webinar in June to accomodate those attending the [12th Annual Arthropod Genomics Symposium at Kansas State University](https://www.k-state.edu/agc/ags/index.html).<br><br>|
-|July&nbsp;3rd|<br>__Speaker:__ TBD<br><br>__Title:__ <br><br>__Summary:__ <br><br>__Will slides be made available:__ ?<br>__Will the presentation be recorded:__ ?<br><br>|
+|July&nbsp;3rd|<br>*On summer hiatus* - There is no July 2019 webinar<br><br>|
 
 <a name="previous"></a>
 
@@ -76,6 +75,8 @@ If you have problems connecting, please refer to this [WebEx help page](https://
 |March&nbsp;6th,&nbsp;2019|<br>__Speakers:__ Mara Lawniczak, Group Leader, Wellcome Sanger Institute<br>Sarah Kingan, Staff Scientist, Pacific Biosciences<br><br>__Title:__ High quality PacBio genomes from single insects: implications for vector research <br><br>__Summary:__ Recent improvements in library preparation make high quality PacBio genome assembly accessible to projects with limited DNA amounts. We summarize the new low DNA input protocol which requires ~150 ng of genomic DNA, present results from a variety of small-bodied, heterozygous organisms, and discuss the implications of this new method for malaria research.<br><br>__[Webinar Slides - Kingan](webinar_slides/i5k_webinar_PacBio_Kingan_Mar06_2019.pdf)<br>[Webinar Slides - Lawniczak](webinar_slides/i5k_webinar_PacBio_Lawniczak_Mar06_2019.pdf)__<br>__[Video recording](https://youtu.be/2xs9MaofTzE)__<br><br>|
 |April&nbsp;3rd,&nbsp;2019|<br>__Speakers:__ Gene Robinson, Director of the Carl R. Woese Institute for Genomic Biology, Swanlund Chair, Center for Advanced Study Professor in Entomology and Neuroscience, University of Illinois at Urbana-Champaign<br>Anna Childers, Computational Biologist, USDA-ARS<br><br>__Title:__ The Earth BioGenome Project and Ag100Pest Initiative <br><br>__Summary:__ This will be an update of the [EBP](https://www.earthbiogenome.org/) and Ag100Pests efforts, including a report out from the EBP launch in London, October 30, 2018.<br><br>__[Webinar Slides - Robinson](webinar_slides/i5k_webinar_EBP_Robinson_Apr_03_2019.pdf)__ <br> __[Webinar Slides - Childers](webinar_slides/i5K_webinar_Ag100Pest_Childers_Apr_03_2019.pdf)__<br>__[Video recording](https://youtu.be/y68iJOWGIDc)__<br><br>|
 |May&nbsp;1st|<br>__CANCELED__<br><br>|
+|June&nbsp;5th|<br>No webinar in June to accomodate those attending the [12th Annual Arthropod Genomics Symposium at Kansas State University](https://www.k-state.edu/agc/ags/index.html).<br><br>|
+
 
 
 
