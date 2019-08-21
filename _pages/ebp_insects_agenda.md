@@ -1,3 +1,8 @@
+---
+title: "The Insects breakout session for the Earth BioGenome 2019 meeting"
+type: single
+permalink: /ebp_insects_agenda
+---
 **Earth BioGenome meeting 2019 - Insects Session**  **agenda**
 
 **Chairs:** Kevin Hackett, Anna Childers, Monica Poelchau, Susan Brown
