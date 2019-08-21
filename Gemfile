@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-gem 'github-pages', '>=188', group: :jekyll_plugins
+gem 'github-pages', '>=198', group: :jekyll_plugins
 gem 'jquery-tablesorter'
 gem 'rinku'
 gem 'email_reply_parser'
