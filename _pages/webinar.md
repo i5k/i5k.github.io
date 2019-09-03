@@ -34,7 +34,7 @@ If you have problems connecting, please refer to this [WebEx help page](https://
 
 | __Date__ | __Talk Information__|
 | ---- | ---- |
-|September&nbsp;4th|<br>__Summary:__ Community discussion following the Joint VGP/EBP Conference & Workshops held August 27-30, 2019 in New York.  We will review some topics covered during the sessions including a round-up of current sequencing projects, sequencing strategies and standards, and infrastructure for vouchering and databases.  We will focus on next steps and approaches for coordination of sequencing projects.<br><br>|
+|[September&nbsp;4th](https://www.timeanddate.com/worldclock/fixedtime.html?msg=i5k+webinar&iso=20190904T11&p1=263&ah=1)|<br>__Summary:__ Community discussion following the Joint VGP/EBP Conference & Workshops held August 27-30, 2019 in New York.  We will review some topics covered during the sessions including a round-up of current sequencing projects, sequencing strategies and standards, and infrastructure for vouchering and databases.  We will focus on next steps and approaches for coordination of sequencing projects.<br><br>|
 |October&nbsp;2nd|<br> *Announcement coming soon* <br><br>|
 |November&nbsp;6th|<br> *Announcement coming soon* <br><br>|
 
