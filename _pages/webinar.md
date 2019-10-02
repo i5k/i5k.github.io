@@ -34,7 +34,6 @@ If you have problems connecting, please refer to this [WebEx help page](https://
 
 | __Date__ | __Talk Information__|
 | ---- | ---- |
-
 |October&nbsp;2nd|<br> No webinar scheduled <br><br>|
 |November&nbsp;6th|<br> *Announcement coming soon* <br><br>|
 
