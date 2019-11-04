@@ -34,7 +34,7 @@ If you have problems connecting, please refer to this [WebEx help page](https://
 
 | __Date__ | __Talk Information__|
 | ---- | ---- |
-|November&nbsp;6th|<br>__Speaker:__ Mark Daly, Director of Business Development, Dovetail Genomics<br><br>__Title:__ Good Biology Begins with a Great Genome<br><br>__Summary:__ Dovetail’s full de novo assembly services, including new services for annotation and 3D genome topology, new OmniC kits for restriction enzyme-free Hi-C.<br><br>__Will Slides be made available?__ Yes<br>__Will this be recorded?__ Yes<br><br>| 
+|[November&nbsp;6th](https://www.timeanddate.com/worldclock/fixedtime.html?msg=i5k+webinar&iso=20191106T11&p1=263&ah=1)|<br>__Speaker:__ Mark Daly, Director of Business Development, Dovetail Genomics<br><br>__Title:__ Good Biology Begins with a Great Genome<br><br>__Summary:__ Dovetail’s full de novo assembly services, including new services for annotation and 3D genome topology, new OmniC kits for restriction enzyme-free Hi-C.<br><br>__Will Slides be made available?__ Yes<br>__Will this be recorded?__ Yes<br><br>| 
 
 <a name="previous"></a>
 
