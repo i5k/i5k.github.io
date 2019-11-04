@@ -34,7 +34,6 @@ If you have problems connecting, please refer to this [WebEx help page](https://
 
 | __Date__ | __Talk Information__|
 | ---- | ---- |
-|October&nbsp;2nd|<br> No webinar scheduled <br><br>|
 |November&nbsp;6th|<br>__Speaker:__ Mark Daly, Director of Business Development, Dovetail Genomics<br><br>__Title:__ Good Biology Begins with a Great Genome<br><br>__Summary:__ Dovetail’s full de novo assembly services, including new services for annotation and 3D genome topology, new OmniC kits for restriction enzyme-free Hi-C.<br><br>__Will Slides be made available?__ Yes<br>__Will this be recorded?__ Yes<br><br>| 
 
 <a name="previous"></a>
@@ -80,5 +79,7 @@ If you have problems connecting, please refer to this [WebEx help page](https://
 |July&nbsp;3rd,&nbsp;2019|<br>*On summer hiatus* - There was no July 2019 webinar<br><br>|
 |August&nbsp;7th,&nbsp;2019|<br>*On summer hiatus* - There was no August 2019 webinar<br><br>|
 |September&nbsp;4th|<br>__Summary:__ Community discussion following the Joint VGP/EBP Conference & Workshops held August 27-30, 2019 in New York.  We will review some topics covered during the sessions including a round-up of current sequencing projects, sequencing strategies and standards, and infrastructure for vouchering and databases.  We will focus on next steps and approaches for coordination of sequencing projects.<br><br>|
+|October&nbsp;2nd|<br> No webinar scheduled <br><br>|
+
 
 
