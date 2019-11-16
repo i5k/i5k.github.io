@@ -1,0 +1,94 @@
+---
+layout: compress
+---
+
+{% include base_path %}
+
+<!doctype html>
+<html lang="{{ site.locale | slice: 0,2 }}">
+  <head>
+  {% include head.html %}
+  {% include head/custom.html %}
+  {% include scripts.html %}
+    <script src="/javascripts/jquery-1.12.1.min.js" type="text/javascript"></script>
+    <script type="text/javascript">
+		var jQuery_1_12_1 = $.noConflict(true);
+	</script>
+    	<script src="/javascripts/jquery.tablesorter.min.js" type="text/javascript"></script>
+    	<script src="/javascripts/jquery.tablesorter.widgets.min.js"></script>
+    	<script src="/javascripts/table.js"></script>
+    	<link rel="stylesheet" href="/stylesheets/css/modified_table_theme.jui.css" type="text/css" media="print, projection, screen"></link>
+    	<link rel="stylesheet" href="/stylesheets/css/theme.default.css" type="text/css" media="print, projection, screen" ></link>
+    	<link rel="stylesheet" href="/stylesheets/css/jquery-ui.min.css" type="text/css" media="print, projection, screen"></link>
+	</head>
+  <body>
+  {% include browser-upgrade.html %}
+  	{% include masthead.html %}
+  <div style="padding-left: 50px;padding-right:50px;padding-top:10px;">
+    <h1>Sequenced Arthropod Genomes</h1>
+    
+    <!-- Text before table goes here  -->
+    <p>
+      Ever wondered how many arthropod species have a genome sequence available? <br><br>
+      
+      This table summarizes all of the arthropod genome projects archived in an International Nucleotide Sequence Database Collaboration (INSDC) database regardless of assembly completeness or contiguity.  While some species do have sequencing for multiple strains or subspecies, the information here is provided at the species level.  Links to NCBI through the Genome ID provide additional information about all assemblies and their associated metrics, while links through the contig or scaffold N50s provide additional information about the representative genome assembly. <br><br>
+      See the <a href="#FAQ">FAQ</a> below the table for more information about how it was compiled and how you can help improve it. <br><br>      
+      Orders represented: 38<br>
+      Families represented: 163 of <a href="http://ggi.eol.org/taxon/A95F4B88-4D23-A383-7CF3-490C9EC5AA34" target="_blank">2999 Arthropoda Families</a><br>
+      Total species: 430<br>  
+      Last updated: 2019-11-15
+    </p>
+  </div>
+
+<table id="table1" class="tablesorter" role="grid">
+  <thead>
+    <tr>
+    <!-- #|Genus species|Overview|Chromosome|GenomeID-->
+        <th>Order</th>
+        <th>Family</th>
+        <th>Scientific Name</th>
+        <th>Common Name</th>
+        <th>Estimated Genome Size (Mbp)</th>
+        <th>BioProject</th>
+        <th>Published</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% include data/Ag100Pest_table.html%}
+  </tbody>
+</table>
+<script>
+	jQuery_1_12_1(document).ready(function() {
+  		$('table').trigger('update');
+  		$('table').trigger("appendCache");
+	});
+	jQuery_1_12_1('table').trigger('update');
+	jQuery_1_12_1('table').trigger("appendCache");
+</script>
+
+<!-- Text after table goes here  -->
+<div style="padding-left: 50px;padding-right:50px;">
+<a name="FAQ"></a>
+<h2>Frequently Asked Questions</h2> 
+<p>
+<ol type="1">
+  <h3><li>Missing a genome?</li></h3>
+  Genome assemblies for all Arthropoda species submitted to an <a href="http://www.insdc.org" target="_blank">International Nucleotide Sequence Database Collaboration (INSDC)</a> database are included in this table once a <a href="https://www.ncbi.nlm.nih.gov/genome/" target="_blank">Genome Database</a> record has been created at NCBI.  If data for your species of interest has not yet been archived with an INSDC database then we hope you will consider submission in order to make your data accessible to all.  Once new data has been submitted, it may take some time for NCBI to generate a Genome Database record.  This table will be updated regularly and the date of the last release is posted above the table.
+  <h3><li>Incorrect common name or taxonomy?</li></h3>
+  Common name and taxonomy information is pulled from the <a href="https://www.ncbi.nlm.nih.gov/taxonomy" target="_blank">NCBI Taxonomy Database</a>.  Please <a href="https://www.ncbi.nlm.nih.gov/home/about/contact.shtml" target="_blank">contact NCBI</a> to make changes.  Once corrections are reflected in the Taxonomy Database, we will include them with our next table release.
+  <h3><li>Incorrect representative assembly or assembly metrics?</li></h3>
+  Assembly information is pulled from the <a href="https://www.ncbi.nlm.nih.gov/assembly" target="_blank">NCBI Assembly Database</a>. When more than one assembly is available for a species, the metrics from the representative assembly are presented.  If none of the assemblies are designated as the representative assembly, then the metrics for the most recently updated assembly are presented. Please <a href="https://www.ncbi.nlm.nih.gov/home/about/contact.shtml" target="_blank">contact NCBI</a> to make changes.  Once corrections are reflected in the Assembly Database, we will include them with our next table release.
+  <h3><li>Missing or incorrect community genome database?</li></h3>
+  We have attempted to include links to all live community genome databases for the species they represent. However, these databases may host different versions of the genome assembly than the one included in the table above. With the frequent addition of new species and databases, as well as the consolidation of some databases, this list is difficult to maintain. Please help us by submitting any additions or corrections to the list using our <a href="https://goo.gl/forms/lnrGHDYRD76T7ZiM2" target="_blank">feedback form</a>.
+
+</ol>
+</p>
+<br>
+	  Table maintained by Anna Childers
+    <div class="page__footer">
+      <footer>
+        {% include footer.html %}
+      </footer>
+    </div>
+
+</body>
