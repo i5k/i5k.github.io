@@ -8,6 +8,8 @@ The i5k initiative strives to improve communication on arthropod genome sequenci
 
 [Find an athropod genome](arthropod_genomes_at_ncbi)
 
+[Learn more about the Ag100Pest Initiative](ag100pest)
+
 [Learn about setting up an arthropod genome project](learn)
 
 [Share your genome project](share)

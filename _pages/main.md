@@ -24,6 +24,8 @@ Read our latest [news and updates](news/_posts).
 
 * [About the i5k initiative](about)
 
+* [Learn more about the Ag100Pest Initiative](ag100pest)
+
 * [Sequenced Arthropod genomes](arthropod_genomes_at_ncbi)
 
 * [Nominate a species for sequencing](nominate)
