@@ -82,7 +82,7 @@ If you have problems connecting, please refer to this [WebEx help page](https://
 |October&nbsp;2nd,&nbsp;2019|<br> No webinar scheduled <br><br>|
 |November&nbsp;6th,&nbsp;2019|<br>__Speaker:__ Mark Daly, Director of Business Development, Dovetail Genomics<br><br>__Title:__ Good Biology Begins with a Great Genome<br><br>__Summary:__ Dovetail’s full de novo assembly services, including new services for annotation and 3D genome topology, new OmniC kits for restriction enzyme-free Hi-C.<br><br>__Slides coming soon__<br>__Recording coming soon__<br><br>|
 |December&nbsp;4th,&nbsp;2019|<br>__Speaker:__ Olga Vinnere Pettersson, PhD; Project Coordinator at the National Genomics Infrastructure, SciLifeLab, Sweden<br><br>__Title:__ DNA quality requirements for long-read, single molecule sequencing<br><br>__Summary:__ Why is DNA quality crucial for PacBio and Oxford Nanopore sequencing? Can DNA quality influence the sequencing outcome? I’ll cover the main factors that affect DNA quality and give a couple of suggestions how to succeed with DNA extractions.<br><br>__[Slides](webinar_slides/i5k_webinar_Pettersson_Dec-04-2019.pdf)__ <br>__Recording coming soon__ <br><br>| 
-|January&nbsp;1,&nbsp;2020|<br>__Cancelled__|
+|January&nbsp;1,&nbsp;2020|<br> No Webinar scheduled|
 
 
 
