@@ -34,7 +34,7 @@ If you have problems connecting, please refer to this [WebEx help page](https://
 
 | __Date__ | __Talk Information__|
 | ---- | ---- |
-|[December&nbsp;4th](https://www.timeanddate.com/worldclock/fixedtime.html?msg=i5k+webinar&iso=20191204T11&p1=263&ah=1)|<br>__Speaker:__ Olga Vinnere Pettersson, PhD; Project Coordinator at the National Genomics Infrastructure, SciLifeLab, Sweden<br><br>__Title:__ DNA quality requirements for long-read, single molecule sequencing<br><br>__Summary:__ Why is DNA quality crucial for PacBio and Oxford Nanopore sequencing? Can DNA quality influence the sequencing outcome? I’ll cover the main factors that affect DNA quality and give a couple of suggestions how to succeed with DNA extractions.<br><br>__Will Slides be made available?__ Yes<br>__Will this be recorded?__ Yes<br><br>| 
+
 
 <a name="previous"></a>
 
@@ -81,6 +81,7 @@ If you have problems connecting, please refer to this [WebEx help page](https://
 |September&nbsp;4th,&nbsp;2019|<br>__Summary:__ Community discussion following the Joint VGP/EBP Conference & Workshops held August 27-30, 2019 in New York.  We will review some topics covered during the sessions including a round-up of current sequencing projects, sequencing strategies and standards, and infrastructure for vouchering and databases.  We will focus on next steps and approaches for coordination of sequencing projects.<br><br>|
 |October&nbsp;2nd,&nbsp;2019|<br> No webinar scheduled <br><br>|
 |November&nbsp;6th,&nbsp;2019|<br>__Speaker:__ Mark Daly, Director of Business Development, Dovetail Genomics<br><br>__Title:__ Good Biology Begins with a Great Genome<br><br>__Summary:__ Dovetail’s full de novo assembly services, including new services for annotation and 3D genome topology, new OmniC kits for restriction enzyme-free Hi-C.<br><br>__Slides coming soon__<br>__Recording coming soon__<br><br>|
+|December&nbsp;4th,&nbsp;2019|<br>__Speaker:__ Olga Vinnere Pettersson, PhD; Project Coordinator at the National Genomics Infrastructure, SciLifeLab, Sweden<br><br>__Title:__ DNA quality requirements for long-read, single molecule sequencing<br><br>__Summary:__ Why is DNA quality crucial for PacBio and Oxford Nanopore sequencing? Can DNA quality influence the sequencing outcome? I’ll cover the main factors that affect DNA quality and give a couple of suggestions how to succeed with DNA extractions.<br><br>__[Slides](webinar_slides/i5k_webinar_Pettersson_Dec-04-2019.pdf)__ <br>__Will this be recorded?__ Yes<br><br>| 
 
 
 
