@@ -8,10 +8,12 @@ permalink: /
 <img src="/images/i5k-Figure-details3.png" width="800" height="450">
 
 ## ****News****
-## Join us at the Entomology 2019 meeting for the member symposium "Preparing to Sequence the Planet - Starting with our Insect Friends" 
-Insect genomes are critical for performing cutting-edge entomological research. The Earth BioGenome Project provides an opportunity to coordinate larger-scale genome sequencing projects, with the ultimate goal to accelerate biological research. This symposium will inform and foster discussion on how and why to sequence a representative from all extant arthropod families.
-* Symposium place, date and time: America's Center - Room 241; Sunday, November 17, 2019 08:00 AM - 12:00 PM.
-* For more information about the ESA meeting and program: [https://www.entsoc.org/events/annual-meeting](https://www.entsoc.org/events/annual-meeting)
+## Arthropod Genomics Sessions at the [International Plant & Animal Genome XXVIII Meeting](https://www.intlpag.org/2020/) in San Diego, CA Jan 11-15, 2020
+* [Arthropod Genomics and Genome Engineering workshop](https://plan.core-apps.com/pag_2020/event/680f532f0a26f8c2f8d1736dbb03f07d), Saturday Jan 11th at 8:00-10:10 AM in Town & Country, East 2
+* [Application of New Genomic Tools and Techniques in Arthropods](https://plan.core-apps.com/pag_2020/event/91d41f080d91bca973636b572e63fb00), Saturday Jan 11th at 6:20-8:30 PM in Town & Country, Royal Palm Salon 1-2
+* [Beyond Drosophila: Genomics Advances in non-Model Diptera](https://plan.core-apps.com/pag_2020/event/680f532f0a26f8c2f8d1736dbb04c954), Tuesday Jan 14th at 1:30-3:40 PM in Handlery Hotel, Garden 1
+* [Farmed Insects to Feed Future Populations](https://plan.core-apps.com/pag_2020/event/680f532f0a26f8c2f8d1736dbb0456ca), Wednesday Jan 15th at 1:30-3:40 PM, Town & Country, Royal Palm Salon 3-4
+* [Honeybee Genomics](https://plan.core-apps.com/pag_2020/event/91d41f080d91bca973636b572e63db3e), Wednesday, Jan 15th at 1:30-3:40 PM, Town & Country, Pacific Salon 4-5 (2nd Floor)
 
 
 ## Learn more about i5k: 
