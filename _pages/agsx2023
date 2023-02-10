@@ -1,0 +1,67 @@
+---
+type: single
+permalink: /agsx2023
+---
+<img src="/images/AGSx2023_AGR_i5K_Beenome100_6.5_300dpi.jpg" width="100%">
+&nbsp;
+<br>
+# **<span style="color:purple"> AGSx Virtual Symposium Spring 2023 </span>**
+
+__[Key Dates](#key_dates)__<br>
+__[Overview](#overview)__<br>
+__[Registration](#registration)__<br>
+__[Schedule](#schedule)__<br>
+__[Mailing List](#mailing_list)__<br>
+__[Organizing Committee and Production Team](#organizers)__<br>
+
+<a name="key_dates"></a> 
+### **Key Dates**
+[Tuesday, March 7](#mar7) - Session 1: Genomics for Insects as Food and Feed <br/>
+[Tuesday, April 11](#apr11) - Session 2: Insect Genome Biology and Evolution <br/>
+[Tuesday, May 9](#may9) - Session 3: Beenome100 and Comparative Bee Genomics <br/>
+
+<a name="overview"></a> 
+### **Overview**
+Welcome to the AGSx Virtual Symposium Spring 2023.  AGSx is organized and held independent of the annual Arthropod Genomics Symposium (AGS).  Goals of the AGSx symposia are to highlight recent advances in Arthropod genomics, on topics from genome assembly, editing and engineering, and focused areas of insects as food and honey bee research.  This is an opportunity for additional exchange of ideas and community interaction. 
+
+AGSx 2023 is composed of three separate virtual webinars from March to May. Symposia sessions are listed below, and more specific details on speakers will be updated as information becomes available.  Questions and open discussions will follow speaker presentations.
+
+Sessions are being recorded and videos are posted within a week of when the session occurs. Once available you will be able to click "Video Recording" at the top of the speaker information table for a link to the session's recording, available through the [i5k Community YouTube Channel](https://www.youtube.com/c/i5k_community). Subscribe to the channel to be notified when new videos are posted.
+
+<a name="registration"></a> 
+### [**Registration**](https://forms.office.com/g/qURrFvvdre)
+Participants are directed to register for one or all symposia sections free of charge using [**this form**](https://forms.office.com/g/qURrFvvdre).  Additional information on presentations and Zoom connections for each session will be announced via a registration email list.
+
+Additionally, those interested in continuing the discussions from these sessions or engaging more broadly with the i5k community are welcome to join the Arthropod Genomics Community Slack Workspace using [**this link**](https://join.slack.com/t/artgen/shared_invite/zt-1fut112rn-8c4cYs95eFytuCG84G3yvA).
+
+
+<a name="schedule"></a> 
+### **Schedule**
+
+<a name="mar7"></a>
+**<span style="color:purple"> March 7 </span>** <br/>
+Organized and moderated by Kristin Duffield, USDA-ARS,  National Center for Agricultural Utilization Research, Peoria, IL USA and Brenda Oppert, USDA ARS, Stored Product Insect and Engineering Research Unit, Manhattan, KS.
+
+
+| __Session 1: Genomics for Insects as Food and Feed__ | __[March 7, 2023 10am-12pm CST/11am-1pm EST/5-7pm CET](https://www.timeanddate.com/worldclock/fixedtime.html?msg=AGSx+2023+Session+1&iso=20230307T11&p1=419&ah=2)__ |
+| ---- | ----- |
+| <img src="/images/AGSx_2023_speaker__Sellem.JPG/> __[Eliaou Sellem](https://www.linkedin.com/in/elisellem/?originalSubdomain=fr)__ <br><br>[Ynsect](http://www.ynsect.com/en/), Paris, France |<br>__Title:__ Design of reference population for Tenebrio molitor genomic selection<br><br>__Summary:__  *Tenebrio molitor* is now a promising alternative to produce high quality protein products with low environmental impact. However to have a worldwide impact on feed and food alimentation, the production must scale up at industrialization phase and deliver several kilotons of insect proteins per year. This production objective implies an important concentration of individuals in the same place, leading to deal with the genetic diversity and the performance of the strains currently farmed. The long range success of the insect farming industry requires a deep understanding of *Tenebrio molitor* genetic dimension. However several innovations, in both area of genetics/genomics and automated phenotyping solutions are necessary to develop an efficient selection scheme. That's why Ÿnsect is leading an ambitious 6 year R&D program called ŸnFABRE, in collaboration with the CEA, Thermo-Fisher and Aprex-Solutions. The main objective of this project is to develop all the required tools to propose a genomic selection scheme adapted to our industrial farming conditions. Four main traits will be selected across generations: reproduction, growth, food efficiency and disease resistance. The first year of the project has seen the construction of the population of reference, regrouping 4,000 phenotyped individuals. This population was generated through single pair matings (1 vs 1) by choosing male and female as distantly related as possible. About 700 couples were mated per generation and 3 generations were needed to form this reference population under pedigree. Several phenotypes have been assessed, a part of them characterized the couple (daily or total egg laying count, hatching rate, larval growth or feed efficiency) and another part was uniquely linked to individual (pupae - imago - adult weight, sex identification or developmental time egg to pupae). After the laying period, the adults were flash-frozen and DNA extracted. A subset have been fully sequenced, identifying all the SNP candidates to produce the genotyping HD array (~700K), and the rest will be genotyped. The genetic study highlighted a part of the variability of assessed phenotypes directly linked to additive genetic effect. Indeed, heritabilities ranged between 0.21 to 0.45 for reproduction phenotypes, 0.12 to 0.57 for growth parameters and 0.20 to 0.46 for developmental time according to the parameter studied. While waiting for the genotyping results and the calculating of GEBVs, this genetic study will allow us to establish the first lines selected for traits of interest based on EBVs.<br><br>|
+| <img src="/images/AGSx_2023_speaker_Martinez_Castillero.jpg/> __[Maria Martinez Castillero](https://www.linkedin.com/in/mmartinezcastillero/)__ <br><br>[Beta Bugs](https://www.betabugs.uk/), Roslin Innovation Centre, University of Edinburgh, Roslin, United Kingdom |<br>__Title:__ Implementation of genetics and technology for Black Soldier fly production<br><br>__Summary:__ Insect farming industry is on early stages. The main focus has been on rearing conditions and mass production, and currently we can see that genetics is getting the attention. Besides, Black Soldier fly is emerging as the top species for feed as it valorises the waste stream. This presentation showcases the work done in Beta Bugs, an insect genetics company, alongside Roslin Institute, during the past year. The main focus has been putting in place processes and strategies alongside technology tools, enabling us to implement selective breeding and standardise practices in a novel sector in which there is not an ABC of how a breeding programme should be implemented and we are learning as we go.<br><br>|
+| <img src="/images/AGSx_2023_speaker__Espinoza.jpg/> __[Elida Espinoza](https://www.linkedin.com/in/elidaespinoza/)__ <br><br>Research Entomologist (Genetics), Genetics R&D at [EnviroFlight](https://www.enviroflight.net/), Apex, North Carolina |<br>__Title:__ Creating an efficient breeding program for the black soldier fly (*Hermetia illucens*)<br><br>__Summary:__ *coming soon*<br><br>|
+
+
+<a name="mailing_list"></a> 
+### **Mailing List**
+To keep up to date with news about this conferece, the i5k webinar series and other i5k activities, please subscribe to the Arthropod News [mailing list](https://listserv.ksu.edu/?SUBED1=ARTHROPODNEWS&A=1). Email frequency is typically very low.
+
+<a name="organizers"></a> 
+### **Organizing Committee and Production Team**
+This virtual symposium series was brought to you through the efforts of the following organizing committee and production team:
+- [Brenda Oppert](https://www.ars.usda.gov/plains-area/mhk/cgahr/spieru/people/brenda-oppert/), USDA-ARS, Manhattan, KS, USA
+- [Kristin Duffield](https://www.ars.usda.gov/midwest-area/peoria-il/national-center-for-agricultural-utilization-research/cbp/people/kristin-duffield/), USDA-ARS, Peoria, IL USA
+- [Lindsey Perkin](https://www.ars.usda.gov/people-locations/person?person-id=53466), USDA-ARS, College Station, TX, USA
+- [Jay Evans](https://www.ars.usda.gov/people-locations/person?person-id=10065), USDA-ARS, Beltsville, MD, USA
+- [Glenn Hanes](https://www.ars.usda.gov/people-locations/person?person-id=2280), USDA-ARS, Beltsville, MD, USA
+- [Anna Childers](https://www.ars.usda.gov/people-locations/person?person-id=51956), USDA-ARS, Beltsville, MD, USA
+- [Robert Waterhouse](https://rmwaterhouse.org), University of Lausanne, Switzerland
+- [Brad Coates](https://www.ars.usda.gov/people-locations/person?person-id=1047), USDA-ARS, Ames, IA, USA
