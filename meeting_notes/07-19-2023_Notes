@@ -1,0 +1,61 @@
+**AGENDA**
+
+**i5K Coordinating Group**
+
+**19 July 2023**
+
+**11:00-12:00 EST**
+
+**Meeting Chair: Brad Coates**
+
+**Attending:** Chris Childers, Monica Poelchau, Marc Halfon, Brad Coates, Glenn Hanes, Anna Childers, Kevin Hackett, Sue Brown, Jay Evans, Kristen Panfilio, Josh Benoit, Sarthok Rahman, Duane McKenna, Brian Scheffler
+
+**Regrets: Rob Waterhouse (away on project meeting)**
+
+- **Approval of previous meeting's minutes.**
+- **New member introductions**
+- **CC member cameo of the month** (None scheduled yet; please consider signing-up!)
+  - Sign-up for future cameos: [https://docs.google.com/document/d/1oM6RfRHYUfH\_9pEH2-vpHv\_f2Ujy-Hfm/edit](https://docs.google.com/document/d/1oM6RfRHYUfH_9pEH2-vpHv_f2Ujy-Hfm/edit)
+- **Working group highlights (can change order)**
+  - Community building and outreach (Lead Brad Coates)
+    - AGS move to September
+    - Brad and Rob are putting together resources on how to run online symposia, and intend to release them to the public in the future
+    - Delegated creation of stock i5K slides; open source to share with the community via post on website/github. Session on i5K revamp and recruitment of new active members at AGS, AGSx and/or ICE2024.
+    - Website revamp, build towards a building a central i5K community genomics hub; seek undergraduate participation in github to complete through conference/workshop grant funded events & funding to build larger community resources. Research Coordination Network (RCN) grants.
+      - How to make i5K appealing to new members?
+      - Public facing description of what i5K does (e.g. mission statement and priorities) and where to post it? The i5K website[http://i5k.github.io/](http://i5k.github.io/) ? Post to social media?
+      - Allow undergrads from PUI permissions to assist in revamp overseen by Chris and/or Anna Childers, with undergrad components coordinated by RJ? Time with onboarding; is best to have students more involved and dedicated for "long-term". Estimate ~10 hrs per week commitments. List contributors on the website for resumes and add code to github repo. Funding through NIFA or NSF targeted towards bit strategic efforts where UGs are involved.
+      - Conference/workshop grant to gauge interested parties for a larger NIFA foundational resource grant; building reusable open source resources.
+      - Building a central i5K Genome Hub; Connections for collaboration, POS committee member recruitment, links to information resources
+      - Train undergrads, grads, and early career scientists. Layer on specific research aims. "Outsource" of experimental work to PUI collaborators. Consult with Surya Saha?
+      - Treat PUIs as genuine collaborators. Pairing student capabilities with projects. Integrate learning experiences through workshops. Building knowledge resources and guides; annotated workflows to add knowledge back to working documents/wikis that are open/shared to the community. How to make it unique independent & curated, or mirrored.
+      - Open source teaching resource similar to Bioinformatics Workbook: [https://github.com/ISUgenomics/bioinformatics-workbook/blob/master/SummaryOld.md](https://github.com/ISUgenomics/bioinformatics-workbook/blob/master/SummaryOld.md) & [https://bioinformaticsworkbook.org/#gsc.tab=0](https://bioinformaticsworkbook.org/#gsc.tab=0)
+
+  - Standards (Lead Monica Poelchau) - we will meet to figure out how to recruit a new lead.
+  - Exec committee (Lead Monica Poelchau) - Discussion on WG recruitment, to support WG capacity, and build community.
+    - Decided on 'round robin' process to choose coordinating committee meeting chairs each month
+    - Added approval of last meeting's minutes to the agenda. Monica will document how she adds minutes to the website so eventually someone else can take over.
+    - We discussed recruitment, and whether we should broadcast/advertise working groups, or have each WG target specific individuals. For now we suggest that WGs recruit specific individuals, but make efforts to engage with individuals who are relevant to their WGs, but are currently outside of the i5k community, to fulfill our goal of community building.
+    - Revisit recruitment efforts after a certain time - is this approach working?
+    - Advertising i5k to the broader community - we should make a concerted effort during AGS, AGSx 2024, ICE 2024 to broadcast revised structure, generate interest in i5k and the working groups. That generates a pool for the WGs. How can we make i5k an appealing activity to be involved with?
+    - We had additional discussions on advertising that overlapped some with the Outreach WG - e.g. revamping the website, better advertisement of the minutes
+    - We plan on discussing succession planning for working groups in our next meeting.
+  - Training (Lead: Sue Brown & Sarthok Rahman)
+    - Planning short (5 minute) training videos on a variety of topics. Meetings are slow due to other obligations in the summer.
+  - Genome Project Coordination (Lead: Duane McKenna; met June 28)
+    - Want to leverage the i5k website to connect people & projects; seek to develop a catalog of ongoing or completed ArtGen projects; plan to use Gforms to populate a viewable spreadsheet
+    - Examine how to reflect "All Arthropod Data" from GoaT on the i5k website to serve the community's needs for an arthropod-level view
+    - Need to build guidelines on how people should connect their projects to i5k umbrella
+    - Discussed goals for the addition of new working group members
+    - Note from Kristen - here's the link to the Oncopeltus GOAT page, with some very mixed and sometimes wrong info: [https://goat.genomehubs.org/record?recordId=7536&result=taxon&taxonomy=ncbi#Oncopeltus%20fasciatus](https://goat.genomehubs.org/record?recordId=7536&result=taxon&taxonomy=ncbi#Oncopeltus%20fasciatus)
+- **Working group additional items** (example: AGS organization discussion from the Outreach WG)
+
+Levering Galaxy workflows for arthropods (e.g. VGP pipelines).
+
+- **Other items from the community germane to the cc** (e.g. relevant EBP updates, new funding opportunities, meetings/conferences)
+
+-
+
+**NEXT MEETING: 16 August 2023**
+
+**11:00-12:00 EDT**
