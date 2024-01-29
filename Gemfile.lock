@@ -1,7 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    RedCloth (4.3.2)
+    RedCloth (4.3.3)
     actionpack (6.0.6.1)
       actionview (= 6.0.6.1)
       activesupport (= 6.0.6.1)
