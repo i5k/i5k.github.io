@@ -6,6 +6,9 @@ permalink: /meeting-notes
 
 ## View notes of past i5k coordinating committee meetings.
 ### 2024
+* Meeting 04/17/2024. [View notes](/meeting_notes/04-17-2024_Notes)
+* Meeting 03/20/2024. [View notes](/meeting_notes/03-20-2024_Notes)
+* Meeting 02/21/2024. [View notes](/meeting_notes/02-21-2024_Notes)
 * Meeting 01/17/2024. [View notes](/meeting_notes/01-17-2024_Notes)
 
 ### 2023
