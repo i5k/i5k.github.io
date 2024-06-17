@@ -9,6 +9,7 @@ permalink: /
 
 <div style="text-align: center;">
 
+| ---- | ----- | ----- |
 | <img src="/images/i5k.png" width="300" alt="About Us"> __[About us](/about)__ | <img src="/images/butterflies-for-homepage.jpg" width="300" alt="Outreach"> __[Outreach](/outreach)__ | <img src="/images/stinkbug-for-hompage.jpg" width="300"> __[The Ag100Pest Project](/ag100pest)__ |
 
 </div>
