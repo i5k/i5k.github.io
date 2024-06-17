@@ -7,10 +7,9 @@ permalink: /
 
 # i5k is an initiative to support arthropod genome projects by promoting best practices; supporting community outreach; and providing recommendations to funding agencies.
 
-| link1 | link2 | link3 |
+
 | ---- | ----- | ----- |
-| ![About us](/images/i5k.png) __[About us](/about)__ |
-| ![Outreach](/images/butterflies-for-homepage.png) __[Outreach](/outreach)__ | ![The Ag100Pest Project](/images/stinkbug-for-homepage.png) __[Outreach](/ag100pest)__ |
+| ![About us](/images/i5k.png) __[About us](/about)__ | <img src="/images/butterflies-for-homepage.jpg" width="500" alt="Outreach"> __[Outreach](/outreach)__ | <img src="images/stinkbug-for-hompage.jpg" width="500"> __[The Ag100Pest Project](/ag100pest)__ |
 
 ## Learn more about i5k: 
 
