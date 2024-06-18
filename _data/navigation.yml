@@ -5,21 +5,21 @@ main:
 #    url: /
 #  - title: "News"
 #    url: /news
+#  - title: "Nominate"
+#    url: /nominate
 
-  - title: "Nominate"
-    url: /nominate
-    
   - title: "About"
     url: /about
 
+  - title: "Outreach"
+    url: /outreach
+
 #  - title: "Community"
 #    url: /community
-
-  - title: "Webinar"
-    url: /webinar
-
-  - title: "Genomes"
-    url: /genomes
+#  - title: "Webinar"
+#    url: /webinar
+#  - title: "Genomes"
+#    url: /genomes
 
   - title: "Archive"
     url: /archive
