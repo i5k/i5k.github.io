@@ -6,8 +6,8 @@ main:
 #  - title: "News"
 #    url: /news
 
-  - title: "Nominate"
-    url: /nominate
+#  - title: "Nominate"
+#    url: /nominate
     
   - title: "About"
     url: /about
@@ -15,11 +15,11 @@ main:
 #  - title: "Community"
 #    url: /community
 
-  - title: "Webinar"
-    url: /webinar
+  - title: "Outreach"
+    url: /outreach
 
-  - title: "Genomes"
-    url: /genomes
+#  - title: "Genomes"
+#    url: /genomes
 
   - title: "Archive"
     url: /archive
