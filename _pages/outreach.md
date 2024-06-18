@@ -8,7 +8,7 @@ __[Conferences](#conferences)__<br>
 __[AGSx Virtual Symposium](#agsx)__<br>
 __[Past Activities](#past)__<br>
 
-__The i5k community is i5k’s best asset!__<br>
+__The i5k Community is i5k’s best asset!__<br>
 This site contains information on many ways you can engage with other members of the i5k Community to promote arthropod genomic research and researchers within the global genomics community.
 
 <a name="social"></a> 
