@@ -1,15 +1,15 @@
 ---
-title: "i5k Outreach Events"
+title: "i5k Outreach"
 type: single
 permalink: /outreach
 ---
-<br>
 __[Connect with the i5k Community](#social)__<br>
 __[Conferences](#conferences)__<br>
 __[AGSx Virtual Symposium](#agsx)__<br>
 __[Past Activities](#past)__<br>
 
-## **Overview**
+__The i5k community is i5k’s best asset!__
+This site contains information on many ways you can engage with the wider i5k Community, including social media platforms as well as in-person and virtual meetings.
 
 <a name="social"></a> 
 ## **Connect with the i5k Community**
