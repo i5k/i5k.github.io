@@ -15,7 +15,7 @@ permalink: /
 
 ## Learn more about i5k: 
 
-* See our Letter to [_Science_](http://science.sciencemag.org/content/331/6023/1386){:target="_blank"}
+* See our Letter to <a href="http://science.sciencemag.org/content/331/6023/1386" target="_blank">Science</a>
 
 * Visit the [i5k Workspace@NAL](https://i5k.nal.usda.gov)
 
