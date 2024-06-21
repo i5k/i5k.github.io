@@ -5,37 +5,22 @@ type: single
 permalink: /
 ---
 
-<img src="/images/i5k-Figure-details3.png" width="800" height="450">
+# The i5k initiative supports arthropod genome projects by promoting best practices; supporting community outreach; and providing recommendations to funding agencies.
+
+
+| <img src="/images/i5k.png" height="200" alt="About Us"> | <img src="/images/butterflies-for-homepage.jpg" height="200" alt="Outreach"> | <img src="/images/stinkbug-for-hompage.jpg" height="200"> |
+| :---: | :---: | :---: |
+| <a href="/about" style="text-align:center">About us</a> | <a href="/outreach" style="text-align:center">Outreach</a> | <a href="/ag100pest" style="text-align:center">The Ag100Pest Project</a> |
 
 
 ## Learn more about i5k: 
 
-* See our Letter to [_Science_](http://science.sciencemag.org/content/331/6023/1386)
+* See our Letter to <a href="http://science.sciencemag.org/content/331/6023/1386" target="_blank">Science</a>
 
-<!---
-Read our latest [news and updates](news/_posts).
---->
-
-* [About the i5k initiative](about)
-
-* [Learn more about the Ag100Pest Initiative](ag100pest)
-
-* [Sequenced Arthropod genomes](arthropod_genomes_at_ncbi)
-
-* [Nominate a species for sequencing](nominate)
-
-<!--
-- [Join the i5k community](community)
-
-- [Embarking on a genome sequencing project (coming soon!)](learn)
--->
-* [Join the monthly i5k webinar series on techniques, technologies, and best practices](webinar)
+* Visit the [i5k Workspace@NAL](https://i5k.nal.usda.gov)
 
 * [Deposit and share your data](share)
 
 * [View past i5k coordinating committee meeting notes](/meeting-notes)
 
-<!--
-- [Archived i5k site](archive)
--->
-
+* [Contact us](contact)
