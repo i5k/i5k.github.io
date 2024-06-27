@@ -1,5 +1,5 @@
 ---
-title: "i5k Outreach"
+title: "i5k Community Building and Outreach"
 type: single
 permalink: /outreach
 ---
@@ -9,7 +9,7 @@ __[AGSx Virtual Symposium](#agsx)__<br>
 __[Past Activities](#past)__<br>
 
 __The i5k Community is i5k’s best asset!__<br>
-This site contains information on many ways you can engage with other members of the i5k Community to promote arthropod genomic research and researchers within the global genomics community.
+We aim to strengthen the network of i5k Community researchers through informational content and career building opportunities and promote arthropod genomic research within the global genomics community.
 
 <a name="social"></a> 
 ## **Connect with the i5k Community**
@@ -36,9 +36,9 @@ Members of the i5k Community host sessions at several conferences throughout the
 
 <a name="agsx"></a> 
 ## **AGSx Virtual Symposium**
-AGSx is a Virtual Symposium hosted annually by the i5k Community in the Spring, typically between February and May, with one session each month focused on a different theme. AGSx is organized and held independent of the annual Arthropod Genomics Symposium (AGS). Goals of the AGSx symposia are to highlight recent advances in Arthropod genomics, on topics from genome assembly, editing and engineering, and focused areas of insects as food and honey bee research. 
+AGSx is a Virtual Symposium hosted annually by the i5k Community in the Spring, typically between February and May, with one session each month focused on a different theme. AGSx is organized and held independent of the annual Arthropod Genomics Symposium (AGS). The AGSx symposia highlights recent advances in basic and applied Arthropod genomics research.
 
-The program for each symposia, including talk abstracts, can be found on their websites linked below. Sessions are recorded and available through the [i5k Community YouTube Channel](https://www.youtube.com/c/i5k_community){:target="_blank" rel="noopener"}.
+The program for each symposia, including talk abstracts, can be found on their websites linked below. Sessions are recorded and available through the [i5k Community YouTube Channel](https://www.youtube.com/c/i5k_community){:target="_blank" rel="noopener"}. Interested in becoming involved as session organizer or speaker? Please [contact us](mailto:ARS-NAL-i5k@usda.gov)!
 
 |          |        |
 |     :---:      | :---         |
