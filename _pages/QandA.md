@@ -43,3 +43,6 @@ Here is a sampling of the many free resources available that cover a variety of 
 <br>Introduction to bioinformatics, experimental design, and data acquisition, wrangling and analysis as well as best practices for _de novo_ and reference based RNAseq analysis.
 
 --Answered by Anna Childers
+
+
+[🔼 Back to top](#Top)
