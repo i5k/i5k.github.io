@@ -20,8 +20,8 @@ main:
 #  - title: "Genomes"
 #    url: /genomes
 
-  - title: "Archive"
-    url: /archive
+#  - title: "Archive"
+#    url: /archive
 
   - title: "Contact"
     url: /contact
