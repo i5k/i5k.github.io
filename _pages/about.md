@@ -11,6 +11,10 @@ As members of the global genomics community, ensure that all insect and other ar
 * Support generation, access, analysis, visualization, and understanding of genomic AND post-genomic data 
 * Present recommendations to fundholders for the support needed to provide new opportunities for arthropod genomics in addressing fundamental research questions. 
 
+## **Who we are**
+We are members of the global genomics community who are passionate about insect genomes, best practices in genomics, and data sharing. If you want to contribute to our mission and vision, please [join us](/contact)!
+
+
 ## **Working Groups**
 __Executive Committee__<br>
      [Monica Poelchau](https://www.ars.usda.gov/people-locations/person?person-id=50213){:target="_blank" rel="noopener"}, [Sue Brown](https://www.k-state.edu/biology/about/people/faculty/brown/){:target="_blank" rel="noopener"}, [Brad Coates](https://www.ars.usda.gov/people-locations/person?person-id=1047){:target="_blank" rel="noopener"}, [Marc Halfon](https://medicine.buffalo.edu/faculty/profile.html?ubit=mshalfon){:target="_blank" rel="noopener"}, [Duane McKenna](https://www.memphis.edu/biology/people/faculty/duane-mckenna.php){:target="_blank" rel="noopener"}
