@@ -11,16 +11,3 @@ permalink: /
 | <img src="/images/i5k-150px.png" alt="About Us"> | <img src="/images/butterflies-for-homepage-small.jpg" alt="Outreach"> | <img src="/images/stinkbug-for-hompage-small.jpg" alt="The Ag100Pest Project"> |
 | :---: | :---: | :---: |
 | <a href="/about" style="text-align:center">About us</a> | <a href="/outreach" style="text-align:center">Outreach</a> | <a href="/ag100pest" style="text-align:center">The Ag100Pest Project</a> |
-
-
-## Learn more about i5k: 
-
-* See our Letter to <a href="http://science.sciencemag.org/content/331/6023/1386" target="_blank">Science</a>
-
-* Visit the [i5k Workspace@NAL](https://i5k.nal.usda.gov)
-
-* [Deposit and share your data](share)
-
-* [View past i5k coordinating committee meeting notes](/meeting-notes)
-
-* [Contact us](contact)
