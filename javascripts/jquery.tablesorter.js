@@ -2345,7 +2345,7 @@
 		// detach tbody but save the position
 		// don't use tbody because there are portions that look for a tbody index (updateCell)
 		processTbody : function( table, $tb, getIt ) {
-			table = $( table )[ 0 ];
+			table = $( table ).filter('table')[0];
 			if ( getIt ) {
 				table.isProcessing = true;
 				$tb.before( '<colgroup class="tablesorter-savemyplace"/>' );
