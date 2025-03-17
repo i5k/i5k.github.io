@@ -2,6 +2,7 @@
 * http://dimsemenov.com/plugins/magnific-popup/
 * Copyright (c) 2013 Dmitry Semenov; */
 ;(function($) {
+	var DOMPurify = require('dompurify');
 
 /*>>core*/
 /**
@@ -504,6 +505,7 @@ MagnificPopup.prototype = {
 			_mfpTrigger('FirstMarkupParse', markup);
 
 			if(markup) {
+				markup = DOMPurify.sanitize(markup);
 				mfp.currTemplate[type] = $(markup);
 			} else {
 				// if there is no markup found we just define that template is parsed
