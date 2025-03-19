@@ -2786,6 +2786,10 @@
 			if (typeof settings.cellHTML === 'string') {
 				settings.cellHTML = DOMPurify.sanitize(settings.cellHTML);
 			}
+			// Sanitize header data
+			if (typeof settings.headerData === 'string') {
+				settings.headerData = DOMPurify.sanitize(settings.headerData);
+			}
 			// Add more sanitization logic as needed for other properties
 		}
 		return settings;
