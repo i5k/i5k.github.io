@@ -2763,10 +2763,16 @@
 	});
 
 	function sanitizeSettings(settings) {
-		// Implement sanitization logic here
-		// For example, ensure selectors are treated as CSS selectors
-		if (settings && typeof settings.sourceSelector === 'string') {
-			settings.sourceSelector = jQuery.escapeSelector(settings.sourceSelector);
+		if (settings) {
+			// Ensure selectors are treated as CSS selectors
+			if (typeof settings.sourceSelector === 'string') {
+				settings.sourceSelector = jQuery.escapeSelector(settings.sourceSelector);
+			}
+			// Sanitize any HTML content using DOMPurify
+			if (typeof settings.htmlContent === 'string') {
+				settings.htmlContent = DOMPurify.sanitize(settings.htmlContent);
+			}
+			// Add more sanitization logic as needed for other properties
 		}
 		return settings;
 	}
