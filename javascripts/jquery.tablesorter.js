@@ -2779,6 +2779,13 @@
 			if (typeof settings.customHTML === 'string') {
 				settings.customHTML = DOMPurify.sanitize(settings.customHTML);
 			}
+			// Sanitize additional properties that could lead to XSS
+			if (typeof settings.rowSelector === 'string') {
+				settings.rowSelector = jQuery.escapeSelector(settings.rowSelector);
+			}
+			if (typeof settings.cellHTML === 'string') {
+				settings.cellHTML = DOMPurify.sanitize(settings.cellHTML);
+			}
 			// Add more sanitization logic as needed for other properties
 		}
 		return settings;
