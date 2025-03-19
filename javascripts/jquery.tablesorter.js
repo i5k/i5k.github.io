@@ -2476,7 +2476,7 @@
 		return this.each( function() {
 			var table = this,
 			// merge & extend config options
-			c = $.extend( true, {}, ts.defaults, settings, ts.instanceMethods );
+			c = $.extend( true, {}, ts.defaults, sanitizeSettings(settings), ts.instanceMethods );
 			// save initial settings
 			c.originalSettings = settings;
 			// create a table from data (build table widget)
@@ -2761,6 +2761,14 @@
 		}
 	});
 
+	function sanitizeSettings(settings) {
+		// Implement sanitization logic here
+		// For example, ensure selectors are treated as CSS selectors
+		if (settings && typeof settings.sourceSelector === 'string') {
+			settings.sourceSelector = jQuery.escapeSelector(settings.sourceSelector);
+		}
+		return settings;
+	}
 })( jQuery );
 
 return jQuery.tablesorter;
