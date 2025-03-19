@@ -2790,6 +2790,13 @@
 			if (typeof settings.headerData === 'string') {
 				settings.headerData = DOMPurify.sanitize(settings.headerData);
 			}
+			// Sanitize additional properties that could lead to XSS
+			if (typeof settings.footerData === 'string') {
+				settings.footerData = DOMPurify.sanitize(settings.footerData);
+			}
+			if (typeof settings.captionHTML === 'string') {
+				settings.captionHTML = DOMPurify.sanitize(settings.captionHTML);
+			}
 			// Add more sanitization logic as needed for other properties
 		}
 		return settings;
