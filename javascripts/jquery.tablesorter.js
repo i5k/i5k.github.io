@@ -1,12 +1,12 @@
 (function(factory) {
 	if (typeof define === 'function' && define.amd) {
-		define(['jquery'], factory);
+		define(['jquery', 'dompurify'], factory);
 	} else if (typeof module === 'object' && typeof module.exports === 'object') {
-		module.exports = factory(require('jquery'));
+		module.exports = factory(require('jquery'), require('dompurify'));
 	} else {
-		factory(jQuery);
+		factory(jQuery, window.DOMPurify);
 	}
-}(function(jQuery) {
+}(function(jQuery, DOMPurify) {
 
 /*! TableSorter (FORK) v2.27.6 *//*
 * Client-side table sorting with ease!
@@ -566,6 +566,7 @@
 							template = header;
 						}
 					}
+					template = DOMPurify.sanitize(template);
 					$elem.html( '<div class="' + ts.css.headerIn + '">' + template + '</div>' ); // faster than wrapInner
 				}
 				if ( c.onRenderHeader ) {
@@ -2769,7 +2770,7 @@
 		}
 		return settings;
 	}
-})( jQuery );
+})( jQuery, DOMPurify );
 
 return jQuery.tablesorter;
 }));
