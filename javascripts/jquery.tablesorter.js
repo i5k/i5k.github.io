@@ -30,6 +30,17 @@
 /*jshint browser:true, jquery:true, unused:false, expr: true */
 ;( function( $ ) {
 	'use strict';
+
+	function sanitizeSettings(settings) {
+		// Implement sanitization logic here
+		// For example, remove any HTML tags from string properties
+		for (var key in settings) {
+			if (settings.hasOwnProperty(key) && typeof settings[key] === 'string') {
+				settings[key] = settings[key].replace(/<[^>]*>?/gm, '');
+			}
+		}
+		return settings;
+	}
 	var ts = $.tablesorter = {
 
 		version : '2.27.6',
@@ -2475,8 +2486,10 @@
 	$.fn.tablesorter = function( settings ) {
 		return this.each( function() {
 			var table = this,
+			// sanitize settings
+			sanitizedSettings = sanitizeSettings(settings),
 			// merge & extend config options
-			c = $.extend( true, {}, ts.defaults, settings, ts.instanceMethods );
+			c = $.extend( true, {}, ts.defaults, sanitizedSettings, ts.instanceMethods );
 			// save initial settings
 			c.originalSettings = settings;
 			// create a table from data (build table widget)
