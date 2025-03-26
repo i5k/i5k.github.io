@@ -1,0 +1,55 @@
+**AGENDA**
+
+**i5K Coordinating Group**
+
+**15 January 2025**
+
+**11:00-12:00 EST**
+
+**Meeting Chair:** Duane McKenna
+
+**Attending:** Josh Benoit, Anna Childers, Chris Childers, Brad Coates, Jay Evans, Marian Goldsmith, Kevin Hackett, Marc Halfon, Glenn Hanes, Duane McKenna, David Molik, Monica Poelchau, Eric Tvedte
+
+**Regrets:**
+
+- **New member introductions**
+- **Working group highlights (can change order)**
+  - Community building and outreach (Brad). No meetings but arranging ones for:
+
+1\. AGS (Scott Emrich) June 2025. Call to work out:
+
+1. Agenda
+2. Organizing sessions and/or recruiting speakers
+3. Registration or informational webpage
+4. Advertising on i5K website, Slack, X (use EBPs), and ListServs
+
+2\. AGS-X (session organizers: Brenda Oppert weevil-omics, Lindsey Perkin; Arthropod Genomics and Genome Biology, and Perot Saelao & David Luecke; Genomic Advances in Non-Model Arthropod Pests). March, April & May 2025.
+
+- - Standards (Monica). Continuing on both papers.
+    - Exec committee (Monica)
+      - The Exec committee put together a draft sheet with tasks for each working group to fill out for recruitment: [i5k tasks and personnel](https://docs.google.com/spreadsheets/d/1bW0D_f6P4qxDfJIV2vfw0VISORo-vC5VgfhCj0Ity4A/edit?usp=drive_link)
+    - Training (Sue)
+    - Genome Project Coordination (Duane): Monica has developed i5k-specific forms and needs feedback on these from those who received them.
+- **Working group additional items** (example: AGS organization discussion from the Outreach WG)
+- **Other items from the community germane to the cc** (e.g. relevant EBP updates, new funding opportunities, meetings/conferences)
+  - Highlights from EBP meeting 1/9/2025:
+  - EBP membership council is voting on language for applications for regional nodes and new members. Regional nodes will need budgets of their own for coordinating activities. Will plug into the EBP secretariat eventually.
+  - Neat new effort - videos of '**the journey of a genome**'. They have pretty good instructions. EBP social media people may be able to help. They'll have a first example out soon. Similar example for Bat10k: <https://www.instagram.com/p/C3GE4LQqG3I/>
+  - Secretariat is having their annual retreat at the end of Jan - if there are any comments on the secretariat, now would be a good time to voice them as they will be discussing these at the retreat
+  - brief **GGBN** (global genome biodiversity network) report as Jonas Astrin is attending: Biobanking network. ~120 collections (museums, botanical gardens, etc). They have an MOU with EBP. Good to connect with genome projects as vouchering is an important aspect of genome sequencing. Here is the GGBN member map: <https://www.ggbn.org/ggbn_portal/members/index> . If any i5k members voucher (yet), would this be helpful for them to know about? Is the repository where beenome vouchers are deposited in this network?
+  - Rob Waterhouse developed a prototype “**GoaT bot**” to detect potential overlaps in GoaT, and Fang Chen and others are running it. The bot should email the contacts with the overlapping species. Additional proposed notification content - species in progress, submitted, etc. Perhaps visualizations included as well. There were some comments that if you have claimed a species but can’t move forward with it, you should remove the entry from GoaT. Also a question of assembly quality - what if there are duplicates, but one will have better quality? The bot did its job for four Beenome100 spp., connecting DToL and Beenome people on those overlaps, likely both will proceed for one (Apis mellifera), perhaps DToL will defer for others as they are just ‘collected’.
+  - **Annotation subcommittee update**: Best to submit transcriptomic data alongside genome data for annotation by RefSeq/Ensembl (as opposed to later). Mentioned that insect annotation tends to be easier than annotation for other taxonomic groups. Also of note that new annotation tools are being developed with new methods (deep learning) that will be much faster - they will need long-read transcriptomic data but this is a promising new direction. That said, Erich reports from NCBI that a small percentage of high quality genomes in NCBI are annotated. NCBI will focus on ordinal genomes first, then go into more depth.
+- **Featured Discussion:**
+- A subcommittee of the community building and outreach working group has updated the i5k website (<https://i5k.github.io/>). We will give you a ‘tour’ of the changes, will go over additional changes that we discussed but haven’t implemented, and will take your feedback on the design and content!
+- Website suggested additions:
+
+1. Include WG member names to the about page.
+2. How to join - Add big “JOIN” button. Add a membership WG to maintain list. Add link to form for submitting professional information, expertise, and include any volunteer/career-building opportunities to join; Glenn to create form?.
+3. Revamp social media. Use EBP social media or retweet i5K X posts to EBPs X
+4. There is a gmail account associated with the YouTube channel that we could use for contact email
+5. Minor suggestion: On home page and elsewhere: Change “Twitter” account to “X”
+6. Another minor suggestion: Change blue color on links to another one which would be clearer to people with red/blue color “blindness” - and for same reason don’t replace with red
+
+**NEXT MEETING: 19 February 2025**
+
+**11:00-12:00 EST**
