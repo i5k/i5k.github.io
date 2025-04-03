@@ -2780,6 +2780,14 @@
 			if (typeof settings.htmlContent === 'string') {
 				settings.htmlContent = DOMPurify.sanitize(settings.htmlContent);
 			}
+			// Sanitize other properties as needed
+			if (typeof settings.anotherProperty === 'string') {
+				settings.anotherProperty = DOMPurify.sanitize(settings.anotherProperty);
+			}
+			// Sanitize any HTML content using DOMPurify
+			if (typeof settings.htmlContent === 'string') {
+				settings.htmlContent = DOMPurify.sanitize(settings.htmlContent);
+			}
 			// Sanitize other properties that could lead to XSS
 			if (typeof settings.tableSelector === 'string') {
 				settings.tableSelector = jQuery.escapeSelector(settings.tableSelector);
