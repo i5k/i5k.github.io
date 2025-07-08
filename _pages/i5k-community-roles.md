@@ -8,12 +8,12 @@ Volunteering with the i5k community has the following benefits:
 - Certificates of membership and fulfillment of a special role;
 - Co-authorship on publications;
 - CV-building activities for many career stages, including undergraduates;
-- Get involved with larger partner initiatives such as the Earth BioGenome Project or European Reference Genome Atlas;
+- Get involved with larger partner initiatives such as the Earth BioGenome Project or European Reference Genome Atlas.
 
 If you are interested:
 
 - read on to learn about the roles we are offering;
-- reach out to [i5k@ars.usda.gov](mailto:i5k@ars.usda.gov);
+- reach out to [i5k@ars.usda.gov](mailto:i5k@ars.usda.gov).
 
 # Roles
  1. [Training working group](#training_working_group)
