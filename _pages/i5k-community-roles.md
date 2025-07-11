@@ -1,3 +1,9 @@
+---
+title: "i5k Community Roles and Opportunities"
+type: single
+permalink: /i5k-community-roles
+---
+
 # New opportunities to contribute to the i5k community
 
 The i5k coordinating committee is looking for new members! We have several new roles to fill that provide outreach and leadership opportunities for the i5k community (meaning – you!).
@@ -25,8 +31,8 @@ If you are interested:
 ## Training working group
 
 - **_Video Editor_**. We are seeking an individual to join the training working group, edit training videos and load them to our YouTube channel (<https://www.youtube.com/c/i5k_community>). You will have some experience editing videos, or be willing to learn how to do so. An ideal candidate for this role would be an undergraduate student. We estimate this role will only take a few hours per year.
-- **_Open Educational Coordinator._** In this role, you will work with the Higher Education Chair to create and curate an online resource with recommended bioinformatics software and training resources, highlighting approaches particularly suitable for arthropod genomes where appropriate. You will work with the website designer to add this resource to the i5k website (<https://i5k.github.io>) and update it. An ideal candidate for this role would be a graduate student or postdoctoral researcher. We estimate this role will take 5-10 hours per month initially, with only a few hours annually after this to maintain the resource.
-- **_Higher Education Chair._** You will determine which insect genomics skills are needed for careers and jobs in entomology, and work with the Open Educational Coordinator to find curricula that train students in those skills, establishing whether content gaps are present or different training modalities are needed. Once you have established and documented your findings, you will champion them within the i5k community. An ideal candidate for this role would be a faculty member with strong insect genomics teaching experience. We estimate this role will take 5-10 hours per month initially, with only a few hours annually after this to update and champion the resource.
+- **_Open Educational Coordinator._** In this role, you will work with the Higher Education Chair to create and curate an online resource with recommended bioinformatics software and training resources, highlighting approaches particularly suitable for arthropod genomes where appropriate. You will work with the Higher Education Chair to determine skill gaps. You will work with the website designer to add this resource to the i5k website (<https://i5k.github.io>) and update it. An ideal candidate for this role would be a graduate student or postdoctoral researcher. We estimate this role will take 5-10 hours per month initially, with only a few hours annually after this to maintain the resource.
+- **_Higher Education Chair._** You will determine which insect genomics skills are needed for careers and jobs in entomology, and work with the Open Educational Coordinator and others to find curricula that train students in those skills, establishing whether content gaps are present or different training modalities are needed. Once you have established and documented your findings, you will champion them within the i5k community. You will be a resource for others teaching insect genomics, connecting them with findings and materials. An ideal candidate for this role would be a faculty member with strong insect genomics teaching experience. We estimate this role will take 5-10 hours per month initially, with only a few hours annually after this to update and champion the resource.
 
 <a name="outreach-and-community-building-working-group"></a> 
 ## Outreach and Community Building working group
