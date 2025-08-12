@@ -1,7 +1,7 @@
 ---
 title: "i5k Governance Charter"
 type: single
-permalink: /i5k-governance-charter.md
+permalink: /i5k-governance-charter
 ---
 
 # i5k Governance Charter
