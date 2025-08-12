@@ -54,7 +54,7 @@ Data associated with the i5k Initiative is archived under the [BioProject PRJNA1
 
 
 ## Learn more
-Find out more through our [publications](/publications), or by [contacting us](/contact).
+Find out more through our [publications](/publications), reading our [governance charter](/i5k-governance-charter) or by [contacting us](/contact).
 
 ## We need you!
 Active participation of the international research community is essential for the success of this initiative. Check out the [outreach](/outreach) page for opportunities to engage with the i5k Community and [contact us](/contact) to join a working group or help with other efforts.
