@@ -4,7 +4,6 @@ type: single
 permalink: /i5k-governance-charter
 ---
 
-# i5k Governance Charter
 1. [Membership](#membership)
 2. [Executive Committee](#executive_committee)
 3. [Standing Committees/Working groups](#standing-committees)
