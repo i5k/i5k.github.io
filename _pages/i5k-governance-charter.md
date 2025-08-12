@@ -1,8 +1,22 @@
-# i5k Governance Charter
+---
+title: "i5k Governance Charter"
+type: single
+permalink: /i5k-governance-charter.md
+---
 
+# i5k Governance Charter
+1. [Membership](#membership)
+2. [Executive Committee](#executive_committee)
+3. [Standing Committees/Working groups](#standing-committees)
+4. [Leadership positions/Officers](#leadership-positions)
+5. [Community Meetings](#community-meetings)
+6. [Adoption and amendment of this Charter](#adoption)
+
+<a name="membership"></a>
 ## 1\. Membership 
 Membership in the i5k will be open to all members of the arthropod genomics community, as self-identified. Membership in the Community will be through self-nomination via a request made through the Membership Form \[1\]. Members will be asked to confirm their membership on an annual basis; failure to do so will result in removal from the active membership rolls.
 
+<a name="executive_committee"></a>
 ## 2\. Executive Committee
 The Executive Committee (EC) will serve as the main decision-making body for purposes of general governance decisions, working group oversight, and short-term priority setting. EC members will serve for renewable two-year terms, which will be staggered so that the entire EC does not turn over at once \[2\]. Appointments to fill vacancies will run for the remainder of the original term, after which the position will be up for renewal/replacement.
 
@@ -24,6 +38,7 @@ The Executive Committee will meet as necessary but typically on a monthly basis 
 
 EC meetings will be open to all i5k members, but only EC members can vote on EC matters. The EC reserves the right to withdraw to a closed Executive Session when requested by a majority of the EC members. The EC may refer matters to the full i5k community for a vote at its discretion.
 
+<a name="standing-committees"></a>
 ## 3\. Standing Committees/Working groups
 i5k will maintain a set of working groups, at the discretion of the current EC and i5k membership. Each working group will have a Chair. Working group Chairs will be members _ex officio_ of the Executive Committee and serve as a liaison between the EC and the working group, to report on working group progress to the EC and to relay recommendations from the EC to the working group, respectively. Working groups and their membership will be listed on the i5k website.
 
@@ -45,6 +60,7 @@ Examples of working groups include:
    - Responds to community requests.
    - Coordinates activities to build a foundation of knowledge, skills and abilities among i5k scientists.
 
+<a name="leadership-positions"></a>
 ## 4\. Leadership positions/Officers
 The EC will appoint members to leadership roles, in addition to working group chairs, as necessary (see §2.5, above). Leadership positions encourage participation, ensure the carrying-out of important functions, and provide Service opportunities to enhance members’ CVs. As such, the EC is encouraged to nominate/appoint members at junior ranks (post-docs, junior faculty) where appropriate. Such positions may be specific to certain working groups, or may lie outside of the working group structure. Examples of useful leadership roles are:
 
@@ -61,6 +77,7 @@ The EC will appoint members to leadership roles, in addition to working group ch
    - Coordinate social media with EBP secretariat and/or other affiliate groups
 - Awards coordinator
 
+<a name="community-meetings"></a>
 ## 5\. Community Meetings (formerly, “coordinating committee meetings”)
 A meeting of the full i5k community will be held annually (“Annual Meeting”) and be open to i5k members and non-members alike; however, only members can vote on any items requiring a vote of the membership. The meeting agenda will be set by the Executive Committee and publicized through the membership list and Slack/social media platforms in advance of the meeting. In addition to the announcement of items of interest to the arthropod genomics community and any relevant new business, the Annual Meeting shall include:
 
@@ -80,6 +97,7 @@ In addition to the Annual Meeting, Community Meetings shall take place at regula
 
 Community Meetings may feature “cameo” presentations (short introductory talks by i5k members) as well as quick informal introductions of new members.
 
+<a name="adoption"></a>
 ## 6\. Adoption and amendment of this Charter
 ### 6a. Adoption
 The procedure for adopting this Charter will be as follows:
