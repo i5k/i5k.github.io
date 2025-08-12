@@ -6,8 +6,10 @@ permalink: /contact
 
 We are a broad inclusive group that spans the globe so there are many ways to get in touch.
 
-- [Contact the i5k coordinating committee](mailto:ARS-NAL-i5k@usda.gov)
+- [Contact or join the i5k community](mailto:ARS-NAL-i5k@usda.gov)
 
+- Learn about new [roles and opportunities](/i5k-community-roles) in the i5k community, and our [governance charter](/i5k-governance-charter).
+  
 - To reach the community: 
   - Sign up for the low-volume [Arthropod News mailing list](https://listserv.ksu.edu/?SUBED1=ARTHROPODNEWS&A=1) to stay in touch
   - [Email us](mailto:ARS-NAL-i5k@usda.gov) to join the [Arthropod Genomics Slack group](https://artgen.slack.com/join/shared_invite/zt-1fut112rn-8c4cYs95eFytuCG84G3yvA#/shared-invite/email)
