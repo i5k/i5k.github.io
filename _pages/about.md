@@ -17,7 +17,7 @@ We are members of the global genomics community who are passionate about insect 
 
 ## **Working Groups**
 __Executive Committee__<br>
-     [Monica Poelchau](https://www.ars.usda.gov/people-locations/person?person-id=50213){:target="_blank" rel="noopener"}, [Sue Brown](https://www.k-state.edu/biology/about/people/faculty/brown/){:target="_blank" rel="noopener"}, [Brad Coates](https://www.ars.usda.gov/people-locations/person?person-id=1047){:target="_blank" rel="noopener"}, [Marc Halfon](https://medicine.buffalo.edu/faculty/profile.html?ubit=mshalfon){:target="_blank" rel="noopener"}, [Duane McKenna](https://www.memphis.edu/biology/people/faculty/duane-mckenna.php){:target="_blank" rel="noopener"}
+     [Monica Poelchau](https://i5k.nal.usda.gov){:target="_blank" rel="noopener"}, [Sue Brown](https://www.k-state.edu/biology/about/people/faculty/brown/){:target="_blank" rel="noopener"}, [Brad Coates](https://www.ars.usda.gov/people-locations/person?person-id=1047){:target="_blank" rel="noopener"}, [Marc Halfon](https://medicine.buffalo.edu/faculty/profile.html?ubit=mshalfon){:target="_blank" rel="noopener"}, [Duane McKenna](https://www.memphis.edu/biology/people/faculty/duane-mckenna.php){:target="_blank" rel="noopener"}, Kevin Hackett
 - Guides i5k’s general direction and governance
 
 __Community Building and Outreach__<br>
