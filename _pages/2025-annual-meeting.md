@@ -17,7 +17,7 @@ Please join us for the 2025 i5k Annual Meeting on October 15th, 10:30am - 12 pm 
    5. Standards (Eric Tvedte)
 6. 11:35 am: Open community discussion. This is your opportunity to comment on i5k’s progress and plans.
  
-**Zoom registration link:** [https://buffalo.zoom.us/meeting/register/Xz_gNSfxQ1mS_xbZKA9F5g#/registration](https://buffalo.zoom.us/meeting/register/Xz_gNSfxQ1mS_xbZKA9F5g#/registration)
+**Meeting registration link:** [https://buffalo.zoom.us/meeting/register/Xz_gNSfxQ1mS_xbZKA9F5g#/registration](https://buffalo.zoom.us/meeting/register/Xz_gNSfxQ1mS_xbZKA9F5g#/registration)
 
 **Keynote presentation abstract:** 
 
