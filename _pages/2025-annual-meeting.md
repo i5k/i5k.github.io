@@ -5,6 +5,8 @@ permalink: /2025_annual_meeting
 ---
 **UPDATE - the 2025 i5k Annual Meeting has a new date! *It will now take place on February 4th, 2026.***
 
+**This event is in the past. You can view the recording of this meeting here: https://youtu.be/plXNInbohKQ**
+
 Please join us for the 2025-2026 i5k Annual Meeting! During this year’s meeting, *which is open to i5k members and non-members alike*, we invite you to a 30-minute keynote presentation by Dr. Rena Schweizer on recent insights from the [Beenome100 Project](https://www.beenome100.org/). You will hear about i5k working group accomplishments, which were established to fulfill [our new mission and vision](https://i5k.github.io/about). Finally, you will get to voice your opinions on i5k’s progress during an open community discussion. Please **[register here](https://buffalo.zoom.us/meeting/register/88Le-MWpS_yNI3xYeZoL_A#/registration)** for this important meeting!
  
 **Agenda (All times Eastern Daylight Time, UTC-4):**
